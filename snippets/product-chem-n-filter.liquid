@@ -521,15 +521,15 @@ product: product
   {% if context == 'product' %}
   {% comment %} Shopify-XR {% endcomment %}
   {% if product.media %}
-  <script type="lazyload2" class="lazyload2">
+  <script type="lazyload2"  >
     window.ShopifyXR=window.ShopifyXR||function(){(ShopifyXR.q=ShopifyXR.q||[]).push(arguments)}
     {% assign models = product.media | where: 'media_type', 'model' | json %}
     ShopifyXR('addModels', {{ models }});
   </script>
   {% endif %}
 
-  <script defer type="lazyload2" class="lazyload2" data-src="https://cdn.shopify.com/shopifycloud/shopify-xr-js/assets/v1.0/shopify-xr.en.js"></script>
-  <script defer type="lazyload2" class="lazyload2" data-src="https://cdn.shopify.com/shopifycloud/model-viewer-ui/assets/v1.0/model-viewer-ui.en.js"></script>
+  <script defer type="lazyload2"   data-src="https://cdn.shopify.com/shopifycloud/shopify-xr-js/assets/v1.0/shopify-xr.en.js"></script>
+  <script defer type="lazyload2"   data-src="https://cdn.shopify.com/shopifycloud/model-viewer-ui/assets/v1.0/model-viewer-ui.en.js"></script>
   {% endif %}
 
   <style>
@@ -669,7 +669,7 @@ product: product
       }
     }
   </style>
-  <script type="lazyload2" class="lazyload2">
+  <script type="lazyload2"  >
     // tabbed content
     // http://www.entheosweb.com/tutorials/css/tabs.asp
     $(".tab_content").hide();
