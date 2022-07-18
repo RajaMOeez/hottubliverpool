@@ -1,0 +1,45 @@
+ <script type="lazyload2"  class"lazyload2"data-src="https://angus.finance-calculator.co.uk/js/imegawidget.js"></script>
+ <script type="lazyload2" class"lazyload2">
+ imegaCalculator.init({
+   apiKey: '2c32b1150328216cbf268091428ed971',
+   description: '{% for item in cart.items %}{{ item.title | remove:'"' }}|||{% endfor %}',
+   insertion: 'append',
+   element: '.checkout_button',
+   amount: '{{ cart.total_price | money_without_currency }}',
+   priceElement: 'body',
+   priceElementInner: '.subtotal .money',
+   margin: '20px 0 0 0',
+   page: 'cart',
+   financeFilter: getImmFinanceFilter()
+ });
+ function getImmFinanceFilter(){
+ var tags = [];
+ var financeTags = [];
+ var financeFilter;
+ {% for item in cart.items %}
+ var itemQuantity = {{ item.quantity }};
+ var i;
+ for (i = 0; i < itemQuantity; i++) {
+   {% for tag in item.product.tags %}
+        tags.push('{{ tag | remove: "'" }}');
+    {% endfor %}
+ }
+ {% endfor %}
+ if(tags){
+     tags.forEach(function(tagName){
+       if(tagName.indexOf('Finance Option') != -1){
+         financeTags.push(tagName);
+       };
+     });
+ }
+ if(financeTags.length === {{ cart.item_count }} && financeTags.filter(immArrUnique).length === 1 ){
+    financeFilter = financeTags[0];
+ } else {
+   financeFilter = 'ALL';
+ }
+ return financeFilter;
+ }
+ function immArrUnique(value, index, self) {
+ return self.indexOf(value) === index;
+ }
+ </script>

@@ -1,0 +1,25 @@
+{%- assign avada_seo_ovr_product_ids = "" -%}
+{% if request.page_type == 'product' %}
+{%- unless avada_seo_ovr_product_ids contains product.id -%}
+{%- capture avada_seo_meta_title -%}{{ product.title }} Hot Tub For Sale - {{ shop.name }} Liverpool, Wirral, Wigan{%- endcapture -%}
+{%- capture avada_seo_meta_description -%}Buy a luxury {{ product.title }} hot tub at {{ shop.name }} city centre showroom with 0% Finance available over 1-5 years. We offer high-quality cheap Jacuzzi Sundance hot tubs for sale covering the Wirral, Liverpool, Merseyside, Cheshire, Wigan and Southport. Call our team today on 0151 662 0284.{%- endcapture -%}
+{% endunless %}
+{% endif %}
+
+{% if request.page_type == 'collection' %}
+{%- unless avada_seo_ovr_collection_ids contains collection.id -%}
+{%- capture avada_seo_meta_title -%}{{ product.vendor }} {{ collection.title }} Luxury {{ product.type }} for sale Liverpool, Wirral, Wigan{%- endcapture -%}
+{%- capture avada_seo_meta_description -%}High-quality hot tubs for sale at {{ shop.name }} city centre showroom with 0% Finance available over 1-5 years. We offer premium and cheap hot tubs covering the Wirral, Liverpool, Wigan, Cheshire, Merseyside and Southport. Call our team today on 0151 662 0284.{%- endcapture -%}
+{% endunless %}
+{% endif %}
+
+{% if avada_seo_meta_title %}
+{%- assign seo_title = avada_seo_meta_title | strip_html | strip -%}
+{%- assign page_title = seo_title -%}
+{%- assign og_title = seo_title -%}
+{% endif %}
+
+{% if avada_seo_meta_description %}
+{%- assign page_description = avada_seo_meta_description | strip_html | strip -%}
+{%- assign og_description = page_description -%}
+{% endif %}

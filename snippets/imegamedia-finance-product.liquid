@@ -1,0 +1,36 @@
+ <script type="lazyload2" class"lazyload2" data-src="https://angus.finance-calculator.co.uk/js/imegawidget.js"></script>
+ <script type="lazyload2" class"lazyload2">
+ imegaCalculator.init({
+   apiKey: '2c32b1150328216cbf268091428ed971',
+   description: '{{ product.title | remove: "'" }}',
+   insertion: 'append',
+   element: '.purchase-details',
+   amount: '{{ product.price | money_without_currency }}',
+   priceElement: 'body',
+   priceElementInner: '.price .money',
+   margin: '20px 0 0 0',
+   width: '100%',
+   financeFilter: getImmFinanceFilter()
+ });
+ function getImmFinanceFilter(){
+   var tags = [];
+   var financeTags = [];
+   var financeFilter;
+   {% for tag in product.tags %}
+   tags.push('{{ tag | remove: "'" }}');
+   {% endfor %}
+   if(tags){
+       tags.forEach(function(tagName){
+         if(tagName.indexOf('Finance Option') != -1){
+           financeTags.push(tagName);
+         };
+       });
+   }
+   if(financeTags.length == 1){
+    financeFilter = financeTags[0];
+   } else {
+     financeFilter = 'ALL';
+   }
+   return financeFilter;
+ }
+ </script>
