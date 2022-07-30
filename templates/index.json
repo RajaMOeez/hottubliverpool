@@ -4,11 +4,11 @@
       "type": "image-with-text-overlay",
       "settings": {
         "wide_display": true,
-        "image": "shopify:\/\/shop_images\/hot_tub_1.jpg",
+        "image": "shopify:\/\/shop_images\/hot_tub_2.png",
         "pretext": "",
         "title": "",
         "subtitle": "",
-        "button1": "ORDER NOW",
+        "button1": "LEARN MORE",
         "button1_link": "shopify:\/\/collections\/energy-efficient-hot-tubs",
         "button1_style": "global-button--banner-highlighted",
         "button2": "",
