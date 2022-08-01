@@ -176,7 +176,7 @@
     "display_last_name": true,
     "use_newsletter_border": true,
     "newsletter_bg": "shopify:\/\/shop_images\/from_10am_to_2pm.png",
-    "image_crop": "none",
+    "image_crop": "center",
     "newsletter_popup_image_align": "right",
     "newsletter_popup_title": "Sunday Showroom Bookings",
     "newsletter_popup_text": "<p>Book a slot NOW via our WhatsApp  07736578751, call us on 0151 662 028 or enter your email in the form below.<\/p>",
