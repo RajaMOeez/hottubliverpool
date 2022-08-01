@@ -12,7 +12,7 @@
         "button1_link": "shopify:\/\/collections\/rexener-finnish-wooden-hot-tubs",
         "button1_style": "global-button--banner-highlighted",
         "button2": "CONTACT US",
-        "button2_link": "shopify:\/\/pages\/contact-us",
+        "button2_link": "{{ shop.brand.favicon_url }}",
         "button2_style": "global-button--banner-highlighted",
         "text_position": "right",
         "text_align": "right",
