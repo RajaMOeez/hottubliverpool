@@ -1,1 +1,1914 @@
-{"current":{"performance":"ludicrous","image_loading_style":"fade-in","custom_scripts":"","logo_color":"#484c4e","regular_color":"#484c4e","headline_color":"#484c4e","headline_footer_text_color":"#484c4e","sub_footer_text_color":"#6b6b6b","sale_color":"#000000","was_price_color":"#8c8b8b","product_hover_text_color":"#484c4e","promo_text_color":"#ffffff","shop_home_page_content_text_color":"#484c4e","newsletter_popup_color":"#484c4e","newsletter_section_color":"#484c4e","collection_filter_color":"#484c4e","top_bar_color":"#484c4e","top_bar_color_hover":"#18a1d7","nav_color":"#000000","nav_color_home":"#000000","nav_color_hover":"#18a1d7","link_color":"#216580","link_hover_color":"#21576c","sidebar_nav_color":"#484c4e","sidebar_nav_color_hover":"#18a1d7","sub_footer_link_color":"#248db6","sub_footer_link_color_hover":"#216580","btn_color":"#18a1d7","btn_hover_color":"#484c4e","btn_text_color":"#ffffff","button_style":"pill_shaped","read_more_style":"button","banner_button_color":"#00b7ff","banner_color":"#ffffff","banner_background_color":"#484c4e","banner_placeholder_background_color":"#8c8b8b","swatch_style":"rounded","table_styles_enabled":true,"slideshow_arrow_size":"bold","arrow_color":"#18a1d7","slideshow_button_style":false,"slideshow_nav_buttons":true,"border_color":"#ffffff","headline_border_color":"#aaaaaa","headline_border":"1","divider_style":"solid","sub_footer_border_color":"#cccccc","sale_banner_color":"#f50f0f","new_banner_color":"#484c4e","sticker_style":"square","search_section_color":"#484c4e","search_section_bg_color":"#cccccc","testimonial_color":"#ffffff","testimonial_bg_color":"#767272","featured_promotions_color":"#fff","featured_promotions_color_hover":"#fff","featured_promotions_background":"#484c4e","featured_promotions_mobile_background":true,"modal_background_color":"#f1f1f1","modal_text_color":"#484c4e","shop_bg_color":"#ffffff","custom_bg":"","repeat_bg":"repeat","bg_fixed":false,"bg_stretched":false,"top_bar_bg_color":"#e6e6e6","top_bar_cart_bg_color":"#e6e6e6","minicart_bg_color":"#ffffff","header_bg_color":"#ffffff","header_background":true,"transparent_header":true,"promo_bg_color":"#18a1d7","shop_home_page_content_bg_color":"#f1f1f1","featured_links_background":"#f1f1f1","product_hover_bg_color":"#ffffff","sub_footer_color":"#f1f1f1","footer_bg":"","footer_bg_stretched":false,"newsletter_popup_background_color":"#ffffff","newsletter_section_background_color":"#e6e6e6","password_page_text_color":"#ffffff","password_page_background_color":"#000000","logo__font":"helvetica_n4","logo_font_style":"uppercase","logo_font_size":20,"top_bar_font_size":13,"top_bar_letter_spacing":1,"nav__font":"archivo_n4","nav_font_style":"none","nav_font_size":15,"nav_letter_spacing":1,"nav_shadow":true,"button_weight":"normal","button_font_style":"uppercase","button_font_size":15,"mega_text_font_size":14,"mega_text_letter_spacing":1,"headline__font":"helvetica_n4","headline_font_style":"none","headline_font_size":38,"headline_letter_spacing":2,"slideshow_headline__font":"helvetica_n4","slideshow_headline_font_style":"none","slideshow_headline_size":48,"slideshow_headline_letter_spacing":1,"slideshow_headline_shadow":true,"slideshow_subtitle__font":"helvetica_n4","slideshow_subtitle_font_style":"none","slideshow_subtitle_size":20,"slideshow_subtitle_letter_spacing":1,"slideshow_shadow":true,"regular__font":"archivo_n4","regular_font_style":"none","regular_font_size":16,"footer_logo_font_size":20,"footer_heading_font_size":18,"footer_font_size":14,"mega_menu_1":true,"mega_menu_2":true,"mega_menu_3":false,"mega_menu_4":false,"mega_menu_5":false,"search_option":"product","search_pagination_type":"basic_pagination","enable_autocomplete":true,"search_to_display":5,"product_form_style":"radio","show_dynamic_checkout_button":true,"display_product_quantity":true,"limit_quantity":false,"display_inventory_left":false,"inventory_threshold":10,"notify_me_form":true,"notify_me_richtext":"<p>Notify me when this product is available:<\/p>","enable_shopify_review_comments":true,"enable_shopify_product_badges":true,"shopify_review_position":"below","enable_shopify_collection_badges":true,"display_vendor":false,"collection_swatches":false,"sale_banner_enabled":true,"thumbnail_hover_enabled":false,"mobile_products_per_row":"2","pagination_type":"load_more_button","display_price":true,"sold_out_text":"Sold Out","free_price_text":"Price TBD","collection_secondary_image":false,"align_height":true,"collection_height":300,"quick_shop_enabled":false,"quick_shop_style":"popup","cart_action":"reload_page","show_lock_icon":false,"display_tos_checkbox":true,"tos_page":"shopify:\/\/policies\/terms-of-service","go_to_checkout":true,"display_special_instructions":true,"display_savings":true,"cart_message":"","show_shipping_calculator":false,"shipping_calculator_default_country":"united","currency_format":"money_with_currency_format","show_multiple_currencies":false,"supported_currencies":"USD CAD AUD GBP EUR JPY","default_currency":"GBP","mailchimp_link":"","secondary_newsletter_banner":true,"newsletter_popup":true,"newsletter_popup_close":true,"newsletter_popup_mobile":false,"newsletter_popup_form":false,"display_first_name":false,"display_last_name":false,"use_newsletter_border":false,"newsletter_bg":"shopify:\/\/shop_images\/BOOK_A_SHOWROOM_VIEWING_FOR_SUNDAY_1.png","image_crop":"none","newsletter_popup_image_align":"right","newsletter_popup_title":"Sunday Showroom Bookings","newsletter_popup_text":"<p>We now offer private showroom viewings on a Sunday. If you would like to book a slot then please WhatsApp us on 07736578751 or call us on 0151 662 0284.<\/p>","newsletter_popup_text_align":"center","popup_button1":"BOOK NOW","popup_button1_link":"https:\/\/hottubliverpool.com\/pages\/contact-us","popup_button1_highlight":true,"popup_button2":"","popup_button2_link":"shopify:\/\/pages\/theme-info","popup_button2_highlight":false,"newsletter_popup_seconds":60,"newsletter_popup_days":"2","twitter_link":"https:\/\/twitter.com\/hottubliverpoo1","facebook_link":"https:\/\/facebook.com\/hottubliverpool","instagram_link":"https:\/\/instagram.com\/hottubliverpool","linkedin_link":"https:\/\/www.linkedin.com\/company\/hot-tub-liverpool","email_link":"sales@hottubliverpool.com","favicon":"shopify:\/\/shop_images\/Asset_3.png","disqus_enabled":false,"disqus_shortname":"","checkout_header_image":"shopify:\/\/shop_images\/banner-checkout-guy.jpg","checkout_logo_image":"shopify:\/\/shop_images\/seoul-logo1-gold.png","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"Helvetica Neue","checkout_body_font":"Helvetica Neue","checkout_accent_color":"#6b6b6b","checkout_button_color":"#18a1d7","checkout_error_color":"#e1255f","size_chart":"","product_thumbs":true,"gallery_arrows":true,"activate_zoom":true,"slideshow_speed":6,"slideshow_animation":"fade","thumbnail_position":"left-thumbnails","enable_thumbnail_slider":true,"quick_shop_display_vendor":false,"quick_shop_full_description":false,"description_words":25,"quick_shop_product_description_position":"top","quick_shop_display_savings":true,"show_payment_button":false,"product_images_position":"left","video_looping":false,"banner_style":"round","og_image_fallback":"shopify:\/\/shop_images\/turbo-seoul-social-share-image.jpg","quick_shop_zoom":false,"quick_shop_gallery_arrows":true,"quick_shop_slideshow_animation":"slide","quick_shop_product_images_position":"left","quick_shop_product_thumbs":true,"quick_shop_thumbnail_position":"bottom-thumbnails","google_link":"","review_position":"below_product_details","logo_font":"Google_Dosis","logo_weight":"normal","nav_font":"Google_Dosis","nav_weight":"normal","headline_font":"Google_Dosis","headline_weight":"normal","headline_font_text":"normal","slideshow_headline_font":"Google_Dosis","slideshow_headline_weight":"lighter","slideshow_headline_font_text":"normal","slideshow_subtitle_font":"Google_Dosis","slideshow_subtitle_weight":"lighter","slideshow_subtitle_font_text":"normal","regular_font":"Arial, 'Helvetica Neue', Helvetica, sans-serif","regular_weight":"lighter","custom_logo":"","password-page-background":"","pagework_page_bg_stretched":true,"featured_promotions_background_hover":"#000","featured_promos_text_color":"#3e3e3e","use_custom_bg_image":false,"use_password_bg_image":true,"twitter_widget":false,"twitter_username":"","twitter_title":"Tweets","twitter_theme":"light","tweet_count":"3","instagram_widget":false,"instagram_client_id":"","instagram_title":"Instagram","instagram_count":"4","products_per_row":"4","pagination_limit":"24","use_custom_footer_image":false,"use_logo":false,"logo_alignment":"center","use_logo_home":false,"use_logo_mobile":false,"logo_width":"160","promo_text":"","phone_number":"","top_bar_menu":"","main_linklist":"main-menu","main_linklist2":"","menu_position":"inline","menu_alignment":"align_left","fixed_header":true,"logo_top_padding":"12","menu_top_padding":"8","cart_icon":"cart","search_enabled":true,"collection_sidebar":false,"product_sidebar":false,"collection_top_sidebar_page":"","collection_sidebar_linklist":"","collection_sidebar_linklist2":"","filter_by_category":false,"filter_by_tag":true,"collection_sidebar_products":true,"collection_sidebar_vendors":false,"collection_sidebar_page":"","footer_logo":false,"footer_linklist_1":"footer","footer_linklist_2":"main-menu","footer_linklist_3":"","footer_content_page":"","copyright_text":"","display_designed_by":true,"display_payment_methods":true,"behind_menu":true,"position_1":"1","position_2":"12","position_3":"7","position_4":"9","position_5":"16","position_6":"15","position_7":"0","position_8":"0","position_9":"0","position_10":"0","position_11":"0","position_12":"0","position_13":"0","position_14":"0","position_15":"0","position_16":"0","position_17":"0","position_18":"0","caption_background":false,"image_1_pretext":"Introducing the","image_1_headline":"Turbo Shopify theme","image_1_subtitle":"from Out of the Sandbox","image_1_text_position":"center","image_1_text_align":"center","image_1_button1_text":"","image_1_button1_link":"","image_1_button1_highlight":false,"image_1_button2_text":"","image_1_button2_link":"","image_1_button2_highlight":false,"image_2_pretext":"","image_2_headline":"","image_2_subtitle":"","image_2_text_position":"left","image_2_text_align":"center","image_2_button1_text":"","image_2_button1_link":"","image_2_button1_highlight":false,"image_2_button2_text":"","image_2_button2_link":"","image_2_button2_highlight":false,"image_3_pretext":"","image_3_headline":"","image_3_subtitle":"","image_3_text_position":"left","image_3_text_align":"center","image_3_button1_text":"","image_3_button1_link":"","image_3_button1_highlight":false,"image_3_button2_text":"","image_3_button2_link":"","image_3_button2_highlight":false,"image_4_pretext":"","image_4_headline":"","image_4_subtitle":"","image_4_text_position":"left","image_4_text_align":"center","image_4_button1_text":"","image_4_button1_link":"","image_4_button1_highlight":false,"image_4_button2_text":"","image_4_button2_link":"","image_4_button2_highlight":false,"image_5_pretext":"","image_5_headline":"","image_5_subtitle":"","image_5_text_position":"left","image_5_text_align":"center","image_5_button1_text":"","image_5_button1_link":"","image_5_button1_highlight":false,"image_5_button2_text":"","image_5_button2_link":"","image_5_button2_highlight":false,"image_6_pretext":"","image_6_headline":"","image_6_subtitle":"","image_6_text_position":"left","image_6_text_align":"left","image_6_button1_text":"","image_6_button1_link":"","image_6_button1_highlight":false,"image_6_button2_text":"","image_6_button2_link":"","image_6_button2_highlight":false,"featured_promos_per_row":"4","featured_promos_grid":"full_width","feature_title_on_image_enabled":true,"featured_links_style":"","feature1_enabled":true,"feature1_link":"","feature1_title":"Promo 1","feature1_description":"Optional description can go here","feature1_button":"","feature2_enabled":true,"feature2_link":"http:\/\/support.outofthesandbox.com\/","feature2_title":"Promo 2","feature2_description":"Visit the Out of the Sandbox Support Center for Turbo-related articles and how-tos","feature2_button":"","feature3_enabled":true,"feature3_link":"","feature3_title":"Promo 3","feature3_description":"Publish Turbo as your main theme when you're ready to launch!","feature3_button":"","feature4_enabled":true,"feature4_link":"https:\/\/twitter.com\/outofthesandbox","feature4_title":"Promo 4","feature4_description":"Let us know when your new shop launches on Twitter","feature4_button":"","feature5_enabled":false,"feature5_link":"","feature5_title":"","feature5_description":"","feature5_button":"","feature6_enabled":false,"feature6_link":"","feature6_title":"","feature6_description":"","feature6_button":"","feature7_enabled":false,"feature7_link":"","feature7_title":"","feature7_description":"","feature7_button":"","feature8_enabled":false,"feature8_link":"","feature8_title":"","feature8_description":"","feature8_button":"","frontpage_linklist":"","frontpage_collections_per_row":"1","frontpage_text_align":"left","frontpage_collection":"frontpage","frontpage_collection_style":"slider","frontpage_products_per_row":"4","frontpage_collection2":"","frontpage_collection_style2":"grid","frontpage_products_per_row2":"4","frontpage_collection_full":"","frontpage_display_description":false,"frontpage_product_stagger":true,"homepage1":"frontpage","homepage2":"","homepage3":"","blog_widget_select":"news","home_page_articles":"4","slideshow_text_animation":"fadeIn","slideshow_text_background":false,"slidespeed":"6000","slide1_enabled":true,"slide1_alt_text":"","slide1_pretext":"A full-width slideshow","slide1_headline":"This is a big heading","slide1_subtitle":"This is a subheading where you can include more text if you wish","slide1_text_position":"right","slide1_text_align":"right","slide1_button1_text":"","slide1_button1_link":"","slide1_button1_highlight":false,"slide1_button2_text":"","slide1_button2_link":"","slide1_button2_highlight":false,"slide2_enabled":true,"slide2_alt_text":"","slide2_pretext":"","slide2_headline":"Just a banner heading here","slide2_subtitle":"","slide2_text_position":"center","slide2_text_align":"center","slide2_button1_text":"Button 1","slide2_button1_link":"","slide2_button1_highlight":true,"slide2_button2_text":"Button 2","slide2_button2_link":"","slide2_button2_highlight":false,"slide3_enabled":false,"slide3_alt_text":"","slide3_pretext":"","slide3_headline":"","slide3_subtitle":"","slide3_text_position":"left","slide3_text_align":"left","slide3_button1_text":"","slide3_button1_link":"","slide3_button1_highlight":false,"slide3_button2_text":"","slide3_button2_link":"","slide3_button2_highlight":false,"slide4_enabled":false,"slide4_alt_text":"","slide4_pretext":"","slide4_headline":"","slide4_subtitle":"","slide4_text_position":"left","slide4_text_align":"left","slide4_button1_text":"","slide4_button1_link":"","slide4_button1_highlight":false,"slide4_button2_text":"","slide4_button2_link":"","slide4_button2_highlight":false,"slide5_enabled":false,"slide5_alt_text":"","slide5_pretext":"","slide5_headline":"","slide5_subtitle":"","slide5_text_position":"left","slide5_text_align":"left","slide5_button1_text":"","slide5_button1_link":"","slide5_button1_highlight":false,"slide5_button2_text":"","slide5_button2_link":"","slide5_button2_highlight":false,"slide6_enabled":false,"slide6_alt_text":"","slide6_pretext":"","slide6_headline":"","slide6_subtitle":"","slide6_text_position":"left","slide6_text_align":"left","slide6_button1_text":"","slide6_button1_link":"","slide6_button1_highlight":false,"slide6_button2_text":"","slide6_button2_link":"","slide6_button2_highlight":false,"banner_video_source":"youtube","aspect_ratio":"16:9","banner_video_autoloop":false,"banner_video_autoplay":false,"banner_video_text":false,"video_dark_overlay":false,"banner_video_id":"eGyhA-DIYvg","banner_video_mp4":"","banner_video_ogv":"","video_pretext":"Full-width video section","video_headline":"Optional heading here","video_subtitle":"","video_text_position":"center","video_text_align":"center","video_button1_text":"Play Video","video_button1_link":"","video_button1_highlight":true,"video_button2_text":"","video_button2_link":"","video_button2_highlight":false,"product_breadcrumb":true,"display_tags":true,"display_type":true,"display_sku":false,"display_collections":true,"display_related_products":true,"products_per_slide":"3","activate_autoplay":false,"product_description_position":"bottom","collection_breadcrumb":true,"collection_tags":true,"collection_sort":true,"display_collection_title":true,"display_vendor_collection":false,"collection_banner_enabled":false,"display_collection_header_title":false,"contact_address":"","zoom_level":"15","contact_banner_enabled":true,"image_contact_headline":"","image_contact_subtitle":"","blog_posts_per_page":"6","blog_articles_per_row":"3","blog_breadcrumb":true,"blog_tags":true,"blog_author":true,"blog_date":true,"blog_comment_count":true,"read_more_link":true,"blog_additional_articles":true,"sidebar_enabled":false,"blog_search":true,"blog_newsletter":true,"display_recent_articles":false,"blog_sidebar_tags":true,"blog_content_page":"","article_banner_enabled":false,"article_banner_darken":true,"blog_banner_enabled":false,"image_blog_headline":"","image_blog_subtitle":"","use_newsletter_image":true,"newsletter_img_alt_text":"","newsletter_banner":true,"use_newsletter_section_bg_image":false,"newsletter_section_text_align":"center","display_social_buttons":true,"social_icons_header":true,"social_icons_footer":true,"checkout_use_header_image":false,"checkout_logo":"","checkout_use_body_background_image":false,"checkout_use_sidebar_background_image":false,"icon_btn_color":"#969696","icon_btn_text_color":"#FFFFFF","quick_shop_color":"#000000","slideshow_arrows":"0","home_blog_slider":"0","promo_banner_global":false,"side_cart_position":"right","slideshow_subtitle_typeface_method":"google_webfonts","headline_animation":"fadeIn","share_banner_color":"#007a87","dropdown_column_links":"10","content_top_padding":"100","tab_background_color":"#ffffff","mobile_header_bg_color":"#666666","mobile_menu_color":"black","shop_use_content_bg_color":false,"shop_content_bg_color":"","shop_use_home_page_content_bg_color":true,"logo_typeface_method":"google_webfonts","logo_websafe_font":"Helvetica, Arial, sans-serif","logo_color_home":"#ffffff","headline_typeface_method":"google_webfonts","headline_websafe_font":"'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif","nav_typeface_method":"google_webfonts","nav_websafe_font":"'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Lucida, Helvetica, Arial, sans-serif","regular_typeface_method":"websafe","regular_websafe_font":"'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif","slideshow_1_enabled":true,"homepage_arrow":true,"image_1_height":"550","image_1_alt_text":"","image_1_text_color":"#ffffff","image_1_button_text":"","image_1_link":"","slideshow_2_enabled":false,"image_2_position":"3","image_2_height":"550","image_2_alt_text":"","image_2_text_color":"#ffffff","image_2_button_text":"","image_2_link":"","slideshow_3_enabled":false,"image_3_position":"5","image_3_height":"550","image_3_alt_text":"","image_3_text_color":"#ffffff","image_3_button_text":"","image_3_link":"","slideshow_4_enabled":false,"image_4_position":"7","image_4_height":"600","image_4_alt_text":"","image_4_text_color":"#ffffff","image_4_button_text":"","image_4_link":"","slideshow_5_enabled":false,"image_5_position":"10","image_5_height":"550","image_5_alt_text":"","image_5_text_color":"#ffffff","image_5_button_text":"","image_5_link":"","slideshow_6_enabled":false,"image_6_position":"2","image_6_height":"550","image_6_alt_text":"","image_6_text_color":"#ffffff","image_6_button_text":"","image_6_link":"","content_1_position":"4","content_2_position":"6","content_3_position":"10","featured_links_position":"2","featured_links":true,"featured_links_count":"3","featured_collections_position":"15","featured_products_position":"8","featured_product_position":"9","featured_blog_position":"13","featured_social_position":"14","instagram_username":"","product_slideshow_animation":"slide","add_to_cart_text":"Add to Cart","related_products_title":"Related Items","inventory_left_text":"items left","homepage_sidebar":false,"collection_sidebar_vendor_text":"Vendors","tags_text":"Filter","side_cart_enabled":true,"tax_included":false,"shipping_calculator_heading":"Shipping rates calculator","shipping_calculator_submit_button_label":"Calculate shipping rates","shipping_calculator_submit_button_label_disabled":"Calculating...","constrain_logo":true,"total_text":"TOTAL","display_social_buttons_blog":true,"newsletter_enabled":true,"newsletter_description":"Sign up to get the latest on sales, new releases and more …","newsletter_success_text":"Thank you for joining our mailing list!","newsletter_system":"shopify","flickr_link":"","newsletter_popup_page":"","newsletter_popup_max_width":"600","blog_widget":"false","instagram_tag_name":"","slideshow_menu":"true","cart_return":"checkout","side_cart_button_position":"bottom","nav_active_color":"#B8C6C6","quick_shop_text":"Quick View","newsletter_text":"News & Updates","footer_link_color":"#55c0d4","footer_link_color_hover":"#fc4c02","footer_color":"#16161d","footer_text_color":"#ffffff","featured_text":"#ffffff","feature1_text":"420x265","feature2_text":"420x265","feature3_text":"420x265","featured_links_weight":"bold","social_icons_enabled":"true","headline_sub_footer_text_color":"#404040","sections":{"header":{"type":"header","settings":{"promo_text":"<p><a href=\"\/pages\/hot-tub-delivery\" title=\"Hot Tub Delivery\"><strong>FREE SHIPPING AND FULL   INSTALLATION ON ALL HOT TUBS<\/strong><\/a><\/p>","social_icons_header":true,"phone_number":"0151 662 0284","top_bar_menu":"","show_cart":true,"cart_icon":"cart","show_locale_selector":true,"show_currency_selector":false,"logo_display_width":205,"logo":"shopify:\/\/shop_images\/Asset_1_f437e7d2-649c-4040-8681-2a43cea6b0a5.png","main_linklist":"main-menu","main_linklist2":"","vertical_menu":true,"dropdown_click":false,"search_enabled":true,"fixed_header":true,"logo_position":"left","logo_alignment":"center","menu_position":"inline","menu_alignment":"align_right"}},"footer":{"type":"footer","blocks":{"d550914f-d8d7-42f8-85a4-e2736d1210e5":{"type":"logo","settings":{"text_align":"left","social_icons_footer":true}},"footer-2":{"type":"link_list","settings":{"menu":"footer","social_icons_footer":false}},"1489780254450":{"type":"link_list","settings":{"menu":"areas-we-cover","social_icons_footer":false}},"3c613641-b9c5-4bf6-ba58-e52b2f2f6099":{"type":"text","settings":{"title":"Finance","content":"<p>Credit is subject to status and affordability. <\/p><p>Terms & Conditions Apply. Hottubliverpool Limited, <\/p><p>FRN: 946472, <\/p><p>15 Century Building, Summers Road, Brunswick Business Park, Liverpool, L3 4BL, is a credit broker, not the lender and is authorised and regulated by the Financial Conduct Authority. <\/p><p>Credit is provided by Novuna Personal Finance, a trading style of Mitsubishi HC Capital<br\/>UK PLC. Authorised and Regulated by the Financial Conduct Authority. <\/p><p>To find out more go to our <a href=\"https:\/\/hottubliverpool.com\/pages\/finance\" target=\"_blank\" title=\"https:\/\/hottubliverpool.com\/pages\/finance\">Finance<\/a> page.<\/p>","social_icons_footer":false}},"c22014ff-4bf3-4344-85a1-0a77333ef94d":{"type":"text","settings":{"title":"Hot Tub Liverpool LTD","content":"<p><strong>EMAIL<\/strong><\/p><p><a href=\"mailto:sales@hottubliverpool.com\">sales@hottubliverpool.com<\/a><\/p><p><strong>PHONE <\/strong><\/p><p><a href=\"tel:01516620284\" title=\"tel:01516620284\">0151 662 0284<\/a><\/p><p><\/p><p><strong>SHOWROOM ADDRESS<\/strong><br\/>Hot Tub Liverpool,<br\/>Century Buildings, 15 Summers Rd,<br\/>Liverpool, L3 4BL<\/p><p>(At the back of Brunswick Business Park)<\/p><p><strong>Opening Times:<\/strong><\/p><p>Mon-Fri 9am-4pm<\/p><p>Sat 10am-2pm.<br\/>Sun - Appointment Only (Call or email us to book)<\/p><p>VAT Number: GB382635479<\/p><p>Company Number: 13164303<\/p><p>Registered in England & Wales<\/p>","social_icons_footer":true}}},"block_order":["d550914f-d8d7-42f8-85a4-e2736d1210e5","footer-2","1489780254450","3c613641-b9c5-4bf6-ba58-e52b2f2f6099","c22014ff-4bf3-4344-85a1-0a77333ef94d"],"settings":{"copyright_text":"","display_designed_by":false,"display_payment_methods":true,"show_locale_selector":true,"show_currency_selector":true}},"1488497250346":{"type":"slideshow","blocks":{"1489599925759":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/homepage-hero-navy2.jpg","pretext":"<p>Exclusively from Out of the Sandbox<\/p>","title":"The Turbo Shopify Theme","subtitle":"","button1":"Find out more","button1_link":"shopify:\/\/pages\/theme-info","button1_style":"global-button--banner","button2":"","button2_link":"","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"original","mobile_image_crop":"center"}},"1489594068647":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/slide-guy-new2.jpg","pretext":"","title":"Hitting the right note","subtitle":"<p>Packed with useful features + Ludicrous Speed mode<\/p>","button1":"Theme Features","button1_link":"shopify:\/\/pages\/theme-info","button1_style":"global-button--banner","button2":"Purchase Theme","button2_link":"https:\/\/outofthesandbox.com\/products\/turbo-theme-seoul","button2_style":"global-button--banner","text_position":"right","text_align":"right","caption_content_background":"original","mobile_image_crop":"center"}}},"block_order":["1489599925759","1489594068647"],"settings":{"wide_display":true,"slideshow_text_animation":"fadeInDown","slideshow_animation":"slide","slideshow_speed":5,"activate_adaptiveHeight":false,"mobile_text_below_image":false,"mobile_text_color":"","css_class":"","custom_css":""}},"collection-template":{"type":"collection-template","settings":{"featured_collection_image":true,"wide_display":true,"image":"shopify:\/\/shop_images\/collec-over-ear.jpg","mobile_image_crop":"none","caption_content_background":"original","display_collection_title":true,"collection_breadcrumb":false,"collection_tags":true,"collection_sort":true,"products_per_row":3,"pagination_limit":24,"toggle":false}},"newsletter":{"type":"newsletter","settings":{"wide_display":true,"display_first_name":false,"display_last_name":false,"newsletter_title":"Feel the Beat - Subscribe Today!","newsletter_text":"","newsletter_section_text_align":"left","css_class":"","custom_css":""}},"product-template":{"type":"product-template","settings":{"product_breadcrumb":true,"set_product_height":false,"product_height":500,"video_looping":false,"product_thumbs":true,"gallery_arrows":false,"enable_product_lightbox":true,"activate_zoom":false,"slideshow_speed":0,"slideshow_animation":"slide","thumbnail_position":"left-thumbnails","enable_thumbnail_slider":true}},"cart-template":{"type":"cart-template","blocks":{"1541433160810":{"type":"featured_collection","settings":{"title":"Don't forget to check out our new arrivals!","collection_description":true,"collection":"new","collection_style":"grid","products_per":3,"products_limit":3}}},"block_order":["1541433160810"],"settings":{"display_special_instructions":false,"display_savings":true,"cart_message":""}},"blog-template":{"type":"blog-template","blocks":{"1488991636216":{"type":"search","settings":{}},"1488991622143":{"type":"recent_posts","settings":{"blog_post_count":"10"}}},"block_order":["1488991636216","1488991622143"],"settings":{"wide_display":true,"image":"shopify:\/\/shop_images\/blog-thinner.jpg","mobile_image_crop":"none","subtitle":"Discover the latest in audio technology","caption_content_background":"original","blog_posts_per_row":2,"blog_posts_per_page":4,"blog_tags":true,"blog_author":false,"read_time":true,"blog_date":false,"blog_comment_count":false,"read_more_link":false,"excerpt_display":"full_excerpt","toggle":false}},"article-template":{"type":"article-template","blocks":{"1488955217347":{"type":"search","settings":{}},"1488955204750":{"type":"recent_posts","settings":{"blog_post_count":"5"}},"1488955212414":{"type":"post_tags","settings":{}},"1488955225681":{"type":"text","settings":{"title":"Sidebar Content","text":"<p>You can add a content block like this to your blog article sidebar, and use it for more details about blog authors, for example.<\/p>"}},"1489523557700":{"type":"newsletter","settings":{"newsletter_title":"Subscribe","newsletter_text":"<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>"}}},"block_order":["1488955217347","1488955204750","1488955212414","1488955225681","1489523557700"],"settings":{"featured_image":"banner","wide_display":true,"blog_breadcrumb":true,"blog_pagination":true,"blog_tags":false,"blog_byline":false,"read_time":true,"blog_date":true,"blog_author":true,"display_social_buttons":true,"blog_comment_count":true,"blog_additional_posts":true,"read_more_link":false,"toggle":true}},"contact-template":{"type":"contact-template","settings":{"wide_display":true,"image":"shopify:\/\/shop_images\/contact-thinner.jpg","contact_heading":"Get in touch","contact_subheading":"","contact_text":"","show_map":false,"map_wide_display":true,"map_address":"","map_height":400,"zoom_level":15,"api_key":"","show_pin":true,"map_style":"default"}},"1489088605695":{"type":"image-text","blocks":{"1489088605695-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/bigspeaker.png","image_crop":"none","title":"Big Sound for Small Spaces","text":"<p>You love music, and want easy access to it at home and on the go. Connect the speaker to your Wi-Fi network for instant in-home listening. They&#x27;re small, durable and portable, so you can bring them anywhere the music takes you.<\/p>","button_label":"Shop Speakers","link":"shopify:\/\/collections\/speakers","bg_color":"","text_color":""}}},"block_order":["1489088605695-1"],"settings":{"wide_display":true,"featured_links_per_row":"1","frontpage_text_align":"center","frontpage_image_position":"row-reverse","css_class":"","custom_css":""}},"1489098724539":{"type":"image-with-text-overlay","settings":{"wide_display":true,"image":"shopify:\/\/shop_images\/angled-speakers_b72b2903-1b5f-4273-ac06-5bbfb212b4d0.jpg","pretext":"","title":"Beautiful from Every Angle","subtitle":"","button1":"","button1_link":"","button1_style":"global-button--banner","button2":"","button2_link":"","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"darken_bg","mobile_image_crop":"center","mobile_text_below_image":false,"mobile_text_color":"","css_class":"","custom_css":""}},"1489102939331":{"type":"logo-bar","blocks":{"1489102939331-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/logo-stuff.png","link":""}},"1489102939331-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/logo-cnet.png","link":""}},"1489102939331-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/logo-wired.png","link":""}},"1489678466799":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/logo-pc.png","link":""}},"1489678456007":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/sound.png","link":""}}},"block_order":["1489102939331-2","1489102939331-0","1489102939331-1","1489678466799","1489678456007"],"settings":{"title":"","css_class":"","custom_css":""}},"search-template":{"type":"search-template","blocks":{"1497477982637":{"type":"text","settings":{"title":"Sidebar content","text":"<p>You can now include <strong>recently viewed items<\/strong> in your sidebar, along with other optional content blocks like menus and text like this..<\/p>"}},"1497506426736":{"type":"menu","settings":{"custom_menu_linklist":"quick-links"}},"1497477975629":{"type":"recently_viewed","settings":{"sidebar_rv_title":"Recently Viewed","sidebar_rv_per":3}}},"block_order":["1497477982637","1497506426736","1497477975629"],"settings":{"image":"shopify:\/\/shop_images\/search_86831bc1-aaf9-467c-a321-422bff66b713.jpg","search_breadcrumb":true,"search_term":"Search...","products_per_row":2,"pagination_limit":24,"blog_author":false,"read_more_link":true,"blog_date":true,"toggle":false}},"page-gallery-template":{"type":"page-gallery-template","blocks":{"1489778787734":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner-headphones-girl.jpg","image_link":""}},"1489778738605":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/FP-beige.jpg","image_link":""}},"1489778867995":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/FP-inear.jpg","image_link":""}},"1489590242742":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/theme-feat2.jpg","image_link":""}},"1489590267131":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/woman-coffee_20c03a9a-c736-4e6d-ae4b-4f021e926bbd.jpg","image_link":""}},"1489590205775":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/NL-popup2.jpg","image_link":""}},"1489778673758":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Material_DH3.jpg","image_link":""}},"1489778766211":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/pkbuds2.jpg","image_link":""}},"1489778694309":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/closeup2.jpg","image_link":""}},"1489779171173":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/snap-cu_a191bf66-0caf-4b42-8262-738c73a5f5de.jpg","image_link":""}},"1489778720861":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner-S8.jpg","image_link":""}},"1489778819820":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/green-round.jpg","image_link":""}},"1489779099126":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/guy-paper.jpg","image_link":""}},"1489778846193":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/H6-mega.jpg","image_link":""}},"1489778892304":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/pink-square.jpg","image_link":""}},"1489779151475":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/grid_12f2a7c7-7171-481d-bb8e-fa4ea92615c2.jpg","image_link":""}},"1489778901281":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/square.jpg","image_link":""}},"1489779070620":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/girl-bus.jpg","image_link":""}},"1489803770194":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/green-round-outside.jpg","image_link":""}},"1489778944143":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/A2-side-blue.jpg","image_link":""}},"1489778710093":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/bluish.jpg","image_link":""}},"1489779131492":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/H6-sidecview_05cd9976-3e0c-4355-a722-cf87fd4ffcbf.jpg","image_link":""}}},"block_order":["1489778787734","1489778738605","1489778867995","1489590242742","1489590267131","1489590205775","1489778673758","1489778766211","1489778694309","1489779171173","1489778720861","1489778819820","1489779099126","1489778846193","1489778892304","1489779151475","1489778901281","1489779070620","1489803770194","1489778944143","1489778710093","1489779131492"],"settings":{"show_divider":true,"gallery_type":"horizontal","grid-size":4,"enable_lightbox":true}},"1489603711034":{"type":"featured-promotions","blocks":{"1489603711034-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/beige-pink_f0e3bcf3-fd5a-4a10-820e-90b54bff56e5.jpg","link":"shopify:\/\/collections\/over-ear-headphones","title":"Over-Ear Headphones","text":"<p>This is a featured promo section. Use it as a quick and visual way to direct your shoppers to particular collections, products or pages in your shop.<\/p>","button_label":"View Collection"}},"1489603711034-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/FP-inear.jpg","link":"shopify:\/\/collections\/in-ear-headphones","title":"In-Ear Headphones","text":"<p>This is a featured promo section. Use it as a quick and visual way to direct your shoppers to particular collections, products or pages in your shop.<\/p>","button_label":"View Collection"}}},"block_order":["1489603711034-1","1489603711034-0"],"settings":{"wide_display":true,"promo_text_on_image_enabled":false,"featured_promos_per_row":2,"featured_links_animation":"","feature_style":"square","css_class":"","custom_css":""}},"1490030223358":{"type":"image-text","blocks":{"1490030223358-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/FP-speaker-round_300f9af8-cb62-4019-9e21-81bbe951abdb.png","image_crop":"none","title":"We Got the Beat","text":"<p>The Turbo Shopify theme is a highly configurable, blazing fast theme that has been optimized for both speed and mobile experience. Turbo is packed with features like product <strong>row sliders<\/strong>, <strong>mega menus<\/strong>, <strong>logo lists<\/strong>, <strong>testimonials<\/strong>, an <strong>interactive mini cart<\/strong> and <strong>infinite scrolling<\/strong>. And it does it all with a superb sense of style.<\/p>","button_label":"Learn More","link":"shopify:\/\/pages\/theme-info","bg_color":"","text_color":""}}},"block_order":["1490030223358-0"],"settings":{"wide_display":true,"featured_links_per_row":"1","frontpage_text_align":"center","frontpage_image_position":"row","css_class":"","custom_css":""}},"mega-menu-1":{"type":"mega-menu-1","blocks":{"1497292597591":{"type":"column","disabled":true,"settings":{"richtext_top":"<p>Hot Tub by Size<\/p>","image_top":"shopify:\/\/shop_images\/SDS_Aspen_Porcelain_BrushedGray_Iso-720x526-249dd43c-42a1-4f47-9bac-b61561aa802f.jpg","image_caption_top":"","image_link_top":"","menu_1":"main-menu","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"1497370229534":{"type":"column","settings":{"richtext_top":"","image_caption_top":"In-ear wired","image_link_top":"shopify:\/\/collections\/in-ear-wired","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"09de33f0-bfbb-4734-bf09-545b6b2e904b":{"type":"column","settings":{"richtext_top":"","image_caption_top":"","image_link_top":"","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"b535e33f-79ab-4036-bde8-28e888306b84":{"type":"column","settings":{"richtext_top":"","image_caption_top":"","image_link_top":"","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"0f1696e7-097b-4ab3-93c5-f51ab98076fa":{"type":"column","settings":{"richtext_top":"","image_caption_top":"","image_link_top":"","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}}},"block_order":["1497292597591","1497370229534","09de33f0-bfbb-4734-bf09-545b6b2e904b","b535e33f-79ab-4036-bde8-28e888306b84","0f1696e7-097b-4ab3-93c5-f51ab98076fa"],"settings":{"parent":""}},"mega-menu-2":{"type":"mega-menu-2","blocks":{"1497369953263":{"type":"column","settings":{"richtext_top":"","image_caption_top":"","image_link_top":"","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"1497331215349":{"type":"column","settings":{"richtext_top":"","image_caption_top":"Beoplay A2 Active","image_link_top":"shopify:\/\/products\/beoplay-a2-active","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"1497369901739":{"type":"column","settings":{"richtext_top":"","image_caption_top":"Beoplay A1","image_link_top":"shopify:\/\/products\/beoplay-a1","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"1497369814235":{"type":"column","settings":{"richtext_top":"","image_caption_top":"Beolit 17","image_link_top":"shopify:\/\/products\/beolit-17","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}},"1497369875065":{"type":"column","settings":{"richtext_top":"","image_caption_top":"Beoplay S3","image_link_top":"shopify:\/\/products\/beoplay-s3","menu_1":"","menu_1_link":"","menu_2":"","menu_2_link":"","menu_3":"","menu_3_link":"","menu_4":"","menu_4_link":"","image_caption_bottom":"","image_link_bottom":"","richtext_bottom":""}}},"block_order":["1497369953263","1497331215349","1497369901739","1497369814235","1497369875065"],"settings":{"parent":"Speakers"}},"page-team-template":{"type":"page-team-template","blocks":{"page-team-template-0":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic3.jpg","title":"Austin Soto","job_title":"Founder and CEO","description":"<p>Entrepreneur hooked on design, tech and heavy metal.<\/p>","twitter":"Shopify"}},"page-team-template-2":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic4.jpg","title":"Monica Marshal","job_title":"Engineering Lead","description":"<p>Problem solver who loves anything from the 90s. <\/p>","twitter":"Shopify"}},"page-team-template-1":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic8.jpg","title":"Flora Ross","job_title":"Marketing Director","description":"<p>Business minded, can&#x27;t resist classic rock. <\/p>","twitter":"Shopify"}},"1541013667299":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic2.jpg","title":"Camille Phillips","job_title":"Senior Developer","description":"<p>Usually coding, always listening to upbeat pop.<\/p>","twitter":"Shopify"}},"1541013706623":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic5.jpg","title":"Alvin Ford","job_title":"Product Specialist","description":"<p>Powered by research and lots of rock and roll.<\/p>","twitter":"Shopify"}},"1541013726997":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic6.jpg","title":"Sylvia Hart","job_title":"Retail Manager","description":"<p>Experience creator obsessed with everything indie.<\/p>","twitter":"Shopify"}},"1541027823818":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic7.jpg","title":"Lynne Romero","job_title":"Social Media Expert","description":"<p>Creative strategist, R&amp;B enthusiast.<\/p>","twitter":"Shopify"}},"1541013742154":{"type":"employee","settings":{"image":"shopify:\/\/shop_images\/pic1.jpg","title":"Lily","job_title":"Chief Dog","description":"<p>Loves neck scratches, milk bones and reggae.<\/p>","twitter":"lilypug"}}},"block_order":["page-team-template-0","page-team-template-2","page-team-template-1","1541013667299","1541013706623","1541013726997","1541027823818","1541013742154"],"settings":{"image":"shopify:\/\/shop_images\/team-feet.jpg","image_position":"right","title":"An amazing group of people are the heart and soul of this phenomenal brand!","text":"<p>(plus Lily, our office pug :))<\/p>","text_position":"center","employee_per_row":4,"member_color":"#ffffff","member_accent_color":"#1e1e1e","member_overlay_color":"#c79f5c"}},"page-faq-template":{"type":"page-faq-template","blocks":{"page-faq-template-0":{"type":"heading","settings":{"heading":"Most Popular Articles"}},"1544709812154":{"type":"Content","settings":{"title":"How do I update to the latest version of the software?","subtitle":"<p>Always install the latest software version in order to enjoy your product&#x27;s latest features. Updates are easy using our Beoplay mobile app. Inside the app, the download icon indicates that the latest version is available for download. Click it to automatically download the update.<\/p>"}},"page-faq-template-5":{"type":"Content","settings":{"title":"How can I connect my Seoul speaker to PC\/MAC?","subtitle":"<p>You can use any USB Type-C cable to connect your Seoul speakers to your PC\/MAC. This cable runs from the computer&#x27;s USB outlet (depending on how old your device is, you may need to purchase an adapter) to the line-in socket of your Seoul speaker.<\/p>"}},"page-faq-template-1":{"type":"Content","settings":{"title":"Why doesn’t the automatic play\/pause function work properly?","subtitle":"<p>Our app does not currently support our older products. Use the touchpad on H9i or the middle button on H8i to control the play\/pause function. The way you wear the headphone will also affect the functionality of the automatic play\/pause.<\/p>"}},"page-faq-template-2":{"type":"Content","settings":{"title":"How do I pair my Bluetooth device with my B&O PLAY Bluetooth speaker?","subtitle":"<p>First, switch your device and B&amp;O PLAY Bluetooth speaker on. Then press the Bluetooth button on the B&amp;O PLAY Bluetooth speaker for more than 2 seconds. When the product indicator starts flashing blue, find the B&amp;O PLAY Bluetooth speaker in the Bluetooth list on your device and select it. When a sound prompt is heard on the speaker and the product indicator turns solid blue, the two are paired.<\/p>"}},"page-faq-template-3":{"type":"Content","settings":{"title":"What should I do if I can't connect my device to my Beoplay A1?","subtitle":"<p>If you&#x27;re experiencing an issue connecting the Beoplay A1 to your device, checkout the documentation and solutions below:<\/p><p>Interference with the Bluetooth signal – Bluetooth operates in the 2402 to 2480 MHz range and may be disturbed by other 2.4 GHz networks (e.g. WiFi routers and networks, wireless keyboards, mouse, etc). Turn off or remove other Bluetooth connections in the surrounding area, then try connecting again. Alternatively, go to another location, such as an elevator or outside, that has less Bluetooth noise from other products to test your connection.<\/p><p>Distance between the E8 and Bluetooth device - Face the front of your product towards the Bluetooth transmitting device (max distance is 10 meters and line-of-sight). Note that the Bluetooth antenna must be in your right earbud.<\/p><p>E8 Bluetooth receiver in the right earbud – If you wear a sports watch (e.g. an Apple watch) on your left wrist and are experiencing dropout issues, we recommended moving the watch to your right wrist.<\/p>"}},"page-faq-template-6":{"type":"Content","settings":{"title":"How can I reset my Seoul speaker and remove all paired Bluetooth devices?","subtitle":"<p>To remove all paired devices from any of our speakers, press and hold the Bluetooth button and the power button simultaneously for more than 3 seconds. This resets the speaker to factory settings and the speaker will be in pairing mode when you turn it back on.<\/p>"}}},"block_order":["page-faq-template-0","1544709812154","page-faq-template-5","page-faq-template-1","page-faq-template-2","page-faq-template-3","page-faq-template-6"],"settings":{"wide_display":true,"show_banner":true,"image":"shopify:\/\/shop_images\/seoul-faq.jpg","mobile_image_crop":"none","caption_content_background":"original","pretext":"","title":"FAQ","subtitle":"","text_position":"center","text_align":"center","button1":"","button1_style":"global-button--banner","button2":"","button2_style":"global-button--banner"}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"product_recommendations_style":"slider","product_recommendations_heading":"You may also like","products_per_row":3,"recommended_products_limit":6}},"1617195520706e4d75":{"type":"divider","settings":{"divider_spacing":10,"divider_border":false,"css_class":"","custom_css":""}},"product-sidebar":{"type":"product-sidebar","settings":{"toggle":false}}},"content_for_index":["1488497250346","1489088605695","1490030223358","1489098724539","1489102939331","1489603711034","1617195520706e4d75"],"blocks":{"16114465257489415219":{"type":"shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs-style\/7fc998ae-a150-4367-bab8-505d8a4503f7","disabled":false,"settings":{}},"5038451100865107764":{"type":"shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs\/7fc998ae-a150-4367-bab8-505d8a4503f7","disabled":false,"settings":{}}}}}
+{
+  "current": {
+    "performance": "ludicrous",
+    "image_loading_style": "fade-in",
+    "custom_scripts": "",
+    "logo_color": "#484c4e",
+    "regular_color": "#484c4e",
+    "headline_color": "#484c4e",
+    "headline_footer_text_color": "#484c4e",
+    "sub_footer_text_color": "#6b6b6b",
+    "sale_color": "#000000",
+    "was_price_color": "#8c8b8b",
+    "product_hover_text_color": "#484c4e",
+    "promo_text_color": "#ffffff",
+    "shop_home_page_content_text_color": "#484c4e",
+    "newsletter_popup_color": "#484c4e",
+    "newsletter_section_color": "#484c4e",
+    "collection_filter_color": "#484c4e",
+    "top_bar_color": "#484c4e",
+    "top_bar_color_hover": "#18a1d7",
+    "nav_color": "#000000",
+    "nav_color_home": "#000000",
+    "nav_color_hover": "#18a1d7",
+    "link_color": "#216580",
+    "link_hover_color": "#21576c",
+    "sidebar_nav_color": "#484c4e",
+    "sidebar_nav_color_hover": "#18a1d7",
+    "sub_footer_link_color": "#248db6",
+    "sub_footer_link_color_hover": "#216580",
+    "btn_color": "#18a1d7",
+    "btn_hover_color": "#484c4e",
+    "btn_text_color": "#ffffff",
+    "button_style": "pill_shaped",
+    "read_more_style": "button",
+    "banner_button_color": "#00b7ff",
+    "banner_color": "#ffffff",
+    "banner_background_color": "#484c4e",
+    "banner_placeholder_background_color": "#8c8b8b",
+    "swatch_style": "rounded",
+    "table_styles_enabled": true,
+    "slideshow_arrow_size": "bold",
+    "arrow_color": "#18a1d7",
+    "slideshow_button_style": false,
+    "slideshow_nav_buttons": true,
+    "border_color": "#ffffff",
+    "headline_border_color": "#aaaaaa",
+    "headline_border": "1",
+    "divider_style": "solid",
+    "sub_footer_border_color": "#cccccc",
+    "sale_banner_color": "#f50f0f",
+    "new_banner_color": "#484c4e",
+    "sticker_style": "square",
+    "search_section_color": "#484c4e",
+    "search_section_bg_color": "#cccccc",
+    "testimonial_color": "#ffffff",
+    "testimonial_bg_color": "#767272",
+    "featured_promotions_color": "#fff",
+    "featured_promotions_color_hover": "#fff",
+    "featured_promotions_background": "#484c4e",
+    "featured_promotions_mobile_background": true,
+    "modal_background_color": "#f1f1f1",
+    "modal_text_color": "#484c4e",
+    "shop_bg_color": "#ffffff",
+    "custom_bg": "",
+    "repeat_bg": "repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "top_bar_bg_color": "#e6e6e6",
+    "top_bar_cart_bg_color": "#e6e6e6",
+    "minicart_bg_color": "#ffffff",
+    "header_bg_color": "#ffffff",
+    "header_background": true,
+    "transparent_header": true,
+    "promo_bg_color": "#18a1d7",
+    "shop_home_page_content_bg_color": "#f1f1f1",
+    "featured_links_background": "#f1f1f1",
+    "product_hover_bg_color": "#ffffff",
+    "sub_footer_color": "#f1f1f1",
+    "footer_bg": "",
+    "footer_bg_stretched": false,
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_section_background_color": "#e6e6e6",
+    "password_page_text_color": "#ffffff",
+    "password_page_background_color": "#000000",
+    "logo__font": "helvetica_n4",
+    "logo_font_style": "uppercase",
+    "logo_font_size": 20,
+    "top_bar_font_size": 13,
+    "top_bar_letter_spacing": 1,
+    "nav__font": "archivo_n4",
+    "nav_font_style": "none",
+    "nav_font_size": 15,
+    "nav_letter_spacing": 1,
+    "nav_shadow": true,
+    "button_weight": "normal",
+    "button_font_style": "uppercase",
+    "button_font_size": 15,
+    "mega_text_font_size": 14,
+    "mega_text_letter_spacing": 1,
+    "headline__font": "helvetica_n4",
+    "headline_font_style": "none",
+    "headline_font_size": 38,
+    "headline_letter_spacing": 2,
+    "slideshow_headline__font": "helvetica_n4",
+    "slideshow_headline_font_style": "none",
+    "slideshow_headline_size": 48,
+    "slideshow_headline_letter_spacing": 1,
+    "slideshow_headline_shadow": true,
+    "slideshow_subtitle__font": "helvetica_n4",
+    "slideshow_subtitle_font_style": "none",
+    "slideshow_subtitle_size": 20,
+    "slideshow_subtitle_letter_spacing": 1,
+    "slideshow_shadow": true,
+    "regular__font": "archivo_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 16,
+    "footer_logo_font_size": 20,
+    "footer_heading_font_size": 18,
+    "footer_font_size": 14,
+    "mega_menu_1": true,
+    "mega_menu_2": true,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_option": "product",
+    "search_pagination_type": "basic_pagination",
+    "enable_autocomplete": true,
+    "search_to_display": 5,
+    "product_form_style": "radio",
+    "show_dynamic_checkout_button": true,
+    "display_product_quantity": true,
+    "limit_quantity": false,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "notify_me_form": true,
+    "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+    "enable_shopify_review_comments": true,
+    "enable_shopify_product_badges": true,
+    "shopify_review_position": "below",
+    "enable_shopify_collection_badges": true,
+    "display_vendor": false,
+    "collection_swatches": false,
+    "sale_banner_enabled": true,
+    "thumbnail_hover_enabled": false,
+    "mobile_products_per_row": "2",
+    "pagination_type": "load_more_button",
+    "display_price": true,
+    "sold_out_text": "Sold Out",
+    "free_price_text": "Price TBD",
+    "collection_secondary_image": false,
+    "align_height": true,
+    "collection_height": 300,
+    "quick_shop_enabled": false,
+    "quick_shop_style": "popup",
+    "cart_action": "reload_page",
+    "show_lock_icon": false,
+    "display_tos_checkbox": true,
+    "tos_page": "shopify:\/\/policies\/terms-of-service",
+    "go_to_checkout": true,
+    "display_special_instructions": true,
+    "display_savings": true,
+    "cart_message": "",
+    "show_shipping_calculator": false,
+    "shipping_calculator_default_country": "united",
+    "currency_format": "money_with_currency_format",
+    "show_multiple_currencies": false,
+    "supported_currencies": "USD CAD AUD GBP EUR JPY",
+    "default_currency": "GBP",
+    "mailchimp_link": "",
+    "secondary_newsletter_banner": true,
+    "newsletter_popup": true,
+    "newsletter_popup_close": true,
+    "newsletter_popup_mobile": true,
+    "newsletter_popup_form": false,
+    "display_first_name": false,
+    "display_last_name": false,
+    "use_newsletter_border": true,
+    "newsletter_bg": "shopify:\/\/shop_images\/from_10am_to_2pm.png",
+    "image_crop": "center",
+    "newsletter_popup_image_align": "right",
+    "newsletter_popup_title": "Sunday Showroom Bookings",
+    "newsletter_popup_text": "<p>We now offer private showroom viewings on a Sunday. If you would like to book a slot then please WhatsApp us on 07736578751 or call us on 0151 662 0284.<\/p>",
+    "newsletter_popup_text_align": "center",
+    "popup_button1": "BOOK NOW",
+    "popup_button1_link": "https:\/\/hottubliverpool.com\/pages\/contact-us",
+    "popup_button1_highlight": true,
+    "popup_button2": "",
+    "popup_button2_link": "shopify:\/\/pages\/theme-info",
+    "popup_button2_highlight": false,
+    "newsletter_popup_seconds": 60,
+    "newsletter_popup_days": "2",
+    "twitter_link": "https:\/\/twitter.com\/hottubliverpoo1",
+    "facebook_link": "https:\/\/facebook.com\/hottubliverpool",
+    "instagram_link": "https:\/\/instagram.com\/hottubliverpool",
+    "linkedin_link": "https:\/\/www.linkedin.com\/company\/hot-tub-liverpool",
+    "email_link": "sales@hottubliverpool.com",
+    "favicon": "shopify:\/\/shop_images\/Asset_3.png",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/banner-checkout-guy.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/seoul-logo1-gold.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#6b6b6b",
+    "checkout_button_color": "#18a1d7",
+    "checkout_error_color": "#e1255f",
+    "size_chart": "",
+    "product_thumbs": true,
+    "gallery_arrows": true,
+    "activate_zoom": true,
+    "slideshow_speed": 6,
+    "slideshow_animation": "fade",
+    "thumbnail_position": "left-thumbnails",
+    "enable_thumbnail_slider": true,
+    "quick_shop_display_vendor": false,
+    "quick_shop_full_description": false,
+    "description_words": 25,
+    "quick_shop_product_description_position": "top",
+    "quick_shop_display_savings": true,
+    "show_payment_button": false,
+    "product_images_position": "left",
+    "video_looping": false,
+    "banner_style": "round",
+    "og_image_fallback": "shopify:\/\/shop_images\/turbo-seoul-social-share-image.jpg",
+    "quick_shop_zoom": false,
+    "quick_shop_gallery_arrows": true,
+    "quick_shop_slideshow_animation": "slide",
+    "quick_shop_product_images_position": "left",
+    "quick_shop_product_thumbs": true,
+    "quick_shop_thumbnail_position": "bottom-thumbnails",
+    "google_link": "",
+    "review_position": "below_product_details",
+    "logo_font": "Google_Dosis",
+    "logo_weight": "normal",
+    "nav_font": "Google_Dosis",
+    "nav_weight": "normal",
+    "headline_font": "Google_Dosis",
+    "headline_weight": "normal",
+    "headline_font_text": "normal",
+    "slideshow_headline_font": "Google_Dosis",
+    "slideshow_headline_weight": "lighter",
+    "slideshow_headline_font_text": "normal",
+    "slideshow_subtitle_font": "Google_Dosis",
+    "slideshow_subtitle_weight": "lighter",
+    "slideshow_subtitle_font_text": "normal",
+    "regular_font": "Arial, 'Helvetica Neue', Helvetica, sans-serif",
+    "regular_weight": "lighter",
+    "custom_logo": "",
+    "password-page-background": "",
+    "pagework_page_bg_stretched": true,
+    "featured_promotions_background_hover": "#000",
+    "featured_promos_text_color": "#3e3e3e",
+    "use_custom_bg_image": false,
+    "use_password_bg_image": true,
+    "twitter_widget": false,
+    "twitter_username": "",
+    "twitter_title": "Tweets",
+    "twitter_theme": "light",
+    "tweet_count": "3",
+    "instagram_widget": false,
+    "instagram_client_id": "",
+    "instagram_title": "Instagram",
+    "instagram_count": "4",
+    "products_per_row": "4",
+    "pagination_limit": "24",
+    "use_custom_footer_image": false,
+    "use_logo": false,
+    "logo_alignment": "center",
+    "use_logo_home": false,
+    "use_logo_mobile": false,
+    "logo_width": "160",
+    "promo_text": "",
+    "phone_number": "",
+    "top_bar_menu": "",
+    "main_linklist": "main-menu",
+    "main_linklist2": "",
+    "menu_position": "inline",
+    "menu_alignment": "align_left",
+    "fixed_header": true,
+    "logo_top_padding": "12",
+    "menu_top_padding": "8",
+    "cart_icon": "cart",
+    "search_enabled": true,
+    "collection_sidebar": false,
+    "product_sidebar": false,
+    "collection_top_sidebar_page": "",
+    "collection_sidebar_linklist": "",
+    "collection_sidebar_linklist2": "",
+    "filter_by_category": false,
+    "filter_by_tag": true,
+    "collection_sidebar_products": true,
+    "collection_sidebar_vendors": false,
+    "collection_sidebar_page": "",
+    "footer_logo": false,
+    "footer_linklist_1": "footer",
+    "footer_linklist_2": "main-menu",
+    "footer_linklist_3": "",
+    "footer_content_page": "",
+    "copyright_text": "",
+    "display_designed_by": true,
+    "display_payment_methods": true,
+    "behind_menu": true,
+    "position_1": "1",
+    "position_2": "12",
+    "position_3": "7",
+    "position_4": "9",
+    "position_5": "16",
+    "position_6": "15",
+    "position_7": "0",
+    "position_8": "0",
+    "position_9": "0",
+    "position_10": "0",
+    "position_11": "0",
+    "position_12": "0",
+    "position_13": "0",
+    "position_14": "0",
+    "position_15": "0",
+    "position_16": "0",
+    "position_17": "0",
+    "position_18": "0",
+    "caption_background": false,
+    "image_1_pretext": "Introducing the",
+    "image_1_headline": "Turbo Shopify theme",
+    "image_1_subtitle": "from Out of the Sandbox",
+    "image_1_text_position": "center",
+    "image_1_text_align": "center",
+    "image_1_button1_text": "",
+    "image_1_button1_link": "",
+    "image_1_button1_highlight": false,
+    "image_1_button2_text": "",
+    "image_1_button2_link": "",
+    "image_1_button2_highlight": false,
+    "image_2_pretext": "",
+    "image_2_headline": "",
+    "image_2_subtitle": "",
+    "image_2_text_position": "left",
+    "image_2_text_align": "center",
+    "image_2_button1_text": "",
+    "image_2_button1_link": "",
+    "image_2_button1_highlight": false,
+    "image_2_button2_text": "",
+    "image_2_button2_link": "",
+    "image_2_button2_highlight": false,
+    "image_3_pretext": "",
+    "image_3_headline": "",
+    "image_3_subtitle": "",
+    "image_3_text_position": "left",
+    "image_3_text_align": "center",
+    "image_3_button1_text": "",
+    "image_3_button1_link": "",
+    "image_3_button1_highlight": false,
+    "image_3_button2_text": "",
+    "image_3_button2_link": "",
+    "image_3_button2_highlight": false,
+    "image_4_pretext": "",
+    "image_4_headline": "",
+    "image_4_subtitle": "",
+    "image_4_text_position": "left",
+    "image_4_text_align": "center",
+    "image_4_button1_text": "",
+    "image_4_button1_link": "",
+    "image_4_button1_highlight": false,
+    "image_4_button2_text": "",
+    "image_4_button2_link": "",
+    "image_4_button2_highlight": false,
+    "image_5_pretext": "",
+    "image_5_headline": "",
+    "image_5_subtitle": "",
+    "image_5_text_position": "left",
+    "image_5_text_align": "center",
+    "image_5_button1_text": "",
+    "image_5_button1_link": "",
+    "image_5_button1_highlight": false,
+    "image_5_button2_text": "",
+    "image_5_button2_link": "",
+    "image_5_button2_highlight": false,
+    "image_6_pretext": "",
+    "image_6_headline": "",
+    "image_6_subtitle": "",
+    "image_6_text_position": "left",
+    "image_6_text_align": "left",
+    "image_6_button1_text": "",
+    "image_6_button1_link": "",
+    "image_6_button1_highlight": false,
+    "image_6_button2_text": "",
+    "image_6_button2_link": "",
+    "image_6_button2_highlight": false,
+    "featured_promos_per_row": "4",
+    "featured_promos_grid": "full_width",
+    "feature_title_on_image_enabled": true,
+    "featured_links_style": "",
+    "feature1_enabled": true,
+    "feature1_link": "",
+    "feature1_title": "Promo 1",
+    "feature1_description": "Optional description can go here",
+    "feature1_button": "",
+    "feature2_enabled": true,
+    "feature2_link": "http:\/\/support.outofthesandbox.com\/",
+    "feature2_title": "Promo 2",
+    "feature2_description": "Visit the Out of the Sandbox Support Center for Turbo-related articles and how-tos",
+    "feature2_button": "",
+    "feature3_enabled": true,
+    "feature3_link": "",
+    "feature3_title": "Promo 3",
+    "feature3_description": "Publish Turbo as your main theme when you're ready to launch!",
+    "feature3_button": "",
+    "feature4_enabled": true,
+    "feature4_link": "https:\/\/twitter.com\/outofthesandbox",
+    "feature4_title": "Promo 4",
+    "feature4_description": "Let us know when your new shop launches on Twitter",
+    "feature4_button": "",
+    "feature5_enabled": false,
+    "feature5_link": "",
+    "feature5_title": "",
+    "feature5_description": "",
+    "feature5_button": "",
+    "feature6_enabled": false,
+    "feature6_link": "",
+    "feature6_title": "",
+    "feature6_description": "",
+    "feature6_button": "",
+    "feature7_enabled": false,
+    "feature7_link": "",
+    "feature7_title": "",
+    "feature7_description": "",
+    "feature7_button": "",
+    "feature8_enabled": false,
+    "feature8_link": "",
+    "feature8_title": "",
+    "feature8_description": "",
+    "feature8_button": "",
+    "frontpage_linklist": "",
+    "frontpage_collections_per_row": "1",
+    "frontpage_text_align": "left",
+    "frontpage_collection": "frontpage",
+    "frontpage_collection_style": "slider",
+    "frontpage_products_per_row": "4",
+    "frontpage_collection2": "",
+    "frontpage_collection_style2": "grid",
+    "frontpage_products_per_row2": "4",
+    "frontpage_collection_full": "",
+    "frontpage_display_description": false,
+    "frontpage_product_stagger": true,
+    "homepage1": "frontpage",
+    "homepage2": "",
+    "homepage3": "",
+    "blog_widget_select": "news",
+    "home_page_articles": "4",
+    "slideshow_text_animation": "fadeIn",
+    "slideshow_text_background": false,
+    "slidespeed": "6000",
+    "slide1_enabled": true,
+    "slide1_alt_text": "",
+    "slide1_pretext": "A full-width slideshow",
+    "slide1_headline": "This is a big heading",
+    "slide1_subtitle": "This is a subheading where you can include more text if you wish",
+    "slide1_text_position": "right",
+    "slide1_text_align": "right",
+    "slide1_button1_text": "",
+    "slide1_button1_link": "",
+    "slide1_button1_highlight": false,
+    "slide1_button2_text": "",
+    "slide1_button2_link": "",
+    "slide1_button2_highlight": false,
+    "slide2_enabled": true,
+    "slide2_alt_text": "",
+    "slide2_pretext": "",
+    "slide2_headline": "Just a banner heading here",
+    "slide2_subtitle": "",
+    "slide2_text_position": "center",
+    "slide2_text_align": "center",
+    "slide2_button1_text": "Button 1",
+    "slide2_button1_link": "",
+    "slide2_button1_highlight": true,
+    "slide2_button2_text": "Button 2",
+    "slide2_button2_link": "",
+    "slide2_button2_highlight": false,
+    "slide3_enabled": false,
+    "slide3_alt_text": "",
+    "slide3_pretext": "",
+    "slide3_headline": "",
+    "slide3_subtitle": "",
+    "slide3_text_position": "left",
+    "slide3_text_align": "left",
+    "slide3_button1_text": "",
+    "slide3_button1_link": "",
+    "slide3_button1_highlight": false,
+    "slide3_button2_text": "",
+    "slide3_button2_link": "",
+    "slide3_button2_highlight": false,
+    "slide4_enabled": false,
+    "slide4_alt_text": "",
+    "slide4_pretext": "",
+    "slide4_headline": "",
+    "slide4_subtitle": "",
+    "slide4_text_position": "left",
+    "slide4_text_align": "left",
+    "slide4_button1_text": "",
+    "slide4_button1_link": "",
+    "slide4_button1_highlight": false,
+    "slide4_button2_text": "",
+    "slide4_button2_link": "",
+    "slide4_button2_highlight": false,
+    "slide5_enabled": false,
+    "slide5_alt_text": "",
+    "slide5_pretext": "",
+    "slide5_headline": "",
+    "slide5_subtitle": "",
+    "slide5_text_position": "left",
+    "slide5_text_align": "left",
+    "slide5_button1_text": "",
+    "slide5_button1_link": "",
+    "slide5_button1_highlight": false,
+    "slide5_button2_text": "",
+    "slide5_button2_link": "",
+    "slide5_button2_highlight": false,
+    "slide6_enabled": false,
+    "slide6_alt_text": "",
+    "slide6_pretext": "",
+    "slide6_headline": "",
+    "slide6_subtitle": "",
+    "slide6_text_position": "left",
+    "slide6_text_align": "left",
+    "slide6_button1_text": "",
+    "slide6_button1_link": "",
+    "slide6_button1_highlight": false,
+    "slide6_button2_text": "",
+    "slide6_button2_link": "",
+    "slide6_button2_highlight": false,
+    "banner_video_source": "youtube",
+    "aspect_ratio": "16:9",
+    "banner_video_autoloop": false,
+    "banner_video_autoplay": false,
+    "banner_video_text": false,
+    "video_dark_overlay": false,
+    "banner_video_id": "eGyhA-DIYvg",
+    "banner_video_mp4": "",
+    "banner_video_ogv": "",
+    "video_pretext": "Full-width video section",
+    "video_headline": "Optional heading here",
+    "video_subtitle": "",
+    "video_text_position": "center",
+    "video_text_align": "center",
+    "video_button1_text": "Play Video",
+    "video_button1_link": "",
+    "video_button1_highlight": true,
+    "video_button2_text": "",
+    "video_button2_link": "",
+    "video_button2_highlight": false,
+    "product_breadcrumb": true,
+    "display_tags": true,
+    "display_type": true,
+    "display_sku": false,
+    "display_collections": true,
+    "display_related_products": true,
+    "products_per_slide": "3",
+    "activate_autoplay": false,
+    "product_description_position": "bottom",
+    "collection_breadcrumb": true,
+    "collection_tags": true,
+    "collection_sort": true,
+    "display_collection_title": true,
+    "display_vendor_collection": false,
+    "collection_banner_enabled": false,
+    "display_collection_header_title": false,
+    "contact_address": "",
+    "zoom_level": "15",
+    "contact_banner_enabled": true,
+    "image_contact_headline": "",
+    "image_contact_subtitle": "",
+    "blog_posts_per_page": "6",
+    "blog_articles_per_row": "3",
+    "blog_breadcrumb": true,
+    "blog_tags": true,
+    "blog_author": true,
+    "blog_date": true,
+    "blog_comment_count": true,
+    "read_more_link": true,
+    "blog_additional_articles": true,
+    "sidebar_enabled": false,
+    "blog_search": true,
+    "blog_newsletter": true,
+    "display_recent_articles": false,
+    "blog_sidebar_tags": true,
+    "blog_content_page": "",
+    "article_banner_enabled": false,
+    "article_banner_darken": true,
+    "blog_banner_enabled": false,
+    "image_blog_headline": "",
+    "image_blog_subtitle": "",
+    "use_newsletter_image": true,
+    "newsletter_img_alt_text": "",
+    "newsletter_banner": true,
+    "use_newsletter_section_bg_image": false,
+    "newsletter_section_text_align": "center",
+    "display_social_buttons": true,
+    "social_icons_header": true,
+    "social_icons_footer": true,
+    "checkout_use_header_image": false,
+    "checkout_logo": "",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "icon_btn_color": "#969696",
+    "icon_btn_text_color": "#FFFFFF",
+    "quick_shop_color": "#000000",
+    "slideshow_arrows": "0",
+    "home_blog_slider": "0",
+    "promo_banner_global": false,
+    "side_cart_position": "right",
+    "slideshow_subtitle_typeface_method": "google_webfonts",
+    "headline_animation": "fadeIn",
+    "share_banner_color": "#007a87",
+    "dropdown_column_links": "10",
+    "content_top_padding": "100",
+    "tab_background_color": "#ffffff",
+    "mobile_header_bg_color": "#666666",
+    "mobile_menu_color": "black",
+    "shop_use_content_bg_color": false,
+    "shop_content_bg_color": "",
+    "shop_use_home_page_content_bg_color": true,
+    "logo_typeface_method": "google_webfonts",
+    "logo_websafe_font": "Helvetica, Arial, sans-serif",
+    "logo_color_home": "#ffffff",
+    "headline_typeface_method": "google_webfonts",
+    "headline_websafe_font": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "nav_typeface_method": "google_webfonts",
+    "nav_websafe_font": "'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Lucida, Helvetica, Arial, sans-serif",
+    "regular_typeface_method": "websafe",
+    "regular_websafe_font": "'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+    "slideshow_1_enabled": true,
+    "homepage_arrow": true,
+    "image_1_height": "550",
+    "image_1_alt_text": "",
+    "image_1_text_color": "#ffffff",
+    "image_1_button_text": "",
+    "image_1_link": "",
+    "slideshow_2_enabled": false,
+    "image_2_position": "3",
+    "image_2_height": "550",
+    "image_2_alt_text": "",
+    "image_2_text_color": "#ffffff",
+    "image_2_button_text": "",
+    "image_2_link": "",
+    "slideshow_3_enabled": false,
+    "image_3_position": "5",
+    "image_3_height": "550",
+    "image_3_alt_text": "",
+    "image_3_text_color": "#ffffff",
+    "image_3_button_text": "",
+    "image_3_link": "",
+    "slideshow_4_enabled": false,
+    "image_4_position": "7",
+    "image_4_height": "600",
+    "image_4_alt_text": "",
+    "image_4_text_color": "#ffffff",
+    "image_4_button_text": "",
+    "image_4_link": "",
+    "slideshow_5_enabled": false,
+    "image_5_position": "10",
+    "image_5_height": "550",
+    "image_5_alt_text": "",
+    "image_5_text_color": "#ffffff",
+    "image_5_button_text": "",
+    "image_5_link": "",
+    "slideshow_6_enabled": false,
+    "image_6_position": "2",
+    "image_6_height": "550",
+    "image_6_alt_text": "",
+    "image_6_text_color": "#ffffff",
+    "image_6_button_text": "",
+    "image_6_link": "",
+    "content_1_position": "4",
+    "content_2_position": "6",
+    "content_3_position": "10",
+    "featured_links_position": "2",
+    "featured_links": true,
+    "featured_links_count": "3",
+    "featured_collections_position": "15",
+    "featured_products_position": "8",
+    "featured_product_position": "9",
+    "featured_blog_position": "13",
+    "featured_social_position": "14",
+    "instagram_username": "",
+    "product_slideshow_animation": "slide",
+    "add_to_cart_text": "Add to Cart",
+    "related_products_title": "Related Items",
+    "inventory_left_text": "items left",
+    "homepage_sidebar": false,
+    "collection_sidebar_vendor_text": "Vendors",
+    "tags_text": "Filter",
+    "side_cart_enabled": true,
+    "tax_included": false,
+    "shipping_calculator_heading": "Shipping rates calculator",
+    "shipping_calculator_submit_button_label": "Calculate shipping rates",
+    "shipping_calculator_submit_button_label_disabled": "Calculating...",
+    "constrain_logo": true,
+    "total_text": "TOTAL",
+    "display_social_buttons_blog": true,
+    "newsletter_enabled": true,
+    "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+    "newsletter_success_text": "Thank you for joining our mailing list!",
+    "newsletter_system": "shopify",
+    "flickr_link": "",
+    "newsletter_popup_page": "",
+    "newsletter_popup_max_width": "600",
+    "blog_widget": "false",
+    "instagram_tag_name": "",
+    "slideshow_menu": "true",
+    "cart_return": "checkout",
+    "side_cart_button_position": "bottom",
+    "nav_active_color": "#B8C6C6",
+    "quick_shop_text": "Quick View",
+    "newsletter_text": "News & Updates",
+    "footer_link_color": "#55c0d4",
+    "footer_link_color_hover": "#fc4c02",
+    "footer_color": "#16161d",
+    "footer_text_color": "#ffffff",
+    "featured_text": "#ffffff",
+    "feature1_text": "420x265",
+    "feature2_text": "420x265",
+    "feature3_text": "420x265",
+    "featured_links_weight": "bold",
+    "social_icons_enabled": "true",
+    "headline_sub_footer_text_color": "#404040",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "<p><a href=\"\/pages\/hot-tub-delivery\" title=\"Hot Tub Delivery\"><strong>FREE SHIPPING AND FULL   INSTALLATION ON ALL HOT TUBS<\/strong><\/a><\/p>",
+          "social_icons_header": true,
+          "phone_number": "0151 662 0284",
+          "top_bar_menu": "",
+          "show_cart": true,
+          "cart_icon": "cart",
+          "show_locale_selector": true,
+          "show_currency_selector": false,
+          "logo_display_width": 205,
+          "logo": "shopify:\/\/shop_images\/Asset_1_f437e7d2-649c-4040-8681-2a43cea6b0a5.png",
+          "main_linklist": "main-menu",
+          "main_linklist2": "",
+          "vertical_menu": true,
+          "dropdown_click": false,
+          "search_enabled": true,
+          "fixed_header": true,
+          "logo_position": "left",
+          "logo_alignment": "center",
+          "menu_position": "inline",
+          "menu_alignment": "align_right"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "d550914f-d8d7-42f8-85a4-e2736d1210e5": {
+            "type": "logo",
+            "settings": {
+              "text_align": "left",
+              "social_icons_footer": true
+            }
+          },
+          "footer-2": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer",
+              "social_icons_footer": false
+            }
+          },
+          "1489780254450": {
+            "type": "link_list",
+            "settings": {
+              "menu": "areas-we-cover",
+              "social_icons_footer": false
+            }
+          },
+          "3c613641-b9c5-4bf6-ba58-e52b2f2f6099": {
+            "type": "text",
+            "settings": {
+              "title": "Finance",
+              "content": "<p>Credit is subject to status and affordability. <\/p><p>Terms & Conditions Apply. Hottubliverpool Limited, <\/p><p>FRN: 946472, <\/p><p>15 Century Building, Summers Road, Brunswick Business Park, Liverpool, L3 4BL, is a credit broker, not the lender and is authorised and regulated by the Financial Conduct Authority. <\/p><p>Credit is provided by Novuna Personal Finance, a trading style of Mitsubishi HC Capital<br\/>UK PLC. Authorised and Regulated by the Financial Conduct Authority. <\/p><p>To find out more go to our <a href=\"https:\/\/hottubliverpool.com\/pages\/finance\" target=\"_blank\" title=\"https:\/\/hottubliverpool.com\/pages\/finance\">Finance<\/a> page.<\/p>",
+              "social_icons_footer": false
+            }
+          },
+          "c22014ff-4bf3-4344-85a1-0a77333ef94d": {
+            "type": "text",
+            "settings": {
+              "title": "Hot Tub Liverpool LTD",
+              "content": "<p><strong>EMAIL<\/strong><\/p><p><a href=\"mailto:sales@hottubliverpool.com\">sales@hottubliverpool.com<\/a><\/p><p><strong>PHONE <\/strong><\/p><p><a href=\"tel:01516620284\" title=\"tel:01516620284\">0151 662 0284<\/a><\/p><p><\/p><p><strong>SHOWROOM ADDRESS<\/strong><br\/>Hot Tub Liverpool,<br\/>Century Buildings, 15 Summers Rd,<br\/>Liverpool, L3 4BL<\/p><p>(At the back of Brunswick Business Park)<\/p><p><strong>Opening Times:<\/strong><\/p><p>Mon-Fri 9am-4pm<\/p><p>Sat 10am-2pm.<br\/>Sun - Appointment Only (Call or email us to book)<\/p><p>VAT Number: GB382635479<\/p><p>Company Number: 13164303<\/p><p>Registered in England & Wales<\/p>",
+              "social_icons_footer": true
+            }
+          }
+        },
+        "block_order": [
+          "d550914f-d8d7-42f8-85a4-e2736d1210e5",
+          "footer-2",
+          "1489780254450",
+          "3c613641-b9c5-4bf6-ba58-e52b2f2f6099",
+          "c22014ff-4bf3-4344-85a1-0a77333ef94d"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true
+        }
+      },
+      "1488497250346": {
+        "type": "slideshow",
+        "blocks": {
+          "1489599925759": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/homepage-hero-navy2.jpg",
+              "pretext": "<p>Exclusively from Out of the Sandbox<\/p>",
+              "title": "The Turbo Shopify Theme",
+              "subtitle": "",
+              "button1": "Find out more",
+              "button1_link": "shopify:\/\/pages\/theme-info",
+              "button1_style": "global-button--banner",
+              "button2": "",
+              "button2_link": "",
+              "button2_style": "global-button--banner",
+              "text_position": "center",
+              "text_align": "center",
+              "caption_content_background": "original",
+              "mobile_image_crop": "center"
+            }
+          },
+          "1489594068647": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/slide-guy-new2.jpg",
+              "pretext": "",
+              "title": "Hitting the right note",
+              "subtitle": "<p>Packed with useful features + Ludicrous Speed mode<\/p>",
+              "button1": "Theme Features",
+              "button1_link": "shopify:\/\/pages\/theme-info",
+              "button1_style": "global-button--banner",
+              "button2": "Purchase Theme",
+              "button2_link": "https:\/\/outofthesandbox.com\/products\/turbo-theme-seoul",
+              "button2_style": "global-button--banner",
+              "text_position": "right",
+              "text_align": "right",
+              "caption_content_background": "original",
+              "mobile_image_crop": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1489599925759",
+          "1489594068647"
+        ],
+        "settings": {
+          "wide_display": true,
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_animation": "slide",
+          "slideshow_speed": 5,
+          "activate_adaptiveHeight": false,
+          "mobile_text_below_image": false,
+          "mobile_text_color": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "featured_collection_image": true,
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/collec-over-ear.jpg",
+          "mobile_image_crop": "none",
+          "caption_content_background": "original",
+          "display_collection_title": true,
+          "collection_breadcrumb": false,
+          "collection_tags": true,
+          "collection_sort": true,
+          "products_per_row": 3,
+          "pagination_limit": 24,
+          "toggle": false
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "Feel the Beat - Subscribe Today!",
+          "newsletter_text": "",
+          "newsletter_section_text_align": "left",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_breadcrumb": true,
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "product_thumbs": true,
+          "gallery_arrows": false,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "left-thumbnails",
+          "enable_thumbnail_slider": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "blocks": {
+          "1541433160810": {
+            "type": "featured_collection",
+            "settings": {
+              "title": "Don't forget to check out our new arrivals!",
+              "collection_description": true,
+              "collection": "new",
+              "collection_style": "grid",
+              "products_per": 3,
+              "products_limit": 3
+            }
+          }
+        },
+        "block_order": [
+          "1541433160810"
+        ],
+        "settings": {
+          "display_special_instructions": false,
+          "display_savings": true,
+          "cart_message": ""
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "blocks": {
+          "1488991636216": {
+            "type": "search",
+            "settings": {
+            }
+          },
+          "1488991622143": {
+            "type": "recent_posts",
+            "settings": {
+              "blog_post_count": "10"
+            }
+          }
+        },
+        "block_order": [
+          "1488991636216",
+          "1488991622143"
+        ],
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/blog-thinner.jpg",
+          "mobile_image_crop": "none",
+          "subtitle": "Discover the latest in audio technology",
+          "caption_content_background": "original",
+          "blog_posts_per_row": 2,
+          "blog_posts_per_page": 4,
+          "blog_tags": true,
+          "blog_author": false,
+          "read_time": true,
+          "blog_date": false,
+          "blog_comment_count": false,
+          "read_more_link": false,
+          "excerpt_display": "full_excerpt",
+          "toggle": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "1488955217347": {
+            "type": "search",
+            "settings": {
+            }
+          },
+          "1488955204750": {
+            "type": "recent_posts",
+            "settings": {
+              "blog_post_count": "5"
+            }
+          },
+          "1488955212414": {
+            "type": "post_tags",
+            "settings": {
+            }
+          },
+          "1488955225681": {
+            "type": "text",
+            "settings": {
+              "title": "Sidebar Content",
+              "text": "<p>You can add a content block like this to your blog article sidebar, and use it for more details about blog authors, for example.<\/p>"
+            }
+          },
+          "1489523557700": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Subscribe",
+              "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more &hellip;<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1488955217347",
+          "1488955204750",
+          "1488955212414",
+          "1488955225681",
+          "1489523557700"
+        ],
+        "settings": {
+          "featured_image": "banner",
+          "wide_display": true,
+          "blog_breadcrumb": true,
+          "blog_pagination": true,
+          "blog_tags": false,
+          "blog_byline": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_author": true,
+          "display_social_buttons": true,
+          "blog_comment_count": true,
+          "blog_additional_posts": true,
+          "read_more_link": false,
+          "toggle": true
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/contact-thinner.jpg",
+          "contact_heading": "Get in touch",
+          "contact_subheading": "",
+          "contact_text": "",
+          "show_map": false,
+          "map_wide_display": true,
+          "map_address": "",
+          "map_height": 400,
+          "zoom_level": 15,
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "default"
+        }
+      },
+      "1489088605695": {
+        "type": "image-text",
+        "blocks": {
+          "1489088605695-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bigspeaker.png",
+              "image_crop": "none",
+              "title": "Big Sound for Small Spaces",
+              "text": "<p>You love music, and want easy access to it at home and on the go. Connect the speaker to your Wi-Fi network for instant in-home listening. They&#x27;re small, durable and portable, so you can bring them anywhere the music takes you.<\/p>",
+              "button_label": "Shop Speakers",
+              "link": "shopify:\/\/collections\/speakers",
+              "bg_color": "",
+              "text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1489088605695-1"
+        ],
+        "settings": {
+          "wide_display": true,
+          "featured_links_per_row": "1",
+          "frontpage_text_align": "center",
+          "frontpage_image_position": "row-reverse",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1489098724539": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/angled-speakers_b72b2903-1b5f-4273-ac06-5bbfb212b4d0.jpg",
+          "pretext": "",
+          "title": "Beautiful from Every Angle",
+          "subtitle": "",
+          "button1": "",
+          "button1_link": "",
+          "button1_style": "global-button--banner",
+          "button2": "",
+          "button2_link": "",
+          "button2_style": "global-button--banner",
+          "text_position": "center",
+          "text_align": "center",
+          "caption_content_background": "darken_bg",
+          "mobile_image_crop": "center",
+          "mobile_text_below_image": false,
+          "mobile_text_color": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1489102939331": {
+        "type": "logo-bar",
+        "blocks": {
+          "1489102939331-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo-stuff.png",
+              "link": ""
+            }
+          },
+          "1489102939331-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo-cnet.png",
+              "link": ""
+            }
+          },
+          "1489102939331-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo-wired.png",
+              "link": ""
+            }
+          },
+          "1489678466799": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo-pc.png",
+              "link": ""
+            }
+          },
+          "1489678456007": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sound.png",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1489102939331-2",
+          "1489102939331-0",
+          "1489102939331-1",
+          "1489678466799",
+          "1489678456007"
+        ],
+        "settings": {
+          "title": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "blocks": {
+          "1497477982637": {
+            "type": "text",
+            "settings": {
+              "title": "Sidebar content",
+              "text": "<p>You can now include <strong>recently viewed items<\/strong> in your sidebar, along with other optional content blocks like menus and text like this..<\/p>"
+            }
+          },
+          "1497506426736": {
+            "type": "menu",
+            "settings": {
+              "custom_menu_linklist": "quick-links"
+            }
+          },
+          "1497477975629": {
+            "type": "recently_viewed",
+            "settings": {
+              "sidebar_rv_title": "Recently Viewed",
+              "sidebar_rv_per": 3
+            }
+          }
+        },
+        "block_order": [
+          "1497477982637",
+          "1497506426736",
+          "1497477975629"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/search_86831bc1-aaf9-467c-a321-422bff66b713.jpg",
+          "search_breadcrumb": true,
+          "search_term": "Search...",
+          "products_per_row": 2,
+          "pagination_limit": 24,
+          "blog_author": false,
+          "read_more_link": true,
+          "blog_date": true,
+          "toggle": false
+        }
+      },
+      "page-gallery-template": {
+        "type": "page-gallery-template",
+        "blocks": {
+          "1489778787734": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-headphones-girl.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778738605": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FP-beige.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778867995": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FP-inear.jpg",
+              "image_link": ""
+            }
+          },
+          "1489590242742": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/theme-feat2.jpg",
+              "image_link": ""
+            }
+          },
+          "1489590267131": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/woman-coffee_20c03a9a-c736-4e6d-ae4b-4f021e926bbd.jpg",
+              "image_link": ""
+            }
+          },
+          "1489590205775": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/NL-popup2.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778673758": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Material_DH3.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778766211": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pkbuds2.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778694309": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/closeup2.jpg",
+              "image_link": ""
+            }
+          },
+          "1489779171173": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/snap-cu_a191bf66-0caf-4b42-8262-738c73a5f5de.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778720861": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-S8.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778819820": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/green-round.jpg",
+              "image_link": ""
+            }
+          },
+          "1489779099126": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/guy-paper.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778846193": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/H6-mega.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778892304": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pink-square.jpg",
+              "image_link": ""
+            }
+          },
+          "1489779151475": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/grid_12f2a7c7-7171-481d-bb8e-fa4ea92615c2.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778901281": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/square.jpg",
+              "image_link": ""
+            }
+          },
+          "1489779070620": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/girl-bus.jpg",
+              "image_link": ""
+            }
+          },
+          "1489803770194": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/green-round-outside.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778944143": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/A2-side-blue.jpg",
+              "image_link": ""
+            }
+          },
+          "1489778710093": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bluish.jpg",
+              "image_link": ""
+            }
+          },
+          "1489779131492": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/H6-sidecview_05cd9976-3e0c-4355-a722-cf87fd4ffcbf.jpg",
+              "image_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1489778787734",
+          "1489778738605",
+          "1489778867995",
+          "1489590242742",
+          "1489590267131",
+          "1489590205775",
+          "1489778673758",
+          "1489778766211",
+          "1489778694309",
+          "1489779171173",
+          "1489778720861",
+          "1489778819820",
+          "1489779099126",
+          "1489778846193",
+          "1489778892304",
+          "1489779151475",
+          "1489778901281",
+          "1489779070620",
+          "1489803770194",
+          "1489778944143",
+          "1489778710093",
+          "1489779131492"
+        ],
+        "settings": {
+          "show_divider": true,
+          "gallery_type": "horizontal",
+          "grid-size": 4,
+          "enable_lightbox": true
+        }
+      },
+      "1489603711034": {
+        "type": "featured-promotions",
+        "blocks": {
+          "1489603711034-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/beige-pink_f0e3bcf3-fd5a-4a10-820e-90b54bff56e5.jpg",
+              "link": "shopify:\/\/collections\/over-ear-headphones",
+              "title": "Over-Ear Headphones",
+              "text": "<p>This is a featured promo section. Use it as a quick and visual way to direct your shoppers to particular collections, products or pages in your shop.<\/p>",
+              "button_label": "View Collection"
+            }
+          },
+          "1489603711034-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FP-inear.jpg",
+              "link": "shopify:\/\/collections\/in-ear-headphones",
+              "title": "In-Ear Headphones",
+              "text": "<p>This is a featured promo section. Use it as a quick and visual way to direct your shoppers to particular collections, products or pages in your shop.<\/p>",
+              "button_label": "View Collection"
+            }
+          }
+        },
+        "block_order": [
+          "1489603711034-1",
+          "1489603711034-0"
+        ],
+        "settings": {
+          "wide_display": true,
+          "promo_text_on_image_enabled": false,
+          "featured_promos_per_row": 2,
+          "featured_links_animation": "",
+          "feature_style": "square",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1490030223358": {
+        "type": "image-text",
+        "blocks": {
+          "1490030223358-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FP-speaker-round_300f9af8-cb62-4019-9e21-81bbe951abdb.png",
+              "image_crop": "none",
+              "title": "We Got the Beat",
+              "text": "<p>The Turbo Shopify theme is a highly configurable, blazing fast theme that has been optimized for both speed and mobile experience. Turbo is packed with features like product <strong>row sliders<\/strong>, <strong>mega menus<\/strong>, <strong>logo lists<\/strong>, <strong>testimonials<\/strong>, an <strong>interactive mini cart<\/strong> and <strong>infinite scrolling<\/strong>. And it does it all with a superb sense of style.<\/p>",
+              "button_label": "Learn More",
+              "link": "shopify:\/\/pages\/theme-info",
+              "bg_color": "",
+              "text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1490030223358-0"
+        ],
+        "settings": {
+          "wide_display": true,
+          "featured_links_per_row": "1",
+          "frontpage_text_align": "center",
+          "frontpage_image_position": "row",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "blocks": {
+          "1497292597591": {
+            "type": "column",
+            "disabled": true,
+            "settings": {
+              "richtext_top": "<p>Hot Tub by Size<\/p>",
+              "image_top": "shopify:\/\/shop_images\/SDS_Aspen_Porcelain_BrushedGray_Iso-720x526-249dd43c-42a1-4f47-9bac-b61561aa802f.jpg",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "main-menu",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "1497370229534": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "In-ear wired",
+              "image_link_top": "shopify:\/\/collections\/in-ear-wired",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "09de33f0-bfbb-4734-bf09-545b6b2e904b": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "b535e33f-79ab-4036-bde8-28e888306b84": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "0f1696e7-097b-4ab3-93c5-f51ab98076fa": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "1497292597591",
+          "1497370229534",
+          "09de33f0-bfbb-4734-bf09-545b6b2e904b",
+          "b535e33f-79ab-4036-bde8-28e888306b84",
+          "0f1696e7-097b-4ab3-93c5-f51ab98076fa"
+        ],
+        "settings": {
+          "parent": ""
+        }
+      },
+      "mega-menu-2": {
+        "type": "mega-menu-2",
+        "blocks": {
+          "1497369953263": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "",
+              "image_link_top": "",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "1497331215349": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "Beoplay A2 Active",
+              "image_link_top": "shopify:\/\/products\/beoplay-a2-active",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "1497369901739": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "Beoplay A1",
+              "image_link_top": "shopify:\/\/products\/beoplay-a1",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "1497369814235": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "Beolit 17",
+              "image_link_top": "shopify:\/\/products\/beolit-17",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          },
+          "1497369875065": {
+            "type": "column",
+            "settings": {
+              "richtext_top": "",
+              "image_caption_top": "Beoplay S3",
+              "image_link_top": "shopify:\/\/products\/beoplay-s3",
+              "menu_1": "",
+              "menu_1_link": "",
+              "menu_2": "",
+              "menu_2_link": "",
+              "menu_3": "",
+              "menu_3_link": "",
+              "menu_4": "",
+              "menu_4_link": "",
+              "image_caption_bottom": "",
+              "image_link_bottom": "",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "1497369953263",
+          "1497331215349",
+          "1497369901739",
+          "1497369814235",
+          "1497369875065"
+        ],
+        "settings": {
+          "parent": "Speakers"
+        }
+      },
+      "page-team-template": {
+        "type": "page-team-template",
+        "blocks": {
+          "page-team-template-0": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic3.jpg",
+              "title": "Austin Soto",
+              "job_title": "Founder and CEO",
+              "description": "<p>Entrepreneur hooked on design, tech and heavy metal.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "page-team-template-2": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic4.jpg",
+              "title": "Monica Marshal",
+              "job_title": "Engineering Lead",
+              "description": "<p>Problem solver who loves anything from the 90s. <\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "page-team-template-1": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic8.jpg",
+              "title": "Flora Ross",
+              "job_title": "Marketing Director",
+              "description": "<p>Business minded, can&#x27;t resist classic rock. <\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013667299": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic2.jpg",
+              "title": "Camille Phillips",
+              "job_title": "Senior Developer",
+              "description": "<p>Usually coding, always listening to upbeat pop.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013706623": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic5.jpg",
+              "title": "Alvin Ford",
+              "job_title": "Product Specialist",
+              "description": "<p>Powered by research and lots of rock and roll.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013726997": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic6.jpg",
+              "title": "Sylvia Hart",
+              "job_title": "Retail Manager",
+              "description": "<p>Experience creator obsessed with everything indie.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541027823818": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic7.jpg",
+              "title": "Lynne Romero",
+              "job_title": "Social Media Expert",
+              "description": "<p>Creative strategist, R&amp;B enthusiast.<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1541013742154": {
+            "type": "employee",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pic1.jpg",
+              "title": "Lily",
+              "job_title": "Chief Dog",
+              "description": "<p>Loves neck scratches, milk bones and reggae.<\/p>",
+              "twitter": "lilypug"
+            }
+          }
+        },
+        "block_order": [
+          "page-team-template-0",
+          "page-team-template-2",
+          "page-team-template-1",
+          "1541013667299",
+          "1541013706623",
+          "1541013726997",
+          "1541027823818",
+          "1541013742154"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/team-feet.jpg",
+          "image_position": "right",
+          "title": "An amazing group of people are the heart and soul of this phenomenal brand!",
+          "text": "<p>(plus Lily, our office pug :))<\/p>",
+          "text_position": "center",
+          "employee_per_row": 4,
+          "member_color": "#ffffff",
+          "member_accent_color": "#1e1e1e",
+          "member_overlay_color": "#c79f5c"
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "page-faq-template-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Most Popular Articles"
+            }
+          },
+          "1544709812154": {
+            "type": "Content",
+            "settings": {
+              "title": "How do I update to the latest version of the software?",
+              "subtitle": "<p>Always install the latest software version in order to enjoy your product&#x27;s latest features. Updates are easy using our Beoplay mobile app. Inside the app, the download icon indicates that the latest version is available for download. Click it to automatically download the update.<\/p>"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "Content",
+            "settings": {
+              "title": "How can I connect my Seoul speaker to PC\/MAC?",
+              "subtitle": "<p>You can use any USB Type-C cable to connect your Seoul speakers to your PC\/MAC. This cable runs from the computer&#x27;s USB outlet (depending on how old your device is, you may need to purchase an adapter) to the line-in socket of your Seoul speaker.<\/p>"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "Content",
+            "settings": {
+              "title": "Why doesn’t the automatic play\/pause function work properly?",
+              "subtitle": "<p>Our app does not currently support our older products. Use the touchpad on H9i or the middle button on H8i to control the play\/pause function. The way you wear the headphone will also affect the functionality of the automatic play\/pause.<\/p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "Content",
+            "settings": {
+              "title": "How do I pair my Bluetooth device with my B&O PLAY Bluetooth speaker?",
+              "subtitle": "<p>First, switch your device and B&amp;O PLAY Bluetooth speaker on. Then press the Bluetooth button on the B&amp;O PLAY Bluetooth speaker for more than 2 seconds. When the product indicator starts flashing blue, find the B&amp;O PLAY Bluetooth speaker in the Bluetooth list on your device and select it. When a sound prompt is heard on the speaker and the product indicator turns solid blue, the two are paired.<\/p>"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "Content",
+            "settings": {
+              "title": "What should I do if I can't connect my device to my Beoplay A1?",
+              "subtitle": "<p>If you&#x27;re experiencing an issue connecting the Beoplay A1 to your device, checkout the documentation and solutions below:<\/p><p>Interference with the Bluetooth signal – Bluetooth operates in the 2402 to 2480 MHz range and may be disturbed by other 2.4 GHz networks (e.g. WiFi routers and networks, wireless keyboards, mouse, etc). Turn off or remove other Bluetooth connections in the surrounding area, then try connecting again. Alternatively, go to another location, such as an elevator or outside, that has less Bluetooth noise from other products to test your connection.<\/p><p>Distance between the E8 and Bluetooth device - Face the front of your product towards the Bluetooth transmitting device (max distance is 10 meters and line-of-sight). Note that the Bluetooth antenna must be in your right earbud.<\/p><p>E8 Bluetooth receiver in the right earbud – If you wear a sports watch (e.g. an Apple watch) on your left wrist and are experiencing dropout issues, we recommended moving the watch to your right wrist.<\/p>"
+            }
+          },
+          "page-faq-template-6": {
+            "type": "Content",
+            "settings": {
+              "title": "How can I reset my Seoul speaker and remove all paired Bluetooth devices?",
+              "subtitle": "<p>To remove all paired devices from any of our speakers, press and hold the Bluetooth button and the power button simultaneously for more than 3 seconds. This resets the speaker to factory settings and the speaker will be in pairing mode when you turn it back on.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-faq-template-0",
+          "1544709812154",
+          "page-faq-template-5",
+          "page-faq-template-1",
+          "page-faq-template-2",
+          "page-faq-template-3",
+          "page-faq-template-6"
+        ],
+        "settings": {
+          "wide_display": true,
+          "show_banner": true,
+          "image": "shopify:\/\/shop_images\/seoul-faq.jpg",
+          "mobile_image_crop": "none",
+          "caption_content_background": "original",
+          "pretext": "",
+          "title": "FAQ",
+          "subtitle": "",
+          "text_position": "center",
+          "text_align": "center",
+          "button1": "",
+          "button1_style": "global-button--banner",
+          "button2": "",
+          "button2_style": "global-button--banner"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_style": "slider",
+          "product_recommendations_heading": "You may also like",
+          "products_per_row": 3,
+          "recommended_products_limit": 6
+        }
+      },
+      "1617195520706e4d75": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 10,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product-sidebar": {
+        "type": "product-sidebar",
+        "settings": {
+          "toggle": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1488497250346",
+      "1489088605695",
+      "1490030223358",
+      "1489098724539",
+      "1489102939331",
+      "1489603711034",
+      "1617195520706e4d75"
+    ],
+    "blocks": {
+      "16114465257489415219": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs-style\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "5038451100865107764": {
+        "type": "shopify:\/\/apps\/product-filter-search\/blocks\/boost-pfs\/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}
