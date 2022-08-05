@@ -4,7 +4,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "wide_display": true,
-        "image": "shopify:\/\/shop_images\/hot_tub_13.png",
+        "image": "shopify:\/\/shop_images\/hot_tub_4_7e215a66-ce6c-4a46-9e5e-7691e015cd0c.png",
         "pretext": "",
         "title": "",
         "subtitle": "",
@@ -17,7 +17,7 @@
         "text_position": "right",
         "text_align": "right",
         "caption_content_background": "original",
-        "mobile_image": "shopify:\/\/shop_images\/hot_tub_8.png",
+        "mobile_image": "shopify:\/\/shop_images\/hot_tub.png",
         "mobile_image_crop": "none",
         "mobile_text_below_image": true,
         "mobile_text_color": "#484c4e",
