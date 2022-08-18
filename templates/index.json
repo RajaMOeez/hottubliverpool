@@ -763,6 +763,54 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "166083312657cf8fbd": {
+      "type": "contact-form",
+      "blocks": {
+        "1660833126b0500bae-0": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Name",
+            "required": true,
+            "field_type": "text"
+          }
+        },
+        "1660833126b0500bae-1": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Email",
+            "required": true,
+            "field_type": "email"
+          }
+        },
+        "1660833126b0500bae-2": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Message",
+            "required": true,
+            "field_type": "textarea"
+          }
+        }
+      },
+      "block_order": [
+        "1660833126b0500bae-0",
+        "1660833126b0500bae-1",
+        "1660833126b0500bae-2"
+      ],
+      "settings": {
+        "contact_image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_2_e2c1325f-38a3-4c85-bdd8-699a9befd761.png",
+        "contact_heading": "COME AND TRY OUR TUBS & SPAS",
+        "contact_subheading": "Contact Us Today!",
+        "contact_content": "",
+        "contact_text_position": "left",
+        "contact_text_alignment": "left",
+        "contact_social_buttons": false,
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -789,6 +837,7 @@
     "1649232532c177bf5c",
     "newsletter-1",
     "blog-posts-1",
-    "1649498575889751c4"
+    "1649498575889751c4",
+    "166083312657cf8fbd"
   ]
 }
