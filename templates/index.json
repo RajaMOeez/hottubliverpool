@@ -236,6 +236,7 @@
     },
     "16557989609c7bd209": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Air Conditioners",
         "collection_description": false,
@@ -263,6 +264,7 @@
     },
     "1648893335cb24ca6a": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Eco Heaters",
         "collection_description": false,
