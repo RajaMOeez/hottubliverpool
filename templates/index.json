@@ -222,6 +222,7 @@
     },
     "16567529372a509c29": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "BBQ's",
         "collection_description": false,
@@ -248,6 +249,7 @@
     },
     "1648893199b346c6b6": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Jacuzzi Baths",
         "collection_description": false,
@@ -295,7 +297,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_500_x_500px.png",
             "image_crop": "none",
-            "title": "ABOUT US",
+            "title": "OUR SHOWROOM",
             "text": "<p>At our hot tub showroom in Liverpool, we supply a range of fantastic <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" target=\"_blank\">hot tubs<\/a> and swim spas covering Merseyside, Cheshire, and North Wales.<br\/><\/p><p>With almost two decades in the wellness industry, you can rest assured that we not only provide premium quality hot tubs but also exceptional aftercare service.<\/p><p><\/p>",
             "button_label": "Contact Us",
             "link": "shopify:\/\/pages\/standard-page9orh1",
