@@ -563,7 +563,7 @@
             "text_position": "center",
             "text_align": "center",
             "image": "shopify:\/\/shop_images\/Dave_Smith.jpg",
-            "mobile_image_crop": "none",
+            "mobile_image_crop": "center",
             "caption_content_background": "translucent_text_box"
           }
         },
@@ -571,14 +571,14 @@
           "type": "image",
           "settings": {
             "title": "Testimonials",
-            "testimonial": "<p>\"Awesome! I cannot recommend Liverpool hot tubs enough! From moment we went in showroom Mike & Dan were so helpful 👍 we’d been to many HT shops and I’d been saving for months so I wasn’t going to buy from just anyone; but almost straight away we knew these guys were the ones to buy from! Never pushy but informative and super helpful… from start to finish and installing just dream team. Thank you guys I am the PROUD owner of a HT from liverpool hot tubs 😁 couldn’t be happier “bubbling my troubles away”<\/p><p><\/p>",
+            "testimonial": "<p>\"Awesome! I cannot recommend Liverpool hot tubs enough! From moment we went in showroom Mike & Dan were so helpful 👍 we’d been to many HT shops and I’d been saving for months so I wasn’t going to buy from just anyone; but almost straight away we knew these guys were the ones to buy from! Never pushy but informative and super helpful… from start to finish and installing just dream team. <\/p>",
             "name": "Oodabelle",
             "store_name": "",
             "link": "",
             "text_position": "center",
             "text_align": "center",
             "image": "shopify:\/\/shop_images\/hot-tub-liverpool-min.png",
-            "mobile_image_crop": "none",
+            "mobile_image_crop": "center",
             "caption_content_background": "translucent_text_box"
           }
         },
