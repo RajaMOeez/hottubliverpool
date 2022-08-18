@@ -551,6 +551,7 @@
     },
     "testimonials-1": {
       "type": "testimonial",
+      "disabled": true,
       "blocks": {
         "block-1": {
           "type": "image",
@@ -585,6 +586,7 @@
         },
         "block-3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "Testimonials",
             "testimonial": "<p>The whole experience from choosing the hot tub to having it installed was effortless went like a dream.<\/p><p>Highly recommend this company.<\/p><p>The personal touch always works. Thanks.<\/p>",
