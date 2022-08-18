@@ -785,29 +785,47 @@
             "field_type": "email"
           }
         },
+        "12a6a7ad-2f54-4bca-be73-eb9e881bc85c": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Phone Number*",
+            "required": true,
+            "field_type": "text"
+          }
+        },
         "1660833126b0500bae-2": {
           "type": "richtext",
           "settings": {
             "label": "",
             "placeholder": "Message",
-            "required": true,
+            "required": false,
             "field_type": "textarea"
+          }
+        },
+        "06783709-68cf-465f-81ce-7fe43610169c": {
+          "type": "image",
+          "settings": {
+            "logo_display_width": 150,
+            "text": "<p>One of our Hot Tub specialists will be in contact with you shortly. <\/p><p><\/p><p>If you can't wait until then, then give us a call on <\/p><p>0151 662 028<\/p>"
           }
         }
       },
       "block_order": [
         "1660833126b0500bae-0",
         "1660833126b0500bae-1",
-        "1660833126b0500bae-2"
+        "12a6a7ad-2f54-4bca-be73-eb9e881bc85c",
+        "1660833126b0500bae-2",
+        "06783709-68cf-465f-81ce-7fe43610169c"
       ],
       "settings": {
-        "contact_image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_2_e2c1325f-38a3-4c85-bdd8-699a9befd761.png",
+        "contact_image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-18_at_3.37.31_PM.jpg",
         "contact_heading": "COME AND TRY OUR TUBS & SPAS",
-        "contact_subheading": "Contact Us Today!",
+        "contact_subheading": "",
         "contact_content": "",
         "contact_text_position": "left",
         "contact_text_alignment": "left",
-        "contact_social_buttons": false,
+        "contact_social_buttons": true,
         "css_class": "",
         "custom_css": ""
       }
