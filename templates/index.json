@@ -593,7 +593,7 @@
             "text_position": "center",
             "text_align": "center",
             "image": "shopify:\/\/shop_images\/hot-tub-liverpool-min.png",
-            "mobile_image_crop": "none",
+            "mobile_image_crop": "center",
             "caption_content_background": "translucent_text_box"
           }
         },
@@ -620,7 +620,7 @@
         "e992d0bf-c1ea-475d-bc7f-78e765b727f8"
       ],
       "settings": {
-        "wide_display": true,
+        "wide_display": false,
         "testimonial_text_animation": "fadeInDown",
         "testimonial_speed": 6,
         "activate_adaptiveHeight": false,
