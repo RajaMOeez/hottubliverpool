@@ -1,1 +1,866 @@
-{"sections":{"image-with-text-overlay-1":{"type":"image-with-text-overlay","settings":{"wide_display":true,"image":"shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_7.png","pretext":"<p>HOT TUBS  |  SWIM SPAS  |  SAUNAS  |  AIR CON<\/p>","title":"SAVE UPTO 75% ON YOUR ENERGY BILL!","subtitle":"<p><strong>FREE HEAT PUMP INSTALLATION <\/strong><\/p><p><strong>WHEN YOU PURCHASE A HOT TUB IN JULY<\/strong><\/p>","button1":"SHOP AND SAVE","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner-highlighted","button2":"APPLY FOR FINANCE","button2_link":"shopify:\/\/pages\/hot-tub-finance","button2_style":"global-button--banner-highlighted","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image":"shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_7.png","mobile_image_crop":"none","mobile_text_below_image":true,"mobile_text_color":"#484c4e","css_class":"","custom_css":""}},"165088639347214fec":{"type":"logo-bar-custom","blocks":{"16508863932fd387b9-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/1_c2fe4f2f-b471-4587-bc63-1dad895e7b4f.png","link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-delivery"}},"16508863932fd387b9-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/EXCELLENT.png","link":"https:\/\/uk.trustpilot.com\/review\/hottubliverpool.com"}},"16508863932fd387b9-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/3_b51153df-30e0-459b-a537-672b60b1beea.png","link":"https:\/\/hottubliverpool.com\/pages\/finance"}}},"block_order":["16508863932fd387b9-0","16508863932fd387b9-1","16508863932fd387b9-2"],"settings":{"title":"","css_class":"","custom_css":""}},"1649232669f42ce396":{"type":"divider","disabled":true,"settings":{"divider_spacing":0,"divider_border":false,"css_class":"","custom_css":""}},"featured-promotions-1":{"type":"featured-promotions","blocks":{"block-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/hot_tub_1Capture.png","link":"shopify:\/\/collections\/all-hot-tubs","title":"HOT TUBS","text":"<p>EXPLORE OUR RANGE OF HOT TUBS<\/p>","button_label":"VIEW ALL"}},"block-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/hot_tub_2Capture.png","link":"shopify:\/\/collections\/swim-spas","title":"SWIM SPAS","text":"<p>EXLPRE OUR RANGE OF SWIM SPAS<\/p>","button_label":"VIEW ALL"}},"block-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/hot_tub_3Capture.png","link":"shopify:\/\/collections\/baths","title":"JACUZZI BATHS","text":"<p>EXPLORE OUR RANGE OF HYDROTHERAPY BATHS<\/p>","button_label":"VIEW ALL"}},"block-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/hot_tub_4Capture.png","link":"shopify:\/\/collections\/infrared-heaters","title":"ECO HEATERS","text":"<p>EXPLORE OUR RANGE OF DIESEL ECO HEATERS<\/p>","button_label":"VIEW ALL"}},"4d487f0f-a9a7-46a1-b0ce-566cd6c2897f":{"type":"image","disabled":true,"settings":{"link":"","title":"Feature","text":"<p>Promotion description details.<\/p>","button_label":""}}},"block_order":["block-1","block-2","block-3","block-4","4d487f0f-a9a7-46a1-b0ce-566cd6c2897f"],"settings":{"wide_display":true,"promo_text_on_image_enabled":true,"featured_promos_per_row":4,"featured_links_animation":"fadeInDown","feature_style":"square","css_class":"","custom_css":""}},"featured-collection-1":{"type":"featured-collection","settings":{"title":"Hot Tubs","collection_description":false,"collection":"all-hot-tubs","collection_style":"grid","products_per":3,"products_limit":38,"css_class":"","custom_css":""}},"165251959840670fa9":{"type":"logo-bar","blocks":{"1652519598b4d5785c-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Whatspa_2022.png","link":"https:\/\/www.whatspa.co.uk\/hot-tub-dealers\/hot-tub-liverpool\/"}},"9dc16e27-4fad-457f-93c8-a4684fec4f31":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.png","link":"https:\/\/www.bishta.co.uk\/hot-tubs-spas\/find-a-member\/"}},"1652519598b4d5785c-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_4.png","link":"https:\/\/www.cpc-chemicals.co.uk\/index.php?route=common\/home"}},"1652519598b4d5785c-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_1_5175fdd9-99fc-4021-a5dd-3355514e6d0a.png","link":"https:\/\/balboawater.com\/"}},"1652519598b4d5785c-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_2_05b362db-3d57-479d-a8dd-c400a4dfa680.png","link":"https:\/\/geckoportal.com\/"}}},"block_order":["1652519598b4d5785c-0","9dc16e27-4fad-457f-93c8-a4684fec4f31","1652519598b4d5785c-1","1652519598b4d5785c-2","1652519598b4d5785c-3"],"settings":{"title":"Accreditations","css_class":"","custom_css":""}},"1648814852d5f63a0f":{"type":"featured-collection","settings":{"title":"Swim Spas","collection_description":false,"collection":"swim-spas","collection_style":"grid","products_per":3,"products_limit":3,"css_class":"","custom_css":""}},"16567529372a509c29":{"type":"featured-collection","settings":{"title":"BBQ's","collection_description":false,"collection":"bbqs-grilles","collection_style":"grid","products_per":3,"products_limit":9,"css_class":"","custom_css":""}},"16557989609c7bd209":{"type":"featured-collection","settings":{"title":"Air Conditioners","collection_description":false,"collection":"airrex-air-conditioners","collection_style":"grid","products_per":3,"products_limit":3,"css_class":"","custom_css":""}},"1648893199b346c6b6":{"type":"featured-collection","settings":{"title":"Jacuzzi Baths","collection_description":false,"collection":"baths","collection_style":"grid","products_per":3,"products_limit":3,"css_class":"","custom_css":""}},"1648893335cb24ca6a":{"type":"featured-collection","settings":{"title":"Eco Heaters","collection_description":false,"collection":"infrared-heaters","collection_style":"grid","products_per":3,"products_limit":3,"css_class":"","custom_css":""}},"featured-text-1":{"type":"featured-text","settings":{"image":"shopify:\/\/shop_images\/hot-tubs-liverpool-min.jpg","mobile_image":"shopify:\/\/shop_images\/hot-tubs-liverpool-min.jpg","title":"HOT TUBS FROM £3495","content":"<p>Explore our range of stunning <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" title=\"Hot Tubs For Sale in Liverpool\">hot tubs<\/a>, starting from just £3495.<\/p><p>Our collection of spas includes everything from 3-seater small hot tubs all the way up to 8 seater giant family hot tubs - so you can be sure to find the ideal hot tub for you and your garden in our collection.<\/p><p>You can order your new hot tub online, via phone or by visiting our showroom in Liverpool.<\/p>","button_label":"Explore our hot tubs","button_link":"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs","text_size":"regular_text","text_alignment":"center","css_class":"","custom_css":""}},"image-text-1":{"type":"image-text","blocks":{"block-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","image_crop":"none","title":"ABOUT US","text":"<p>At our hot tub showroom in Liverpool, we supply a range of fantastic <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" target=\"_blank\">hot tubs<\/a> and swim spas covering Merseyside, Cheshire, and North Wales.<br\/><\/p><p>With almost two decades in the wellness industry, you can rest assured that we not only provide premium quality hot tubs but also exceptional aftercare service.<\/p><p><\/p>","button_label":"Contact Us","link":"shopify:\/\/pages\/standard-page9orh1","bg_color":"rgba(0,0,0,0)","text_color":"#3e3939"}},"block-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_1.jpg","image_crop":"left","title":"FREE DELIVERY","text":"<p>At Hot Tub Liverpool we offer free deliveries to anyone within the 40 mile catchment area from our showroom.                                          <\/p><p>We will position your hot tub in your desired location, unwrap it and remove all waste packaging. We will wait with you whilst we fill up your hot tub and then provide hot tub maintenance and comprehensive water chemical training.<\/p>","button_label":"Call us","link":"shopify:\/\/pages\/standard-page9orh1","bg_color":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)"}},"983da6b1-51f6-4494-a5f8-5b98c8f2e41f":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_2.jpg","image_crop":"none","title":"READY TO START YOUR HOT TUB EXPERIENCE?","text":"<p>Start your hot tub journey today with a visit to our showroom. We are open Monday - Friday 9am-4pm and Saturday 10am-2pm<\/p><p>If you would like to book a showroom visit outside of our normal opening hours, then please give us a call on <strong>0151 662 0284<\/strong>.<\/p>","button_label":"DOWNLOAD FREE BUYERS GUIDE","link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure","bg_color":"","text_color":""}},"872a0f80-3f4c-4517-876d-b24e4a926457":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Screenshot_2022-04-08_at_09.36.11.png","image_crop":"none","title":"FIND US!","text":"<p><strong> We deliver to:<\/strong><\/p><p>Abergele, Abersoch, Aigburth, Aintree, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-alderley-edge-wilmslow-hale\">Alderley Edge<\/a>, Allerton, Anfield, Bangor, Bebbington, Belle Vale, Betws-y-coed, Bidston, Birkenhead, Bromborough, Caldy, Cheshire, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-chester\">Chester<\/a>, Childwall, Christleton, Clubmoor, Colwyn Bay, Conwy, Cressington, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-crosby\">Crosby<\/a>, Croxteth, Dingle, Edge Hill, Everton, Fairfield, Fazakerley, Flint, Garston, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-alderley-edge-wilmslow-hale\">Hale<\/a>, Heswall, Holyhead, Holywell, Hoylake, Kensington, Kirkdale, Knotty Ash, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-liverpool\">Liverpool<\/a>, Llandudno, Meols, Mold, Moreton, New Brighton, New Ferry, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-north-wales-wrexham-mold-queensferry-flint\">North Wales<\/a>, Port Sunlight, Rhos-on-Sea, Rhyl, Rock Ferry, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-southport\">Southport<\/a>, St. Helens, Tarporley, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-the-isle-of-man\">The Isle of Man, <\/a>Thurstaston, Towyn, Upton, Wallasey, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-warrington\">Warrington<\/a>, West Kirby, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-widnes\">Widnes<\/a>, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-wigan\">Wigan<\/a>, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-alderley-edge-wilmslow-hale\">Wilmslow<\/a>, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-wirral-merseyside\">Wirral<\/a>, Woodchurch, Wrexham<\/p>","button_label":"GET DIRECTIONS","link":"https:\/\/www.google.com\/maps\/dir\/\/Hot+Tubs+Liverpool+-+Merseyside+Hot+Tub+Sales+Showroom+15+Summers+Rd+Liverpool+L3+4BL+United+Kingdom\/@53.3847436,-2.9806539,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x487b211f4bd8e5a7:0x49e8a85c84672a55!2m2!1d-2.9806539!2d53.3847436","bg_color":"","text_color":""}}},"block_order":["block-1","block-2","983da6b1-51f6-4494-a5f8-5b98c8f2e41f","872a0f80-3f4c-4517-876d-b24e4a926457"],"settings":{"wide_display":false,"featured_links_per_row":"1","frontpage_text_align":"left","frontpage_image_position":"row","css_class":"","custom_css":""}},"164345790861379e91":{"type":"map","disabled":true,"settings":{"map_wide_display":true,"map_address":"hot tub liverpool, 15 summers road,","map_height":410,"zoom_level":17,"api_key":"","show_pin":true,"map_style":"retro","css_class":"","custom_css":""}},"164578899517fc3245":{"type":"image-with-text-overlay","disabled":true,"settings":{"wide_display":true,"image":"shopify:\/\/shop_images\/MapCapture.png","pretext":"","title":"","subtitle":"","button1":"Get Directions","button1_link":"https:\/\/www.google.com\/maps\/dir\/\/Hot+Tubs+Liverpool+-+Merseyside+Hot+Tub+Sales+Showroom+15+Summers+Rd+Liverpool+L3+4BL+United+Kingdom\/@53.3847436,-2.9806539,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x487b211f4bd8e5a7:0x49e8a85c84672a55!2m2!1d-2.9806539!2d53.3847436","button1_style":"global-button--primary","button2":"","button2_link":"","button2_style":"global-button--banner","text_position":"left","text_align":"left","caption_content_background":"original","mobile_image_crop":"none","mobile_text_below_image":false,"mobile_text_color":"","css_class":"","custom_css":""}},"16494063898a7f3649":{"type":"divider","settings":{"divider_spacing":0,"divider_border":false,"css_class":"","custom_css":""}},"slideshow-1":{"type":"slideshow","disabled":true,"blocks":{"block-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_6.png","pretext":"","title":"HOT TUB DELIVERIES","subtitle":"","button1":"View All Hot Tubs","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner","button2":"DOWNLOAD FREE BUYERS GUIDE","button2_link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image_crop":"none"}},"block-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_9.png","pretext":"","title":"HOT TUB DELIVERIES","subtitle":"","button1":"View All Hot Tubs","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner","button2":"DOWNLOAD FREE BUYERS GUIDE","button2_link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image_crop":"none"}},"76303b2a-c19a-4443-993e-d22e30f812f9":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Untitled_design_7.png","pretext":"","title":"HOT TUB DELIVERIES","subtitle":"","button1":"View All Hot Tubs","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner","button2":"DOWNLOAD FREE BUYERS GUIDE","button2_link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image_crop":"none"}},"4d829f19-2918-4c34-a5e8-86a521f0aa14":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_8.png","pretext":"","title":"HOT TUB DELIVERIES","subtitle":"","button1":"View All Hot Tubs","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner","button2":"DOWNLOAD FREE BUYERS GUIDE","button2_link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image_crop":"none"}},"a60569f7-9bd5-47b6-b59a-1f28b0090c3d":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_10.png","pretext":"","title":"HOT TUB DELIVERIES","subtitle":"","button1":"View All Hot Tubs","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner","button2":"DOWNLOAD FREE BUYERS GUIDE","button2_link":"https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image_crop":"none"}},"ec30380c-ebe5-4bfe-87ef-e625ebd8af74":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_4_ce515602-a640-4655-8f5c-c79a2af11bd7.png","pretext":"","title":"HOT TUB DELIVERIES","subtitle":"","button1":"View All Hot Tubs","button1_link":"","button1_style":"global-button--banner","button2":"","button2_link":"","button2_style":"global-button--banner","text_position":"center","text_align":"center","caption_content_background":"original","mobile_image_crop":"none"}}},"block_order":["block-1","block-2","76303b2a-c19a-4443-993e-d22e30f812f9","4d829f19-2918-4c34-a5e8-86a521f0aa14","a60569f7-9bd5-47b6-b59a-1f28b0090c3d","ec30380c-ebe5-4bfe-87ef-e625ebd8af74"],"settings":{"wide_display":true,"slideshow_text_animation":"fadeInDown","slideshow_animation":"slide","slideshow_speed":6,"activate_adaptiveHeight":false,"mobile_text_below_image":true,"mobile_text_color":"","css_class":"","custom_css":""}},"testimonials-1":{"type":"testimonial","blocks":{"block-1":{"type":"image","settings":{"title":"Testimonials","testimonial":"<p>\"Fantastic service, professional, efficient and informative, Mike, Claire and Dan could not have been more helpful. Hassle free installation and a full detailed explanation on the operation and maintenance of the hot tub, nothing was too much trouble, I would definitely recommend hot tub Liverpool.\"<\/p>","name":"Dave Smith","store_name":"","link":"","text_position":"center","text_align":"center","image":"shopify:\/\/shop_images\/Dave_Smith.jpg","mobile_image_crop":"none","caption_content_background":"translucent_text_box"}},"block-2":{"type":"image","settings":{"title":"Testimonials","testimonial":"<p>\"Awesome! I cannot recommend Liverpool hot tubs enough! From moment we went in showroom Mike & Dan were so helpful 👍 we’d been to many HT shops and I’d been saving for months so I wasn’t going to buy from just anyone; but almost straight away we knew these guys were the ones to buy from! Never pushy but informative and super helpful… from start to finish and installing just dream team. Thank you guys I am the PROUD owner of a HT from liverpool hot tubs 😁 couldn’t be happier “bubbling my troubles away”<\/p><p><\/p>","name":"Oodabelle","store_name":"","link":"","text_position":"center","text_align":"center","image":"shopify:\/\/shop_images\/hot-tub-liverpool-min.png","mobile_image_crop":"none","caption_content_background":"translucent_text_box"}},"block-3":{"type":"image","settings":{"title":"Testimonials","testimonial":"<p>The whole experience from choosing the hot tub to having it installed was effortless went like a dream.<\/p><p>Highly recommend this company.<\/p><p>The personal touch always works. Thanks.<\/p>","name":"Keren Dunn","store_name":"","link":"","text_position":"center","text_align":"center","image":"shopify:\/\/shop_images\/hot-tub-liverpool-min.png","mobile_image_crop":"none","caption_content_background":"translucent_text_box"}},"e992d0bf-c1ea-475d-bc7f-78e765b727f8":{"type":"image","settings":{"title":"Customer Testimonial","testimonial":"<p>\"Fantastic service from start to finish. Mike n Dan know exactly what they'r doing, very professional, down to earth, great guys. All was explained n nothing was too much trouble. Absolutely recommend using this company. Thank you.\"<\/p><p><\/p>","name":"Tracey Woodfine","store_name":"","link":"","text_position":"center","text_align":"center","image":"shopify:\/\/shop_images\/Tracey_Woodfine.jpg","mobile_image_crop":"none","caption_content_background":"translucent_text_box"}}},"block_order":["block-1","block-2","block-3","e992d0bf-c1ea-475d-bc7f-78e765b727f8"],"settings":{"wide_display":true,"testimonial_text_animation":"fadeInDown","testimonial_speed":6,"activate_adaptiveHeight":false,"mobile_text_below_image":true,"mobile_text_color":"","css_class":"","custom_css":""}},"1643460557c49dc9db":{"type":"logo-bar","blocks":{"16434605576aeb222f-0":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/LBHSsquare_copy_160x160_2x_160x160_2x_2b276e00-33e7-4ec2-bf54-cb4ad098f71e.png","link":"https:\/\/zestliverpool.com\/"}},"16434605576aeb222f-1":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/spaflo_160x160_2x_160x160_2x_b2db01ce-9474-4254-bb3b-b87e303076eb.jpg","link":"https:\/\/www.spaflo.co.uk\/"}},"16434605576aeb222f-2":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/pen_160x160_2x_160x160_2x_fd275349-de82-4b01-bf36-30a606012ddf.jpg","link":"https:\/\/hottubmanchester.com\/"}},"16434605576aeb222f-3":{"type":"logo_image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_1_160x160_2x_b56442f2-c65a-410e-9d65-4bb5343371a8.png","link":"https:\/\/www.quirkybuild.com\/"}},"942c6f8a-eb69-40df-aee9-09c7b3b159a0":{"type":"logo_image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Whatspa_2022.png","link":"https:\/\/www.whatspa.co.uk\/hot-tub-dealers\/hot-tub-liverpool\/"}},"16a3d75e-6499-407d-9a83-7f9587cea58f":{"type":"logo_image","disabled":true,"settings":{"link":""}}},"block_order":["16434605576aeb222f-0","16434605576aeb222f-1","16434605576aeb222f-2","16434605576aeb222f-3","942c6f8a-eb69-40df-aee9-09c7b3b159a0","16a3d75e-6499-407d-9a83-7f9587cea58f"],"settings":{"title":"IN PARTNERSHIP WITH","css_class":"","custom_css":""}},"1643458062b873d435":{"type":"divider","settings":{"divider_spacing":0,"divider_border":false,"css_class":"","custom_css":""}},"1649232532c177bf5c":{"type":"divider","settings":{"divider_spacing":0,"divider_border":false,"css_class":"","custom_css":""}},"newsletter-1":{"type":"newsletter","disabled":true,"settings":{"wide_display":true,"display_first_name":false,"display_last_name":false,"newsletter_title":"Subscribe","newsletter_text":"<p>Sign up to get the latest on sales, new releases and more …<\/p>","newsletter_section_text_align":"center","css_class":"","custom_css":""}},"blog-posts-1":{"type":"blog-posts","settings":{"title":"BLOG POSTS","blog_widget_select":"hot-tub-liverpool-blog","home_page_articles":4,"blog_tags":false,"blog_author":false,"read_time":false,"blog_date":true,"blog_comment_count":false,"read_more_link":true,"excerpt_display":"none","css_class":"","custom_css":""}},"1649498575889751c4":{"type":"image-with-text-overlay","settings":{"wide_display":true,"image":"shopify:\/\/shop_images\/Untitled_design_22.png","pretext":"<p>HOT TUBS  |  SWIM SPAS  |  SAUNAS  |  HEATERS<\/p>","title":"LIVERPOOL'S BEST HOT TUB DEALS","subtitle":"<p><strong>Purchase before April 30th to claim a <\/strong><\/p><p><strong>FREE cover lifter worth £250!<\/strong><\/p>","button1":"SHOP AND SAVE","button1_link":"shopify:\/\/collections\/all-hot-tubs","button1_style":"global-button--banner-highlighted","button2":"CONTACT US TODAY","button2_link":"shopify:\/\/pages\/standard-page9orh1","button2_style":"global-button--banner-highlighted","text_position":"center","text_align":"center","caption_content_background":"translucent_text_box","mobile_image_crop":"none","mobile_text_below_image":true,"mobile_text_color":"","css_class":"","custom_css":""}}},"order":["image-with-text-overlay-1","165088639347214fec","1649232669f42ce396","featured-promotions-1","featured-collection-1","165251959840670fa9","1648814852d5f63a0f","16567529372a509c29","16557989609c7bd209","1648893199b346c6b6","1648893335cb24ca6a","featured-text-1","image-text-1","164345790861379e91","164578899517fc3245","16494063898a7f3649","slideshow-1","testimonials-1","1643460557c49dc9db","1643458062b873d435","1649232532c177bf5c","newsletter-1","blog-posts-1","1649498575889751c4"]}
+{
+  "sections": {
+    "image-with-text-overlay-1": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/hot_tub_4_7e215a66-ce6c-4a46-9e5e-7691e015cd0c.png",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "BUY TODAY",
+        "button1_link": "shopify:\/\/collections\/rexener-finnish-wooden-hot-tubs",
+        "button1_style": "global-button--banner-highlighted",
+        "button2": "CONTACT US",
+        "button2_link": "{{ shop.brand.favicon_url }}",
+        "button2_style": "global-button--banner-highlighted",
+        "text_position": "right",
+        "text_align": "right",
+        "caption_content_background": "original",
+        "mobile_image": "shopify:\/\/shop_images\/hot_tub.png",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "#484c4e",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165088639347214fec": {
+      "type": "logo-bar-custom",
+      "blocks": {
+        "16508863932fd387b9-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_c2fe4f2f-b471-4587-bc63-1dad895e7b4f.png",
+            "link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-delivery"
+          }
+        },
+        "16508863932fd387b9-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EXCELLENT.png",
+            "link": "https:\/\/uk.trustpilot.com\/review\/hottubliverpool.com"
+          }
+        },
+        "16508863932fd387b9-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_b51153df-30e0-459b-a537-672b60b1beea.png",
+            "link": "https:\/\/hottubliverpool.com\/pages\/finance"
+          }
+        }
+      },
+      "block_order": [
+        "16508863932fd387b9-0",
+        "16508863932fd387b9-1",
+        "16508863932fd387b9-2"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1649232669f42ce396": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured-promotions-1": {
+      "type": "featured-promotions",
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hot_tub_1Capture.png",
+            "link": "shopify:\/\/collections\/all-hot-tubs",
+            "title": "HOT TUBS",
+            "text": "<p>EXPLORE OUR RANGE OF HOT TUBS<\/p>",
+            "button_label": "VIEW ALL"
+          }
+        },
+        "block-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hot_tub_2Capture.png",
+            "link": "shopify:\/\/collections\/swim-spas",
+            "title": "SWIM SPAS",
+            "text": "<p>EXLPRE OUR RANGE OF SWIM SPAS<\/p>",
+            "button_label": "VIEW ALL"
+          }
+        },
+        "block-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-08-05_at_14.03.22.png",
+            "link": "shopify:\/\/collections\/holiday-let-eco-hot-tubs",
+            "title": "HOLIDAY LET",
+            "text": "<p>EXPLORE OUR RANGE OF HSG282 HOLIDAY LET TUBS<\/p>",
+            "button_label": "VIEW ALL"
+          }
+        },
+        "block-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hot_tub_4Capture.png",
+            "link": "shopify:\/\/collections\/infrared-heaters",
+            "title": "ECO HEATERS",
+            "text": "<p>EXPLORE OUR RANGE OF DIESEL ECO HEATERS<\/p>",
+            "button_label": "VIEW ALL"
+          }
+        },
+        "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "title": "Feature",
+            "text": "<p>Promotion description details.<\/p>",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "block-4",
+        "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f"
+      ],
+      "settings": {
+        "wide_display": true,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 4,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured-collection-1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HOT TUBS TO SUIT EVERYONE",
+        "collection_description": false,
+        "collection": "all-hot-tubs",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 50,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165251959840670fa9": {
+      "type": "logo-bar",
+      "blocks": {
+        "1652519598b4d5785c-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Whatspa_2022.png",
+            "link": "https:\/\/www.whatspa.co.uk\/hot-tub-dealers\/hot-tub-liverpool\/"
+          }
+        },
+        "9dc16e27-4fad-457f-93c8-a4684fec4f31": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design.png",
+            "link": "https:\/\/www.bishta.co.uk\/hot-tubs-spas\/find-a-member\/"
+          }
+        },
+        "1652519598b4d5785c-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "link": "https:\/\/www.cpc-chemicals.co.uk\/index.php?route=common\/home"
+          }
+        },
+        "1652519598b4d5785c-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_5175fdd9-99fc-4021-a5dd-3355514e6d0a.png",
+            "link": "https:\/\/balboawater.com\/"
+          }
+        },
+        "1652519598b4d5785c-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_2_05b362db-3d57-479d-a8dd-c400a4dfa680.png",
+            "link": "https:\/\/geckoportal.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "1652519598b4d5785c-0",
+        "9dc16e27-4fad-457f-93c8-a4684fec4f31",
+        "1652519598b4d5785c-1",
+        "1652519598b4d5785c-2",
+        "1652519598b4d5785c-3"
+      ],
+      "settings": {
+        "title": "Accreditations",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648814852d5f63a0f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Swim Spas",
+        "collection_description": false,
+        "collection": "swim-spas",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16567529372a509c29": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "BBQ's",
+        "collection_description": false,
+        "collection": "bbqs-grilles",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 9,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16557989609c7bd209": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Air Conditioners",
+        "collection_description": false,
+        "collection": "airrex-air-conditioners",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648893199b346c6b6": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Jacuzzi Baths",
+        "collection_description": false,
+        "collection": "baths",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648893335cb24ca6a": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Eco Heaters",
+        "collection_description": false,
+        "collection": "infrared-heaters",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured-text-1": {
+      "type": "featured-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min.jpg",
+        "title": "HOT TUBS FROM £3495",
+        "content": "<p>Explore our range of stunning <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" title=\"Hot Tubs For Sale in Liverpool\">hot tubs<\/a>, starting from just £3495.<\/p><p>Our collection of spas includes everything from 3-seater small hot tubs all the way up to 8 seater giant family hot tubs - so you can be sure to find the ideal hot tub for you and your garden in our collection.<\/p><p>You can order your new hot tub online, via phone or by visiting our showroom in Liverpool.<\/p>",
+        "button_label": "Explore our hot tubs",
+        "button_link": "https:\/\/hottubliverpool.com\/collections\/all-hot-tubs",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image-text-1": {
+      "type": "image-text",
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220820_104504.jpg",
+            "image_crop": "none",
+            "title": "OUR SHOWROOM",
+            "text": "<p>At our hot tub showroom in Liverpool, we supply a range of fantastic <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" target=\"_blank\">hot tubs<\/a> and swim spas covering Merseyside, Cheshire, and North Wales.<br\/><\/p><p>With almost two decades in the wellness industry, you can rest assured that we not only provide premium quality hot tubs but also exceptional aftercare service.<\/p><p><\/p>",
+            "button_label": "Contact Us",
+            "link": "shopify:\/\/pages\/standard-page9orh1",
+            "bg_color": "rgba(0,0,0,0)",
+            "text_color": "#3e3939"
+          }
+        },
+        "block-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1.jpg",
+            "image_crop": "left",
+            "title": "FREE DELIVERY",
+            "text": "<p>At Hot Tub Liverpool we offer free deliveries to anyone within the 40 mile catchment area from our showroom.                                          <\/p><p>We will position your hot tub in your desired location, unwrap it and remove all waste packaging. We will wait with you whilst we fill up your hot tub and then provide hot tub maintenance and comprehensive water chemical training.<\/p>",
+            "button_label": "Call us",
+            "link": "shopify:\/\/pages\/standard-page9orh1",
+            "bg_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "983da6b1-51f6-4494-a5f8-5b98c8f2e41f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_2.jpg",
+            "image_crop": "none",
+            "title": "READY TO START YOUR HOT TUB EXPERIENCE?",
+            "text": "<p>Start your hot tub journey today with a visit to our showroom. We are open Monday - Friday 9am-4pm and Saturday 10am-2pm<\/p><p>If you would like to book a showroom visit outside of our normal opening hours, then please give us a call on <strong>0151 662 0284<\/strong>.<\/p>",
+            "button_label": "DOWNLOAD FREE BUYERS GUIDE",
+            "link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "872a0f80-3f4c-4517-876d-b24e4a926457": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-04-08_at_09.36.11.png",
+            "image_crop": "none",
+            "title": "FIND US!",
+            "text": "<p><strong> We deliver to:<\/strong><\/p><p>Abergele, Abersoch, Aigburth, Aintree, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-alderley-edge-wilmslow-hale\">Alderley Edge<\/a>, Allerton, Anfield, Bangor, Bebbington, Belle Vale, Betws-y-coed, Bidston, Birkenhead, Bromborough, Caldy, Cheshire, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-chester\">Chester<\/a>, Childwall, Christleton, Clubmoor, Colwyn Bay, Conwy, Cressington, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-crosby\">Crosby<\/a>, Croxteth, Dingle, Edge Hill, Everton, Fairfield, Fazakerley, Flint, Garston, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-alderley-edge-wilmslow-hale\">Hale<\/a>, Heswall, Holyhead, Holywell, Hoylake, Kensington, Kirkdale, Knotty Ash, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-liverpool\">Liverpool<\/a>, Llandudno, Meols, Mold, Moreton, New Brighton, New Ferry, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-north-wales-wrexham-mold-queensferry-flint\">North Wales<\/a>, Port Sunlight, Rhos-on-Sea, Rhyl, Rock Ferry, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-southport\">Southport<\/a>, St. Helens, Tarporley, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-the-isle-of-man\">The Isle of Man, <\/a>Thurstaston, Towyn, Upton, Wallasey, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-warrington\">Warrington<\/a>, West Kirby, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-widnes\">Widnes<\/a>, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-wigan\">Wigan<\/a>, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-alderley-edge-wilmslow-hale\">Wilmslow<\/a>, <a href=\"https:\/\/sundance-liverpool.myshopify.com\/collections\/hot-tubs-for-sale-in-wirral-merseyside\">Wirral<\/a>, Woodchurch, Wrexham<\/p>",
+            "button_label": "GET DIRECTIONS",
+            "link": "https:\/\/www.google.com\/maps\/dir\/\/Hot+Tubs+Liverpool+-+Merseyside+Hot+Tub+Sales+Showroom+15+Summers+Rd+Liverpool+L3+4BL+United+Kingdom\/@53.3847436,-2.9806539,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x487b211f4bd8e5a7:0x49e8a85c84672a55!2m2!1d-2.9806539!2d53.3847436",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "983da6b1-51f6-4494-a5f8-5b98c8f2e41f",
+        "872a0f80-3f4c-4517-876d-b24e4a926457"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164345790861379e91": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_wide_display": true,
+        "map_address": "hot tub liverpool, 15 summers road,",
+        "map_height": 410,
+        "zoom_level": 17,
+        "api_key": "",
+        "show_pin": true,
+        "map_style": "retro",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "164578899517fc3245": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/MapCapture.png",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "Get Directions",
+        "button1_link": "https:\/\/www.google.com\/maps\/dir\/\/Hot+Tubs+Liverpool+-+Merseyside+Hot+Tub+Sales+Showroom+15+Summers+Rd+Liverpool+L3+4BL+United+Kingdom\/@53.3847436,-2.9806539,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x487b211f4bd8e5a7:0x49e8a85c84672a55!2m2!1d-2.9806539!2d53.3847436",
+        "button1_style": "global-button--primary",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "left",
+        "text_align": "left",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16494063898a7f3649": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "slideshow-1": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
+            "pretext": "",
+            "title": "HOT TUB DELIVERIES",
+            "subtitle": "",
+            "button1": "View All Hot Tubs",
+            "button1_link": "shopify:\/\/collections\/all-hot-tubs",
+            "button1_style": "global-button--banner",
+            "button2": "DOWNLOAD FREE BUYERS GUIDE",
+            "button2_link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "block-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_9.png",
+            "pretext": "",
+            "title": "HOT TUB DELIVERIES",
+            "subtitle": "",
+            "button1": "View All Hot Tubs",
+            "button1_link": "shopify:\/\/collections\/all-hot-tubs",
+            "button1_style": "global-button--banner",
+            "button2": "DOWNLOAD FREE BUYERS GUIDE",
+            "button2_link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "76303b2a-c19a-4443-993e-d22e30f812f9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_7.png",
+            "pretext": "",
+            "title": "HOT TUB DELIVERIES",
+            "subtitle": "",
+            "button1": "View All Hot Tubs",
+            "button1_link": "shopify:\/\/collections\/all-hot-tubs",
+            "button1_style": "global-button--banner",
+            "button2": "DOWNLOAD FREE BUYERS GUIDE",
+            "button2_link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "4d829f19-2918-4c34-a5e8-86a521f0aa14": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_8.png",
+            "pretext": "",
+            "title": "HOT TUB DELIVERIES",
+            "subtitle": "",
+            "button1": "View All Hot Tubs",
+            "button1_link": "shopify:\/\/collections\/all-hot-tubs",
+            "button1_style": "global-button--banner",
+            "button2": "DOWNLOAD FREE BUYERS GUIDE",
+            "button2_link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "a60569f7-9bd5-47b6-b59a-1f28b0090c3d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_10.png",
+            "pretext": "",
+            "title": "HOT TUB DELIVERIES",
+            "subtitle": "",
+            "button1": "View All Hot Tubs",
+            "button1_link": "shopify:\/\/collections\/all-hot-tubs",
+            "button1_style": "global-button--banner",
+            "button2": "DOWNLOAD FREE BUYERS GUIDE",
+            "button2_link": "https:\/\/hottubliverpool.com\/pages\/hot-tub-buyers-guide-brochure",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "translucent_text_box",
+            "mobile_image_crop": "none"
+          }
+        },
+        "ec30380c-ebe5-4bfe-87ef-e625ebd8af74": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_4_ce515602-a640-4655-8f5c-c79a2af11bd7.png",
+            "pretext": "",
+            "title": "HOT TUB DELIVERIES",
+            "subtitle": "",
+            "button1": "View All Hot Tubs",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original",
+            "mobile_image_crop": "none"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "76303b2a-c19a-4443-993e-d22e30f812f9",
+        "4d829f19-2918-4c34-a5e8-86a521f0aa14",
+        "a60569f7-9bd5-47b6-b59a-1f28b0090c3d",
+        "ec30380c-ebe5-4bfe-87ef-e625ebd8af74"
+      ],
+      "settings": {
+        "wide_display": true,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "slide",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "testimonials-1": {
+      "type": "testimonial",
+      "disabled": true,
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+            "title": "Testimonials",
+            "testimonial": "<p>\"Fantastic service, professional, efficient and informative, Mike, Claire and Dan could not have been more helpful. Hassle free installation and a full detailed explanation on the operation and maintenance of the hot tub, nothing was too much trouble, I would definitely recommend hot tub Liverpool.\"<\/p>",
+            "name": "Dave Smith",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/Dave_Smith.jpg",
+            "mobile_image_crop": "center",
+            "caption_content_background": "translucent_text_box"
+          }
+        },
+        "block-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Testimonials",
+            "testimonial": "<p>\"Awesome! I cannot recommend Liverpool hot tubs enough! From moment we went in showroom Mike & Dan were so helpful 👍 we’d been to many HT shops and I’d been saving for months so I wasn’t going to buy from just anyone; but almost straight away we knew these guys were the ones to buy from! Never pushy but informative and super helpful… from start to finish and installing just dream team. <\/p>",
+            "name": "Oodabelle",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/hot-tub-liverpool-min.png",
+            "mobile_image_crop": "center",
+            "caption_content_background": "translucent_text_box"
+          }
+        },
+        "block-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Testimonials",
+            "testimonial": "<p>The whole experience from choosing the hot tub to having it installed was effortless went like a dream.<\/p><p>Highly recommend this company.<\/p><p>The personal touch always works. Thanks.<\/p>",
+            "name": "Keren Dunn",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/hot-tub-liverpool-min.png",
+            "mobile_image_crop": "none",
+            "caption_content_background": "translucent_text_box"
+          }
+        },
+        "e992d0bf-c1ea-475d-bc7f-78e765b727f8": {
+          "type": "image",
+          "settings": {
+            "title": "Testimonial",
+            "testimonial": "<p>\"Fantastic service from start to finish. Mike n Dan know exactly what they'r doing, very professional, down to earth, great guys. All was explained n nothing was too much trouble. Absolutely recommend using this company. Thank you.\"<\/p><p><\/p>",
+            "name": "Tracey Woodfine",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "image": "shopify:\/\/shop_images\/Tracey_Woodfine.jpg",
+            "mobile_image_crop": "none",
+            "caption_content_background": "translucent_text_box"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "e992d0bf-c1ea-475d-bc7f-78e765b727f8"
+      ],
+      "settings": {
+        "wide_display": false,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643460557c49dc9db": {
+      "type": "logo-bar",
+      "blocks": {
+        "16434605576aeb222f-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LBHSsquare_copy_160x160_2x_160x160_2x_2b276e00-33e7-4ec2-bf54-cb4ad098f71e.png",
+            "link": "https:\/\/zestliverpool.com\/"
+          }
+        },
+        "16434605576aeb222f-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spaflo_160x160_2x_160x160_2x_b2db01ce-9474-4254-bb3b-b87e303076eb.jpg",
+            "link": "https:\/\/www.spaflo.co.uk\/"
+          }
+        },
+        "16434605576aeb222f-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pen_160x160_2x_160x160_2x_fd275349-de82-4b01-bf36-30a606012ddf.jpg",
+            "link": "https:\/\/hottubmanchester.com\/"
+          }
+        },
+        "16434605576aeb222f-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_160x160_2x_b56442f2-c65a-410e-9d65-4bb5343371a8.png",
+            "link": "https:\/\/www.quirkybuild.com\/"
+          }
+        },
+        "942c6f8a-eb69-40df-aee9-09c7b3b159a0": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Whatspa_2022.png",
+            "link": "https:\/\/www.whatspa.co.uk\/hot-tub-dealers\/hot-tub-liverpool\/"
+          }
+        },
+        "16a3d75e-6499-407d-9a83-7f9587cea58f": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16434605576aeb222f-0",
+        "16434605576aeb222f-1",
+        "16434605576aeb222f-2",
+        "16434605576aeb222f-3",
+        "942c6f8a-eb69-40df-aee9-09c7b3b159a0",
+        "16a3d75e-6499-407d-9a83-7f9587cea58f"
+      ],
+      "settings": {
+        "title": "IN PARTNERSHIP WITH",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1643458062b873d435": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1649232532c177bf5c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "newsletter-1": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "wide_display": true,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Subscribe",
+        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "blog-posts-1": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "BLOG POSTS",
+        "blog_widget_select": "hot-tub-liverpool-blog",
+        "home_page_articles": 4,
+        "blog_tags": false,
+        "blog_author": false,
+        "read_time": false,
+        "blog_date": true,
+        "blog_comment_count": false,
+        "read_more_link": true,
+        "excerpt_display": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1649498575889751c4": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Untitled_design_22.png",
+        "pretext": "<p>HOT TUBS  |  SWIM SPAS  |  SAUNAS  |  HEATERS<\/p>",
+        "title": "LIVERPOOL'S BEST HOT TUB DEALS",
+        "subtitle": "<p><strong>Purchase before April 30th to claim a <\/strong><\/p><p><strong>FREE cover lifter worth £250!<\/strong><\/p>",
+        "button1": "SHOP AND SAVE",
+        "button1_link": "shopify:\/\/collections\/all-hot-tubs",
+        "button1_style": "global-button--banner-highlighted",
+        "button2": "CONTACT US TODAY",
+        "button2_link": "shopify:\/\/pages\/standard-page9orh1",
+        "button2_style": "global-button--banner-highlighted",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "translucent_text_box",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "166083312657cf8fbd": {
+      "type": "contact-form",
+      "blocks": {
+        "1660833126b0500bae-0": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Name",
+            "required": true,
+            "field_type": "text"
+          }
+        },
+        "1660833126b0500bae-1": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Email",
+            "required": true,
+            "field_type": "email"
+          }
+        },
+        "12a6a7ad-2f54-4bca-be73-eb9e881bc85c": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Phone Number*",
+            "required": true,
+            "field_type": "text"
+          }
+        },
+        "1660833126b0500bae-2": {
+          "type": "richtext",
+          "settings": {
+            "label": "",
+            "placeholder": "Message",
+            "required": false,
+            "field_type": "textarea"
+          }
+        },
+        "06783709-68cf-465f-81ce-7fe43610169c": {
+          "type": "image",
+          "settings": {
+            "logo_display_width": 150,
+            "text": "<p>One of our Hot Tub specialists will be in contact with you shortly. <\/p><p><\/p><p>If you can't wait until then, then give us a call on,<\/p><p>0151 662 0284<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1660833126b0500bae-0",
+        "1660833126b0500bae-1",
+        "12a6a7ad-2f54-4bca-be73-eb9e881bc85c",
+        "1660833126b0500bae-2",
+        "06783709-68cf-465f-81ce-7fe43610169c"
+      ],
+      "settings": {
+        "contact_image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-18_at_3.37.31_PM.jpg",
+        "contact_heading": "COME AND TRY OUR TUBS & SPAS",
+        "contact_subheading": "",
+        "contact_content": "",
+        "contact_text_position": "left",
+        "contact_text_alignment": "left",
+        "contact_social_buttons": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "image-with-text-overlay-1",
+    "165088639347214fec",
+    "1649232669f42ce396",
+    "featured-promotions-1",
+    "featured-collection-1",
+    "165251959840670fa9",
+    "1648814852d5f63a0f",
+    "16567529372a509c29",
+    "16557989609c7bd209",
+    "1648893199b346c6b6",
+    "1648893335cb24ca6a",
+    "featured-text-1",
+    "image-text-1",
+    "164345790861379e91",
+    "164578899517fc3245",
+    "16494063898a7f3649",
+    "slideshow-1",
+    "testimonials-1",
+    "1643460557c49dc9db",
+    "1643458062b873d435",
+    "1649232532c177bf5c",
+    "newsletter-1",
+    "blog-posts-1",
+    "1649498575889751c4",
+    "166083312657cf8fbd"
+  ]
+}
