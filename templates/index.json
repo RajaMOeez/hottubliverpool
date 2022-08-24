@@ -119,7 +119,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x_dcfe06db-ccff-4687-91d6-0613e3c98c76.jpg",
             "link": "https:\/\/hottubliverpool.com\/collections\/hot-tub-servicing",
-            "title": "Services",
+            "title": "SERVICES",
             "text": "<p>BOOK A PROFESSIONAL SERVICE!<\/p>",
             "button_label": "Book Now"
           }
@@ -130,8 +130,8 @@
             "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x3_3fff1c01-38b9-4900-b4f0-bc40f7bb2769.jpg",
             "link": "",
             "title": "CHEMICALS",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
+            "text": "<p>VIEW OUR RANGE OF HIGH QUALITY CHEMICALS<\/p>",
+            "button_label": "BUY NOW"
           }
         }
       },
