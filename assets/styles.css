@@ -14443,9 +14443,17 @@ h2 {
   content: "";
   color: #ffffff;
 }
+.icon {
+  display: inline-block !important;
+  width: 1em !important;
+  height: 1em !important;
+  stroke-width: 0 !important;
+  stroke: currentColor !important;
+  fill: currentColor !important;
+}
 
 .icon-user:before {
-  content: "\e80c";
+  content: "\e971";
 }
 
 .icon-facebook:before {
