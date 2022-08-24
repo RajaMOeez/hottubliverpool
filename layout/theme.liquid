@@ -250,13 +250,8 @@
     <script type="lazyload2"   data-src="{{ 'utilities.js' | asset_url }}" defer></script>
     <script type="lazyload2"   data-src="{{ 'app.js' | asset_url }}" defer></script>
    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/solid.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    {% if settings.disqus_enabled %}
-    {% if template contains "blog" or template contains "article" or template contains "index" %}
-    <script id="dsq-count-scr" type="lazyload2"   data-src="//{{ settings.disqus_shortname }}.disqus.com/count.js" async></script>
-    {% endif %}
-    {% endif %}
 
     {% unless settings.performance == "sport" or template contains "customer" %}
     <script type="lazyload2"   data-src="{{ 'instantclick.min.js' | asset_url }}" data-no-instant defer></script>
