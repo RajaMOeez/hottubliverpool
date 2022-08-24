@@ -99,7 +99,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2022-08-05_at_14.03.22.png",
             "link": "shopify:\/\/collections\/holiday-let-eco-hot-tubs",
-            "title": "HOLIDAY LET",
+            "title": "HOLIDAY LET TUBS",
             "text": "<p>EXPLORE OUR RANGE OF HSG282 HOLIDAY LET TUBS<\/p>",
             "button_label": "VIEW ALL"
           }
@@ -116,12 +116,12 @@
         },
         "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "link": "",
-            "title": "Feature",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
+            "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x_dcfe06db-ccff-4687-91d6-0613e3c98c76.jpg",
+            "link": "https:\/\/hottubliverpool.com\/collections\/hot-tub-servicing",
+            "title": "Services",
+            "text": "<p>Book a professional service.<\/p>",
+            "button_label": "Book Now"
           }
         }
       },
