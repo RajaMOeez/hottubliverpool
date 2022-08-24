@@ -90,7 +90,7 @@
             "image": "shopify:\/\/shop_images\/hot_tub_2Capture.png",
             "link": "shopify:\/\/collections\/swim-spas",
             "title": "SWIM SPAS",
-            "text": "<p>EXLPRE OUR RANGE OF SWIM SPAS<\/p>",
+            "text": "<p>EXLPORE OUR RANGE OF SWIM SPAS<\/p>",
             "button_label": "VIEW ALL"
           }
         },
@@ -99,7 +99,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2022-08-05_at_14.03.22.png",
             "link": "shopify:\/\/collections\/holiday-let-eco-hot-tubs",
-            "title": "HOLIDAY LET",
+            "title": "HOLIDAY LET TUBS",
             "text": "<p>EXPLORE OUR RANGE OF HSG282 HOLIDAY LET TUBS<\/p>",
             "button_label": "VIEW ALL"
           }
@@ -114,14 +114,44 @@
             "button_label": "VIEW ALL"
           }
         },
+        "1e7edc95-e855-499a-82d5-8bb912fe3830": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x3_3fff1c01-38b9-4900-b4f0-bc40f7bb2769.jpg",
+            "link": "shopify:\/\/collections\/chemicals",
+            "title": "CHEMICALS",
+            "text": "<p>View our range of high quality chemicals.<\/p>",
+            "button_label": "BUY NOW"
+          }
+        },
         "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "link": "",
-            "title": "Feature",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
+            "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x_dcfe06db-ccff-4687-91d6-0613e3c98c76.jpg",
+            "link": "https:\/\/hottubliverpool.com\/collections\/hot-tub-servicing",
+            "title": "SERVICES",
+            "text": "<p>Book a professional Service<\/p>",
+            "button_label": "BOOK NOW"
+          }
+        },
+        "b4a17900-e18b-4598-8b07-ab3819d0eebf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600xERGERGE.png",
+            "link": "https:\/\/hottubliverpool.com\/products\/hot-tub-relocations-liverpool-wirral-merseyside-chester-northwales-wigan-warrington-sthelens-widnes",
+            "title": "RELOCATIONS",
+            "text": "<p>BOOK A HOT TUB RELOCATION<\/p>",
+            "button_label": "BOOK NOW"
+          }
+        },
+        "3689bb95-e5bf-4237-bfcd-5419b4b635de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/repair.png",
+            "link": "https:\/\/hottubliverpool.com\/pages\/book-a-repair-our-of-warranty",
+            "title": "REPAIRS",
+            "text": "<p>Book a professsional hot tub repair from a trained engineer<\/p>",
+            "button_label": "BOOK NOW"
           }
         }
       },
@@ -130,7 +160,10 @@
         "block-2",
         "block-3",
         "block-4",
-        "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f"
+        "1e7edc95-e855-499a-82d5-8bb912fe3830",
+        "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f",
+        "b4a17900-e18b-4598-8b07-ab3819d0eebf",
+        "3689bb95-e5bf-4237-bfcd-5419b4b635de"
       ],
       "settings": {
         "wide_display": true,
@@ -192,6 +225,13 @@
             "image": "shopify:\/\/shop_images\/Untitled_design_2_05b362db-3d57-479d-a8dd-c400a4dfa680.png",
             "link": "https:\/\/geckoportal.com\/"
           }
+        },
+        "0b0e1e8a-3211-4204-b821-f5bb8e0bb5a1": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -199,7 +239,8 @@
         "9dc16e27-4fad-457f-93c8-a4684fec4f31",
         "1652519598b4d5785c-1",
         "1652519598b4d5785c-2",
-        "1652519598b4d5785c-3"
+        "1652519598b4d5785c-3",
+        "0b0e1e8a-3211-4204-b821-f5bb8e0bb5a1"
       ],
       "settings": {
         "title": "Accreditations",
