@@ -114,6 +114,16 @@
             "button_label": "VIEW ALL"
           }
         },
+        "1e7edc95-e855-499a-82d5-8bb912fe3830": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x3_3fff1c01-38b9-4900-b4f0-bc40f7bb2769.jpg",
+            "link": "shopify:\/\/collections\/chemicals",
+            "title": "CHEMICALS",
+            "text": "<p>View our range of high quality chemicals.<\/p>",
+            "button_label": "BUY NOW"
+          }
+        },
         "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f": {
           "type": "image",
           "settings": {
@@ -122,25 +132,6 @@
             "title": "SERVICES",
             "text": "<p>BOOK A PROFESSIONAL SERVICE!<\/p>",
             "button_label": "Book Now"
-          }
-        },
-        "1e7edc95-e855-499a-82d5-8bb912fe3830": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hot_tub_1Capture_600x3_3fff1c01-38b9-4900-b4f0-bc40f7bb2769.jpg",
-            "link": "shopify:\/\/collections\/chemicals",
-            "title": "CHEMICALS",
-            "text": "<p>VIEW OUR RANGE OF HIGH QUALITY CHEMICALS<\/p>",
-            "button_label": "BUY NOW"
-          }
-        },
-        "3689bb95-e5bf-4237-bfcd-5419b4b635de": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "Feature",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
           }
         },
         "b4a17900-e18b-4598-8b07-ab3819d0eebf": {
@@ -152,6 +143,15 @@
             "text": "<p>BOOK A HOT TUB RELOCATION<\/p>",
             "button_label": "Book Now"
           }
+        },
+        "3689bb95-e5bf-4237-bfcd-5419b4b635de": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "REPAIRS",
+            "text": "<p>Promotion description details.<\/p>",
+            "button_label": ""
+          }
         }
       },
       "block_order": [
@@ -159,10 +159,10 @@
         "block-2",
         "block-3",
         "block-4",
-        "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f",
         "1e7edc95-e855-499a-82d5-8bb912fe3830",
-        "3689bb95-e5bf-4237-bfcd-5419b4b635de",
-        "b4a17900-e18b-4598-8b07-ab3819d0eebf"
+        "4d487f0f-a9a7-46a1-b0ce-566cd6c2897f",
+        "b4a17900-e18b-4598-8b07-ab3819d0eebf",
+        "3689bb95-e5bf-4237-bfcd-5419b4b635de"
       ],
       "settings": {
         "wide_display": true,
