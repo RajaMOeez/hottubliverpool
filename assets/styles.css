@@ -14445,7 +14445,7 @@ h2 {
 }
 
 .icon-user:before {
-  content: "";
+  content: "\e80c";
 }
 
 .icon-facebook:before {
