@@ -141,16 +141,17 @@
             "link": "https:\/\/hottubliverpool.com\/products\/hot-tub-relocations-liverpool-wirral-merseyside-chester-northwales-wigan-warrington-sthelens-widnes",
             "title": "RELOCATIONS",
             "text": "<p>BOOK A HOT TUB RELOCATION<\/p>",
-            "button_label": "Book Now"
+            "button_label": "BOOK NOW"
           }
         },
         "3689bb95-e5bf-4237-bfcd-5419b4b635de": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/repair.png",
+            "link": "https:\/\/hottubliverpool.com\/pages\/book-a-repair-our-of-warranty",
             "title": "REPAIRS",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
+            "text": "<p>Book a professsional hot tub repair from a trained engineer<\/p>",
+            "button_label": "BOOK NOW"
           }
         }
       },
