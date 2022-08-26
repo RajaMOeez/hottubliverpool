@@ -4,7 +4,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "wide_display": true,
-        "image": "shopify:\/\/shop_images\/hot_tub_4_7e215a66-ce6c-4a46-9e5e-7691e015cd0c.png",
+        "image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px.jpg",
         "pretext": "",
         "title": "",
         "subtitle": "",
@@ -14,7 +14,7 @@
         "button2": "CONTACT US",
         "button2_link": "{{ shop.brand.favicon_url }}",
         "button2_style": "global-button--banner-highlighted",
-        "text_position": "right",
+        "text_position": "center",
         "text_align": "right",
         "caption_content_background": "original",
         "mobile_image": "shopify:\/\/shop_images\/hot_tub.png",
