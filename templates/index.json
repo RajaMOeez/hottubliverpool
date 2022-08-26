@@ -14,7 +14,7 @@
         "button2": "CONTACT US",
         "button2_link": "{{ shop.brand.favicon_url }}",
         "button2_style": "global-button--banner-highlighted",
-        "text_position": "center",
+        "text_position": "right",
         "text_align": "right",
         "caption_content_background": "original",
         "mobile_image": "shopify:\/\/shop_images\/hot_tub.png",
