@@ -789,9 +789,9 @@
     "1649498575889751c4": {
       "type": "image-with-text-overlay",
       "settings": {
-        "wide_display": true,
-        "image": "shopify:\/\/shop_images\/Untitled_design_22.png",
-        "pretext": "<p>HOT TUBS  |  SWIM SPAS  |  SAUNAS  |  HEATERS<\/p>",
+        "wide_display": false,
+        "image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_10.png",
+        "pretext": "<p>HOT TUBS  |  SWIM SPAS<\/p>",
         "title": "LIVERPOOL'S BEST HOT TUB DEALS",
         "subtitle": "",
         "button1": "SHOP AND SAVE",
