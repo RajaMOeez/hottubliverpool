@@ -452,6 +452,15 @@
         "custom_css": ""
       }
     },
+    "1649232532c177bf5c": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "slideshow-1": {
       "type": "slideshow",
       "disabled": true,
@@ -746,15 +755,6 @@
         "custom_css": ""
       }
     },
-    "1649232532c177bf5c": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 0,
-        "divider_border": false,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "newsletter-1": {
       "type": "newsletter",
       "disabled": true,
@@ -894,11 +894,11 @@
     "164345790861379e91",
     "164578899517fc3245",
     "16494063898a7f3649",
+    "1649232532c177bf5c",
     "slideshow-1",
     "testimonials-1",
     "1643460557c49dc9db",
     "1643458062b873d435",
-    "1649232532c177bf5c",
     "newsletter-1",
     "blog-posts-1",
     "1649498575889751c4",
