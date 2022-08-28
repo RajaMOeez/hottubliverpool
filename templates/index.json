@@ -320,8 +320,8 @@
     "featured-text-1": {
       "type": "featured-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min.jpg",
+        "image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min_1200x_c6529e7c-7a7a-4a7e-b2d2-a1bf2cdadd8c.png",
+        "mobile_image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min_1200x_c6529e7c-7a7a-4a7e-b2d2-a1bf2cdadd8c.png",
         "title": "HOT TUBS FROM £3495",
         "content": "<p>Explore our range of stunning <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" title=\"Hot Tubs For Sale in Liverpool\">hot tubs<\/a>, starting from just £3495.<\/p><p>Our collection of spas includes everything from 3-seater small hot tubs all the way up to 8 seater giant family hot tubs - so you can be sure to find the ideal hot tub for you and your garden in our collection.<\/p><p>You can order your new hot tub online, via phone or by visiting our showroom in Liverpool.<\/p>",
         "button_label": "Explore our hot tubs",
@@ -444,6 +444,15 @@
       }
     },
     "16494063898a7f3649": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1649232532c177bf5c": {
       "type": "divider",
       "settings": {
         "divider_spacing": 0,
@@ -746,15 +755,6 @@
         "custom_css": ""
       }
     },
-    "1649232532c177bf5c": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 0,
-        "divider_border": false,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "newsletter-1": {
       "type": "newsletter",
       "disabled": true,
@@ -789,11 +789,11 @@
     "1649498575889751c4": {
       "type": "image-with-text-overlay",
       "settings": {
-        "wide_display": true,
-        "image": "shopify:\/\/shop_images\/Untitled_design_22.png",
-        "pretext": "<p>HOT TUBS  |  SWIM SPAS  |  SAUNAS  |  HEATERS<\/p>",
+        "wide_display": false,
+        "image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_10.png",
+        "pretext": "<p>HOT TUBS  |  SWIM SPAS<\/p>",
         "title": "LIVERPOOL'S BEST HOT TUB DEALS",
-        "subtitle": "<p><strong>Purchase before April 30th to claim a <\/strong><\/p><p><strong>FREE cover lifter worth £250!<\/strong><\/p>",
+        "subtitle": "",
         "button1": "SHOP AND SAVE",
         "button1_link": "shopify:\/\/collections\/all-hot-tubs",
         "button1_style": "global-button--banner-highlighted",
@@ -894,11 +894,11 @@
     "164345790861379e91",
     "164578899517fc3245",
     "16494063898a7f3649",
+    "1649232532c177bf5c",
     "slideshow-1",
     "testimonials-1",
     "1643460557c49dc9db",
     "1643458062b873d435",
-    "1649232532c177bf5c",
     "newsletter-1",
     "blog-posts-1",
     "1649498575889751c4",
