@@ -110,6 +110,9 @@
             js-caption
           "
         >
+        <div class="row_c">
+          <div class="column_c"></div>
+          <div class="column_c">
           <div class="caption-content align-{{ section.settings.text_align }}">
             {% if  section.settings.pretext != blank %}
               <div class="pretext">
@@ -142,11 +145,27 @@
               object_selector: object_selector,
             %}
           </div>
+          </div>
+        </div>
         </div>
       {% endunless %}
     </div>
   </div>
 </section>
+
+<style>
+  .column_c {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row_c:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
 {% schema %}
 {
