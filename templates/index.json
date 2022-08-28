@@ -14,7 +14,7 @@
         "button2": "CONTACT US",
         "button2_link": "{{ shop.brand.favicon_url }}",
         "button2_style": "global-button--banner-highlighted",
-        "text_position": "center",
+        "text_position": "right",
         "text_align": "center",
         "caption_content_background": "original",
         "mobile_image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px_9.png",
