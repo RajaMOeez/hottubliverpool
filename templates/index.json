@@ -755,20 +755,6 @@
         "custom_css": ""
       }
     },
-    "newsletter-1": {
-      "type": "newsletter",
-      "disabled": true,
-      "settings": {
-        "wide_display": true,
-        "display_first_name": false,
-        "display_last_name": false,
-        "newsletter_title": "Subscribe",
-        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
-        "newsletter_section_text_align": "center",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "blog-posts-1": {
       "type": "blog-posts",
       "settings": {
@@ -899,7 +885,6 @@
     "testimonials-1",
     "1643460557c49dc9db",
     "1643458062b873d435",
-    "newsletter-1",
     "blog-posts-1",
     "1649498575889751c4",
     "166083312657cf8fbd"
