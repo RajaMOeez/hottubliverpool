@@ -861,6 +861,30 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1661933070d00b0e7b": {
+      "type": "image-with-overlay-text-custom",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "BUY TODAY",
+        "button1_link": "https:\/\/hottubliverpool.com\/collections\/rexener-finnish-wooden-hot-tubs",
+        "button1_style": "global-button--banner-highlighted",
+        "button2": "Contact Us",
+        "button2_link": "shopify:\/\/pages\/contact-us",
+        "button2_style": "global-button--banner-highlighted",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -887,6 +911,7 @@
     "1643458062b873d435",
     "blog-posts-1",
     "1649498575889751c4",
-    "166083312657cf8fbd"
+    "166083312657cf8fbd",
+    "1661933070d00b0e7b"
   ]
 }
