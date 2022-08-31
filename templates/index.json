@@ -22,7 +22,7 @@
         "mobile_text_below_image": true,
         "mobile_text_color": "#484c4e",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "@media (min-width: 1025px) and (max-width: 4096px) {\n    \n\n  .column_cb {\n  float: right;\n  width: 65%;\n  padding-top: 40px;\n}\n.column_ct {\n  float: left;\n  width: 20%;\n}\n\n\/* Clear floats after the columns *\/\n.row_c:after {\n  content: \"\";\n  display: table;\n  clear: both;\n}\n}"
       }
     },
     "165088639347214fec": {
