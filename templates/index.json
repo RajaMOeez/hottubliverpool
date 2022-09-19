@@ -124,7 +124,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/hot_tub_4Capture.png",
-            "link": "shopify:\/\/collections\/infrared-heaters",
+            "link": "shopify:\/\/collections\/diesel-powered-infrared-heaters",
             "title": "ECO HEATERS",
             "text": "<p>EXPLORE OUR RANGE OF DIESEL ECO HEATERS<\/p>",
             "button_label": "VIEW ALL"
@@ -325,7 +325,7 @@
       "settings": {
         "title": "Eco Heaters",
         "collection_description": false,
-        "collection": "infrared-heaters",
+        "collection": "diesel-powered-infrared-heaters",
         "collection_style": "grid",
         "products_per": 3,
         "products_limit": 3,
