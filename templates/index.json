@@ -182,7 +182,7 @@
         "3689bb95-e5bf-4237-bfcd-5419b4b635de"
       ],
       "settings": {
-        "wide_display": true,
+        "wide_display": false,
         "promo_text_on_image_enabled": true,
         "featured_promos_per_row": 4,
         "featured_links_animation": "fadeInDown",
@@ -203,15 +203,6 @@
     "1663872290fa1a2997": {
       "type": "featured-promotions",
       "blocks": {
-        "166387229076cf8c19-0": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "Feature",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
-          }
-        },
         "166387229076cf8c19-1": {
           "type": "image",
           "settings": {
@@ -232,7 +223,6 @@
         }
       },
       "block_order": [
-        "166387229076cf8c19-0",
         "166387229076cf8c19-1",
         "166387229076cf8c19-2"
       ],
