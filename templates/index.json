@@ -202,6 +202,7 @@
     },
     "1663872290fa1a2997": {
       "type": "featured-promotions",
+      "disabled": true,
       "blocks": {
         "166387229076cf8c19-1": {
           "type": "image",
