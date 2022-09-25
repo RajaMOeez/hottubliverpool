@@ -480,31 +480,6 @@
         "custom_css": ""
       }
     },
-    "164578899517fc3245": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "wide_display": true,
-        "image": "shopify:\/\/shop_images\/MapCapture.png",
-        "pretext": "",
-        "title": "",
-        "subtitle": "",
-        "button1": "Get Directions",
-        "button1_link": "https:\/\/www.google.com\/maps\/dir\/\/Hot+Tubs+Liverpool+-+Merseyside+Hot+Tub+Sales+Showroom+15+Summers+Rd+Liverpool+L3+4BL+United+Kingdom\/@53.3847436,-2.9806539,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x487b211f4bd8e5a7:0x49e8a85c84672a55!2m2!1d-2.9806539!2d53.3847436",
-        "button1_style": "global-button--primary",
-        "button2": "",
-        "button2_link": "",
-        "button2_style": "global-button--banner",
-        "text_position": "left",
-        "text_align": "left",
-        "caption_content_background": "original",
-        "mobile_image_crop": "none",
-        "mobile_text_below_image": false,
-        "mobile_text_color": "",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "1649232532c177bf5c": {
       "type": "divider",
       "settings": {
@@ -914,6 +889,38 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1664139280f088e03f": {
+      "type": "video",
+      "settings": {
+        "wide_display": true,
+        "aspect_ratio": "16:9",
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": true,
+        "iframe_video": "https:\/\/www.youtube.com\/watch?v=kItcc2Wytyg",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "Play Video",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "shopify:\/\/collections\/all-hot-tubs",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -933,7 +940,6 @@
     "featured-text-1",
     "image-text-1",
     "164345790861379e91",
-    "164578899517fc3245",
     "1649232532c177bf5c",
     "slideshow-1",
     "testimonials-1",
@@ -941,6 +947,7 @@
     "1643458062b873d435",
     "blog-posts-1",
     "1649498575889751c4",
-    "166083312657cf8fbd"
+    "166083312657cf8fbd",
+    "1664139280f088e03f"
   ]
 }
