@@ -200,52 +200,15 @@
         "custom_css": ""
       }
     },
-    "1663872290fa1a2997": {
-      "type": "featured-promotions",
-      "disabled": true,
-      "blocks": {
-        "166387229076cf8c19-1": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "Feature",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
-          }
-        },
-        "166387229076cf8c19-2": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "title": "Feature",
-            "text": "<p>Promotion description details.<\/p>",
-            "button_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "166387229076cf8c19-1",
-        "166387229076cf8c19-2"
-      ],
-      "settings": {
-        "wide_display": true,
-        "promo_text_on_image_enabled": true,
-        "featured_promos_per_row": 4,
-        "featured_links_animation": "fadeInDown",
-        "feature_style": "square",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "featured-collection-1": {
+    "1664140034a35d2a52": {
       "type": "featured-collection",
       "settings": {
-        "title": "HOT TUBS TO SUIT EVERYONE",
+        "title": "Official Jacuzzi Hot Tubs",
         "collection_description": false,
-        "collection": "all-hot-tubs",
+        "collection": "official-jacuzzi-hot-tubs",
         "collection_style": "grid",
         "products_per": 3,
-        "products_limit": 50,
+        "products_limit": 9,
         "css_class": "",
         "custom_css": ""
       }
@@ -278,6 +241,19 @@
         "mobile_image_crop": "none",
         "mobile_text_below_image": true,
         "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "featured-collection-1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HOT TUBS TO SUIT EVERYONE",
+        "collection_description": false,
+        "collection": "all-hot-tubs",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 50,
         "css_class": "",
         "custom_css": ""
       }
@@ -365,20 +341,6 @@
         "collection_style": "grid",
         "products_per": 3,
         "products_limit": 9,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "16557989609c7bd209": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Air Conditioners",
-        "collection_description": false,
-        "collection": "airrex-air-conditioners",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 3,
         "css_class": "",
         "custom_css": ""
       }
@@ -921,6 +883,18 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1664139285d202244f": {
+      "type": "featured-promotions",
+      "settings": {
+        "wide_display": true,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -929,13 +903,12 @@
     "165088639347214fec",
     "featured-promotions-1",
     "16494063898a7f3649",
-    "1663872290fa1a2997",
-    "featured-collection-1",
+    "1664140034a35d2a52",
     "1664139280f088e03f",
+    "featured-collection-1",
     "165251959840670fa9",
     "1648814852d5f63a0f",
     "16567529372a509c29",
-    "16557989609c7bd209",
     "1648893199b346c6b6",
     "1648893335cb24ca6a",
     "featured-text-1",
@@ -948,6 +921,7 @@
     "1643458062b873d435",
     "blog-posts-1",
     "1649498575889751c4",
-    "166083312657cf8fbd"
+    "166083312657cf8fbd",
+    "1664139285d202244f"
   ]
 }
