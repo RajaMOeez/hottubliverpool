@@ -237,6 +237,38 @@
         "custom_css": ""
       }
     },
+    "1664139280f088e03f": {
+      "type": "video",
+      "settings": {
+        "wide_display": true,
+        "aspect_ratio": "16:9",
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": true,
+        "iframe_video": "https:\/\/www.youtube.com\/watch?v=LnymrHYnQ-I",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "Play Video",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "shopify:\/\/collections\/all-hot-tubs",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "featured-collection-1": {
       "type": "featured-collection",
       "settings": {
@@ -889,38 +921,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "1664139280f088e03f": {
-      "type": "video",
-      "settings": {
-        "wide_display": true,
-        "aspect_ratio": "16:9",
-        "autoplay": true,
-        "autoloop": true,
-        "mute_video": false,
-        "show_controls": true,
-        "video_dark_overlay": true,
-        "iframe_video": "https:\/\/www.youtube.com\/watch?v=LnymrHYnQ-I",
-        "html5_video": "",
-        "display_text_over_video": false,
-        "preheading": "",
-        "heading": "",
-        "subheading": "",
-        "button1_label": "Play Video",
-        "button1_link": "",
-        "button1_style": "global-button--banner",
-        "button2_label": "",
-        "button2_link": "shopify:\/\/collections\/all-hot-tubs",
-        "button2_style": "global-button--banner",
-        "text_position": "center",
-        "text_align": "center",
-        "caption_content_background": "original",
-        "mobile_image_crop": "none",
-        "mobile_text_below_image": true,
-        "mobile_text_color": "",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
@@ -930,6 +930,7 @@
     "featured-promotions-1",
     "16494063898a7f3649",
     "1663872290fa1a2997",
+    "1664139280f088e03f",
     "featured-collection-1",
     "165251959840670fa9",
     "1648814852d5f63a0f",
@@ -947,7 +948,6 @@
     "1643458062b873d435",
     "blog-posts-1",
     "1649498575889751c4",
-    "166083312657cf8fbd",
-    "1664139280f088e03f"
+    "166083312657cf8fbd"
   ]
 }
