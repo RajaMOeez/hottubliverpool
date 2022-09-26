@@ -1,7 +1,33 @@
 {
   "sections": {
+    "1661933070d00b0e7b": {
+      "type": "image-with-overlay-text-custom",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/GLAMPING_SHOW_1.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "EXPLORE",
+        "button1_link": "shopify:\/\/collections\/official-jacuzzi-hot-tubs",
+        "button1_style": "global-button--primary",
+        "button2": "CONTACT US",
+        "button2_link": "shopify:\/\/pages\/contact-us",
+        "button2_style": "global-button--banner-highlighted",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image": "shopify:\/\/shop_images\/GLAMPING_SHOW_1.jpg",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "image-with-text-overlay-1": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "wide_display": true,
         "image": "shopify:\/\/shop_images\/Untitled_1800_x_800px_1800_x_900px.jpg",
@@ -61,16 +87,6 @@
         "custom_css": ""
       }
     },
-    "1649232669f42ce396": {
-      "type": "divider",
-      "disabled": true,
-      "settings": {
-        "divider_spacing": 0,
-        "divider_border": false,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "featured-promotions-1": {
       "type": "featured-promotions",
       "blocks": {
@@ -108,7 +124,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/hot_tub_4Capture.png",
-            "link": "shopify:\/\/collections\/infrared-heaters",
+            "link": "shopify:\/\/collections\/diesel-powered-infrared-heaters",
             "title": "ECO HEATERS",
             "text": "<p>EXPLORE OUR RANGE OF DIESEL ECO HEATERS<\/p>",
             "button_label": "VIEW ALL"
@@ -166,11 +182,65 @@
         "3689bb95-e5bf-4237-bfcd-5419b4b635de"
       ],
       "settings": {
-        "wide_display": true,
+        "wide_display": false,
         "promo_text_on_image_enabled": true,
         "featured_promos_per_row": 4,
         "featured_links_animation": "fadeInDown",
         "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16494063898a7f3649": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 0,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1664140034a35d2a52": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Official Jacuzzi Hot Tubs",
+        "collection_description": false,
+        "collection": "official-jacuzzi-hot-tubs",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 9,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1664139280f088e03f": {
+      "type": "video",
+      "settings": {
+        "wide_display": true,
+        "aspect_ratio": "16:9",
+        "autoplay": true,
+        "autoloop": true,
+        "mute_video": false,
+        "show_controls": true,
+        "video_dark_overlay": true,
+        "iframe_video": "https:\/\/www.youtube.com\/watch?v=LnymrHYnQ-I",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "",
+        "subheading": "",
+        "button1_label": "Play Video",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "shopify:\/\/collections\/all-hot-tubs",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
         "css_class": "",
         "custom_css": ""
       }
@@ -183,7 +253,7 @@
         "collection": "all-hot-tubs",
         "collection_style": "grid",
         "products_per": 3,
-        "products_limit": 50,
+        "products_limit": 15,
         "css_class": "",
         "custom_css": ""
       }
@@ -275,20 +345,6 @@
         "custom_css": ""
       }
     },
-    "16557989609c7bd209": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Air Conditioners",
-        "collection_description": false,
-        "collection": "airrex-air-conditioners",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 3,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "1648893199b346c6b6": {
       "type": "featured-collection",
       "disabled": true,
@@ -309,7 +365,7 @@
       "settings": {
         "title": "Eco Heaters",
         "collection_description": false,
-        "collection": "infrared-heaters",
+        "collection": "diesel-powered-infrared-heaters",
         "collection_style": "grid",
         "products_per": 3,
         "products_limit": 3,
@@ -320,8 +376,8 @@
     "featured-text-1": {
       "type": "featured-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min_1200x_c6529e7c-7a7a-4a7e-b2d2-a1bf2cdadd8c.png",
-        "mobile_image": "shopify:\/\/shop_images\/hot-tubs-liverpool-min_1200x_c6529e7c-7a7a-4a7e-b2d2-a1bf2cdadd8c.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_188ab2eb-09e8-4f69-9c69-f116e773b87e.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled_design_1_188ab2eb-09e8-4f69-9c69-f116e773b87e.jpg",
         "title": "HOT TUBS FROM £3495",
         "content": "<p>Explore our range of stunning <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" title=\"Hot Tubs For Sale in Liverpool\">hot tubs<\/a>, starting from just £3495.<\/p><p>Our collection of spas includes everything from 3-seater small hot tubs all the way up to 8 seater giant family hot tubs - so you can be sure to find the ideal hot tub for you and your garden in our collection.<\/p><p>You can order your new hot tub online, via phone or by visiting our showroom in Liverpool.<\/p>",
         "button_label": "Explore our hot tubs",
@@ -341,8 +397,8 @@
             "image": "shopify:\/\/shop_images\/20220820_104504.jpg",
             "image_crop": "none",
             "title": "OUR SHOWROOM",
-            "text": "<p>At our hot tub showroom in Liverpool, we supply a range of fantastic <a href=\"https:\/\/hottubliverpool.com\/collections\/all-hot-tubs\" target=\"_blank\">hot tubs<\/a> and swim spas covering Merseyside, Cheshire, and North Wales.<br\/><\/p><p>With almost two decades in the wellness industry, you can rest assured that we not only provide premium quality hot tubs but also exceptional aftercare service.<\/p><p><\/p>",
-            "button_label": "Contact Us",
+            "text": "<p>We are proud to be an official Jacuzzi partner who not only created the hot tub but also manufactures some of the best hot tubs in the world.<\/p><p>With almost two decades in the industry, you can rest assure we will deliver quality products and exceptional aftercare to all our customers.<\/p>",
+            "button_label": "",
             "link": "shopify:\/\/pages\/standard-page9orh1",
             "bg_color": "rgba(0,0,0,0)",
             "text_color": "#3e3939"
@@ -354,7 +410,7 @@
             "image": "shopify:\/\/shop_images\/Untitled_design_1.jpg",
             "image_crop": "left",
             "title": "FREE DELIVERY",
-            "text": "<p>At Hot Tub Liverpool we offer free deliveries to anyone within the 40 mile catchment area from our showroom.                                          <\/p><p>We will position your hot tub in your desired location, unwrap it and remove all waste packaging. We will wait with you whilst we fill up your hot tub and then provide hot tub maintenance and comprehensive water chemical training.<\/p>",
+            "text": "<p>At Hot Tub Liverpool we offer free diamond delivery to anyone within the 40 mile catchment area from our showroom.                                          <\/p><p>We will position your hot tub in your desired location, unwrap it and remove all waste packaging. We will wait with you whilst we fill up your hot tub and then provide hot tub maintenance and comprehensive water chemical training.<\/p>",
             "button_label": "Call us",
             "link": "shopify:\/\/pages\/standard-page9orh1",
             "bg_color": "rgba(0,0,0,0)",
@@ -414,40 +470,6 @@
         "api_key": "",
         "show_pin": true,
         "map_style": "retro",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "164578899517fc3245": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "wide_display": true,
-        "image": "shopify:\/\/shop_images\/MapCapture.png",
-        "pretext": "",
-        "title": "",
-        "subtitle": "",
-        "button1": "Get Directions",
-        "button1_link": "https:\/\/www.google.com\/maps\/dir\/\/Hot+Tubs+Liverpool+-+Merseyside+Hot+Tub+Sales+Showroom+15+Summers+Rd+Liverpool+L3+4BL+United+Kingdom\/@53.3847436,-2.9806539,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x487b211f4bd8e5a7:0x49e8a85c84672a55!2m2!1d-2.9806539!2d53.3847436",
-        "button1_style": "global-button--primary",
-        "button2": "",
-        "button2_link": "",
-        "button2_style": "global-button--banner",
-        "text_position": "left",
-        "text_align": "left",
-        "caption_content_background": "original",
-        "mobile_image_crop": "none",
-        "mobile_text_below_image": false,
-        "mobile_text_color": "",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "16494063898a7f3649": {
-      "type": "divider",
-      "settings": {
-        "divider_spacing": 0,
-        "divider_border": false,
         "css_class": "",
         "custom_css": ""
       }
@@ -861,25 +883,37 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "1664139285d202244f": {
+      "type": "featured-promotions",
+      "settings": {
+        "wide_display": true,
+        "promo_text_on_image_enabled": true,
+        "featured_promos_per_row": 3,
+        "featured_links_animation": "fadeInDown",
+        "feature_style": "square",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
+    "1661933070d00b0e7b",
     "image-with-text-overlay-1",
     "165088639347214fec",
-    "1649232669f42ce396",
     "featured-promotions-1",
+    "16494063898a7f3649",
+    "1664140034a35d2a52",
+    "1664139280f088e03f",
     "featured-collection-1",
     "165251959840670fa9",
     "1648814852d5f63a0f",
     "16567529372a509c29",
-    "16557989609c7bd209",
     "1648893199b346c6b6",
     "1648893335cb24ca6a",
     "featured-text-1",
     "image-text-1",
     "164345790861379e91",
-    "164578899517fc3245",
-    "16494063898a7f3649",
     "1649232532c177bf5c",
     "slideshow-1",
     "testimonials-1",
@@ -887,6 +921,7 @@
     "1643458062b873d435",
     "blog-posts-1",
     "1649498575889751c4",
-    "166083312657cf8fbd"
+    "166083312657cf8fbd",
+    "1664139285d202244f"
   ]
 }
