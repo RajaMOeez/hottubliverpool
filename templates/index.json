@@ -258,6 +258,33 @@
         "custom_css": ""
       }
     },
+    "1648814852d5f63a0f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Swim Spas",
+        "collection_description": true,
+        "collection": "swim-spas",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16567529372a509c29": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "BBQ's",
+        "collection_description": false,
+        "collection": "bbqs-grilles",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 9,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "165251959840670fa9": {
       "type": "logo-bar",
       "blocks": {
@@ -314,33 +341,6 @@
       ],
       "settings": {
         "title": "Accreditations",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "1648814852d5f63a0f": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Swim Spas",
-        "collection_description": true,
-        "collection": "swim-spas",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 3,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "16567529372a509c29": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "BBQ's",
-        "collection_description": false,
-        "collection": "bbqs-grilles",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 9,
         "css_class": "",
         "custom_css": ""
       }
@@ -906,9 +906,9 @@
     "1664140034a35d2a52",
     "1664139280f088e03f",
     "featured-collection-1",
-    "165251959840670fa9",
     "1648814852d5f63a0f",
     "16567529372a509c29",
+    "165251959840670fa9",
     "1648893199b346c6b6",
     "1648893335cb24ca6a",
     "featured-text-1",
