@@ -208,7 +208,7 @@
         "collection": "official-jacuzzi-hot-tubs",
         "collection_style": "grid",
         "products_per": 3,
-        "products_limit": 11,
+        "products_limit": 12,
         "css_class": "",
         "custom_css": ""
       }
