@@ -322,7 +322,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Swim Spas",
-        "collection_description": false,
+        "collection_description": true,
         "collection": "swim-spas",
         "collection_style": "grid",
         "products_per": 3,
