@@ -253,7 +253,7 @@
         "collection": "all-hot-tubs",
         "collection_style": "grid",
         "products_per": 3,
-        "products_limit": 15,
+        "products_limit": 12,
         "css_class": "",
         "custom_css": ""
       }
