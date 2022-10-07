@@ -93,7 +93,7 @@
         "block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hot_tub_1Capture.png",
+            "image": "shopify:\/\/shop_images\/asdasda_copy.jpg",
             "link": "shopify:\/\/collections\/all-hot-tubs",
             "title": "HOT TUBS",
             "text": "<p>EXPLORE OUR RANGE OF HOT TUBS<\/p>",
@@ -103,7 +103,7 @@
         "block-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hot_tub_2Capture.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-08-05_at_14.03.22-Recovered.jpg",
             "link": "shopify:\/\/collections\/swim-spas",
             "title": "SWIM SPAS",
             "text": "<p>EXLPORE OUR RANGE OF SWIM SPAS<\/p>",
@@ -208,7 +208,7 @@
         "collection": "official-jacuzzi-hot-tubs",
         "collection_style": "grid",
         "products_per": 3,
-        "products_limit": 9,
+        "products_limit": 12,
         "css_class": "",
         "custom_css": ""
       }
@@ -220,8 +220,8 @@
         "aspect_ratio": "16:9",
         "autoplay": true,
         "autoloop": true,
-        "mute_video": false,
-        "show_controls": true,
+        "mute_video": true,
+        "show_controls": false,
         "video_dark_overlay": true,
         "iframe_video": "https:\/\/www.youtube.com\/watch?v=LnymrHYnQ-I",
         "html5_video": "",
@@ -253,7 +253,34 @@
         "collection": "all-hot-tubs",
         "collection_style": "grid",
         "products_per": 3,
-        "products_limit": 15,
+        "products_limit": 12,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648814852d5f63a0f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Swim Spas",
+        "collection_description": true,
+        "collection": "swim-spas",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16567529372a509c29": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "BBQ's",
+        "collection_description": false,
+        "collection": "bbqs-grilles",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 9,
         "css_class": "",
         "custom_css": ""
       }
@@ -314,33 +341,6 @@
       ],
       "settings": {
         "title": "Accreditations",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "1648814852d5f63a0f": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Swim Spas",
-        "collection_description": false,
-        "collection": "swim-spas",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 3,
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "16567529372a509c29": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "BBQ's",
-        "collection_description": false,
-        "collection": "bbqs-grilles",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 9,
         "css_class": "",
         "custom_css": ""
       }
@@ -906,9 +906,9 @@
     "1664140034a35d2a52",
     "1664139280f088e03f",
     "featured-collection-1",
-    "165251959840670fa9",
     "1648814852d5f63a0f",
     "16567529372a509c29",
+    "165251959840670fa9",
     "1648893199b346c6b6",
     "1648893335cb24ca6a",
     "featured-text-1",
