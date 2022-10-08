@@ -1,4 +1,4 @@
-{%- assign avada_seo_social_image = '' -%}
+{%- assign avada_seo_social_image = 'https://cdn.shopify.com/s/files/1/0539/2154/6425/files/logo_social_f321c096-efe3-4dce-9034-03e15b43565b.png?v=1660833604' -%}
 {%- assign avada_seo_site_name = 'Hot Tub Liverpool' | default: shop.name -%}
 
 {%- assign avada_seo_has_social_image = false -%}
@@ -111,21 +111,8 @@
     {%- assign og_product_availability = 'oos' -%}
   {%- endif -%}
   <meta property="product:availability" content="{{ og_product_availability }}">
-  
-
-{%comment%} pricelock_start_F15A9DB8 {% endcomment %}
-{% comment %} This is login to view price code. To remove it safely and quickly, run the uninstallation within the app itself. {% endcomment %}
-{% capture "pricelock_logic_F15A9DB8" %} {% render 'talon_pricelock_logic', product: product, item: item, qvp: qvp %} {% endcapture %}
-{% assign show_prices = pricelock_logic_F15A9DB8 | strip %}
-{% capture "pricelock_show_F15A9DB8" %}
-  
-<meta property="product:price:amount" content="{{ product.selected_or_first_available_variant.price | money_without_currency | strip_html }}">
-  
-
- {% endcapture %} {% if show_prices == 'true' %} {{ pricelock_show_F15A9DB8 }} {% else %}  {% endif %}
-{%comment%} pricelock_end_F15A9DB8 {% endcomment %}
-
-<meta property="product:price:currency" content="{{ cart.currency.iso_code }}">
+  <meta property="product:price:amount" content="{{ product.selected_or_first_available_variant.price | money_without_currency | strip_html }}">
+  <meta property="product:price:currency" content="{{ cart.currency.iso_code }}">
 {%- endif -%}
 {{ og_image_tags }}
 

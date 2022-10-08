@@ -4,10 +4,11 @@
 {% capture avada_structured_data %}
 
 {%- if request.page_type == 'product' -%}
+{%- assign avada_product_review = false -%}
 {
 "@context": "https://schema.org/",
 "@type": "Product",
-"@id": {{ canonical_url | json }},
+"@id": "{{ canonical_url | default product.id }}",
 "name": "{{ product.title | strip_html | strip_newlines | strip | escape }}",
 "description": "{{ product.description | strip_html | strip_newlines | strip | escape }}",
 "brand": {
@@ -16,20 +17,7 @@
 },
 "offers": {
   "@type": "Offer",
-
-
-{%comment%} pricelock_start_7AC995EE {% endcomment %}
-{% comment %} This is login to view price code. To remove it safely and quickly, run the uninstallation within the app itself. {% endcomment %}
-{% capture "pricelock_logic_7AC995EE" %} {% render 'talon_pricelock_logic', product: product, item: item, qvp: qvp %} {% endcapture %}
-{% assign show_prices = pricelock_logic_7AC995EE | strip %}
-{% capture "pricelock_show_7AC995EE" %}
-  
   "price": "{{ product.selected_or_first_available_variant.price | divided_by: 100.0 }}",
-
-
- {% endcapture %} {% if show_prices == 'true' %} {{ pricelock_show_7AC995EE }} {% else %}  {% endif %}
-{%comment%} pricelock_end_7AC995EE {% endcomment %}
-
   "priceCurrency": "{{ cart.currency.iso_code }}",
   "itemCondition": "https://schema.org/NewCondition",
   "availability": "https://schema.org/{%- if product.selected_or_first_available_variant.available -%}InStock{%- else -%}OutOfStock{%- endif -%}",
@@ -46,26 +34,13 @@
 "mpn": "{{ product.selected_or_first_available_variant.barcode | default: product.selected_or_first_available_variant.sku }}"
 {%- endif -%}
 
-{%- capture ssw_rich_snippet -%}{% render 'ssw-widget-avg-rate-rich', rich_snippet_type: 'json' %}{%- endcapture -%}
-{%- unless ssw_rich_snippet contains 'Liquid error' -%}
-{{ ssw_rich_snippet }}
-{%- endunless -%}
-{%- assign stamped = product.metafields.stamped -%}
-{%- if stamped.reviews_count and stamped.reviews_count != "0" -%}
-,
-"aggregateRating": {
- "@type": "AggregateRating",
- "ratingValue": {{ stamped.reviews_average | round:2 }},
- "reviewCount": {{ stamped.reviews_count }}
-}
-{%- endif -%}
-
 {%- assign ryviu = product.metafields.ryviu -%}
 {%- if ryviu -%}
   {%- assign aggregateRating = ryviu.product_reviews_info | split: ";" -%}
   {%- assign r_avg = aggregateRating[1] | plus: 0 -%}
   {%- assign r_count = aggregateRating[0] | plus: 0 -%}
-  {%- if r_count > 0 -%}
+  {%- if r_count > 0 and avada_product_review == false -%}
+  {%- assign avada_product_review = true -%}
 ,
 "aggregateRating": {
  "@type": "AggregateRating",
@@ -74,6 +49,26 @@
 }
   {%- endif -%}
 {%- endif -%}
+
+{%- capture ssw_rich_snippet -%}{% render 'ssw-widget-avg-rate-rich', rich_snippet_type: 'json' %}{%- endcapture -%}
+{%- unless ssw_rich_snippet contains 'Liquid error' -%}
+{%- if avada_product_review == false -%}
+{%- assign avada_product_review = true -%}
+{{ ssw_rich_snippet }}
+{%- endif -%}
+{%- endunless -%}
+
+{%- assign stamped = product.metafields.stamped -%}
+{%- if stamped.reviews_count and stamped.reviews_count != "0" and avada_product_review == false -%}
+{%- assign avada_product_review = true -%}
+,
+"aggregateRating": {
+ "@type": "AggregateRating",
+ "ratingValue": {{ stamped.reviews_average | round:2 }},
+ "reviewCount": {{ stamped.reviews_count }}
+}
+{%- endif -%}
+
 }
 {%- endif -%}
 
@@ -184,69 +179,101 @@
 </script>
 <!-- Added by AVADA SEO Suite -->
 {%- endif -%}
-{%- assign sameLinks = '' -%}
+  {%- assign sameLinks = '' -%}
 
-{%- if settings.social_twitter_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_twitter_link -%}
-{%- endif -%}
+  {%- if settings.social_twitter_link and settings.social_twitter_link != '' -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_twitter_link -%}
+  
+    {%- else -%}
+    {%- assign sameLinks = sameLinks | append: ':::' -%}
+    {%- assign sameLinks = sameLinks | append: 'https://twitter.com/hottubliverpoo1' -%}
+    
+  {%- endif -%}
 
-{%- if settings.social_facebook_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_facebook_link -%}
-{%- endif -%}
+  {%- if settings.social_facebook_link and settings.social_facebook_link != '' -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_facebook_link -%}
+  
+    {%- else -%}
+    {%- assign sameLinks = sameLinks | append: ':::' -%}
+    {%- assign sameLinks = sameLinks | append: 'https://www.facebook.com/hottubliverpool/' -%}
+    
+  {%- endif -%}
 
-{%- if settings.social_pinterest_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_pinterest_link -%}
-{%- endif -%}
+  {%- if settings.social_pinterest_link and settings.social_pinterest_link != '' -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_pinterest_link -%}
+  
+    {%- else -%}
+    {%- assign sameLinks = sameLinks | append: ':::' -%}
+    {%- assign sameLinks = sameLinks | append: 'https://www.instagram.com/hottubliverpool/' -%}
+    
+  {%- endif -%}
 
-{%- if settings.social_instagram_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_instagram_link -%}
-{%- endif -%}
+  {%- if settings.social_instagram_link and settings.social_instagram_link != '' -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_instagram_link -%}
+  
+  {%- endif -%}
 
-{%- if settings.social_tumblr_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_tumblr_link -%}
-{%- endif -%}
+  {%- if settings.social_tumblr_link and settings.social_tumblr_link != '' -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_tumblr_link -%}
+  
+  {%- endif -%}
 
-{%- if settings.social_snapchat_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_snapchat_link -%}
-{%- endif -%}
+  {%- if settings.social_snapchat_link -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_snapchat_link -%}
+  {%- endif -%}
 
-{%- if settings.social_youtube_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_youtube_link -%}
-{%- endif -%}
+  {%- if settings.social_youtube_link and settings.social_youtube_link != '' -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_youtube_link -%}
+  
+    {%- else -%}
+    {%- assign sameLinks = sameLinks | append: ':::' -%}
+    {%- assign sameLinks = sameLinks | append: 'https://www.youtube.com/c/HOTTUBLIVERPOOL' -%}
+    
+  {%- endif -%}
 
-{%- if settings.social_vimeo_link -%}
-{%- assign sameLinks = sameLinks | append: ':::' -%}
-{%- assign sameLinks = sameLinks | append: settings.social_vimeo_link -%}
-{%- endif -%}
+  {%- if settings.social_vimeo_link -%}
+  {%- assign sameLinks = sameLinks | append: ':::' -%}
+  {%- assign sameLinks = sameLinks | append: settings.social_vimeo_link -%}
+  {%- endif -%}
 
-{%- assign sameLinks = sameLinks | split: ':::' -%}
+  
+    
+    {%- assign sameLinks = sameLinks | append: ':::' -%}
+    {%- assign sameLinks = sameLinks | append: 'https://www.linkedin.com/company/hot-tub-liverpool/' -%}
+    
+  
+  
+  
+  
 
-{%- if request.page_type == 'index' -%}
-<!-- Added by AVADA SEO Suite: Organization Structured Data  -->
-<script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": {{ shop.name | json }},
-  "url": {{ shop.url | append: page.url | json }},
-  {% if settings.share_image and settings.share_image != "" -%}
-  {%- assign avada_seo_logo_size = settings.share_image.width | append: 'x' -%}
-  "logo": {{ settings.share_image | img_url: avada_seo_logo_size | prepend: "https:" | json }},
-  {% endif -%}
-  "sameAs": [
-    {% for sameLink in sameLinks -%}
-    {% if sameLink != '' -%}
-    {{ sameLink | json }}{%- if forloop.last == false -%},{% endif -%}
-    {%- endif -%}
-    {% endfor %}
-  ]
-}
-</script>
-<!-- Added by AVADA SEO Suite -->
-{%- endif -%}
+  {%- assign sameLinks = sameLinks | split: ':::' -%}
+
+  {%- if request.page_type == 'index' -%}
+  <!-- Added by AVADA SEO Suite: Organization Structured Data  -->
+  <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": {{ shop.name | json }},
+    "url": {{ shop.url | append: page.url | json }},
+    {% if settings.share_image and settings.share_image != "" -%}
+    {%- assign avada_seo_logo_size = settings.share_image.width | append: 'x' -%}
+    "logo": {{ settings.share_image | img_url: avada_seo_logo_size | prepend: "https:" | json }},
+    {% endif -%}
+    "sameAs": [
+      {% for sameLink in sameLinks -%}
+      {% if sameLink != '' -%}
+      {{ sameLink | json }}{%- if forloop.last == false -%},{% endif -%}
+      {%- endif -%}
+      {% endfor %}
+    ]
+  }
+  </script>
+  <!-- Added by AVADA SEO Suite -->
+  {%- endif -%}
