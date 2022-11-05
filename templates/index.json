@@ -13,7 +13,7 @@
         "button1_style": "global-button--primary",
         "button2": "",
         "button2_link": "shopify:\/\/pages\/contact-us",
-        "button2_style": "global-button--banner-highlighted",
+        "button2_style": "global-button--primary",
         "text_position": "center",
         "text_align": "center",
         "caption_content_background": "original",
