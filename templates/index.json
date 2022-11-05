@@ -10,7 +10,7 @@
         "subtitle": "<p>.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p>.<\/p><p>.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p>.<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p><p>.<\/p>",
         "button1": "Browse Now",
         "button1_link": "shopify:\/\/collections\/official-jacuzzi-hot-tubs",
-        "button1_style": "global-button--primary",
+        "button1_style": "global-button--banner-highlighted",
         "button2": "contact us",
         "button2_link": "shopify:\/\/pages\/contact-us",
         "button2_style": "global-button--primary",
