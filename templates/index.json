@@ -144,9 +144,9 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_55.png",
-            "link": "https:\/\/hottubliverpool.com\/collections\/hot-tub-servicing",
+            "link": "shopify:\/\/collections\/hot-tub-and-swim-spa-services-and-repairs-in-liverpool-wirral-and-merseyside",
             "title": "SERVICES & REPAIRS",
-            "text": "<p>SERVICE ON OFFER AT ONLY £249<\/p>",
+            "text": "<p>SERVICE YOUR HOT TUB WITH OUR WINTER OFFER ONLY £249<\/p>",
             "button_label": "BOOK NOW"
           }
         },
