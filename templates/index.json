@@ -213,6 +213,19 @@
         "custom_css": ""
       }
     },
+    "9c1abeb8-99ae-4817-b269-de86bc0a95a3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Family Fun Hot Tubs",
+        "collection_description": true,
+        "collection": "sun-and-soul-jacuzzi-hot-tubs",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 9,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "featured-collection-1": {
       "type": "featured-collection",
       "settings": {
@@ -811,19 +824,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "9c1abeb8-99ae-4817-b269-de86bc0a95a3": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Family Fun Hot Tubs",
-        "collection_description": true,
-        "collection": "sun-and-soul-jacuzzi-hot-tubs",
-        "collection_style": "grid",
-        "products_per": 3,
-        "products_limit": 9,
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
@@ -833,6 +833,7 @@
     "featured-promotions-1",
     "16494063898a7f3649",
     "1664140034a35d2a52",
+    "9c1abeb8-99ae-4817-b269-de86bc0a95a3",
     "featured-collection-1",
     "1664139280f088e03f",
     "1648814852d5f63a0f",
@@ -850,7 +851,6 @@
     "blog-posts-1",
     "1649498575889751c4",
     "166083312657cf8fbd",
-    "1664139285d202244f",
-    "9c1abeb8-99ae-4817-b269-de86bc0a95a3"
+    "1664139285d202244f"
   ]
 }
