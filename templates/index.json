@@ -623,90 +623,6 @@
         "custom_css": ""
       }
     },
-    "testimonials-1": {
-      "type": "testimonial",
-      "disabled": true,
-      "blocks": {
-        "block-1": {
-          "type": "image",
-          "settings": {
-            "title": "Testimonials",
-            "testimonial": "<p>\"Fantastic service, professional, efficient and informative, Mike, Claire and Dan could not have been more helpful. Hassle free installation and a full detailed explanation on the operation and maintenance of the hot tub, nothing was too much trouble, I would definitely recommend hot tub Liverpool.\"<\/p>",
-            "name": "Dave Smith",
-            "store_name": "",
-            "link": "",
-            "text_position": "center",
-            "text_align": "center",
-            "image": "shopify:\/\/shop_images\/Dave_Smith.jpg",
-            "mobile_image_crop": "center",
-            "caption_content_background": "translucent_text_box"
-          }
-        },
-        "block-2": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Testimonials",
-            "testimonial": "<p>\"Awesome! I cannot recommend Liverpool hot tubs enough! From moment we went in showroom Mike & Dan were so helpful 👍 we’d been to many HT shops and I’d been saving for months so I wasn’t going to buy from just anyone; but almost straight away we knew these guys were the ones to buy from! Never pushy but informative and super helpful… from start to finish and installing just dream team. <\/p>",
-            "name": "Oodabelle",
-            "store_name": "",
-            "link": "",
-            "text_position": "center",
-            "text_align": "center",
-            "image": "shopify:\/\/shop_images\/hot-tub-liverpool-min.png",
-            "mobile_image_crop": "center",
-            "caption_content_background": "translucent_text_box"
-          }
-        },
-        "block-3": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Testimonials",
-            "testimonial": "<p>The whole experience from choosing the hot tub to having it installed was effortless went like a dream.<\/p><p>Highly recommend this company.<\/p><p>The personal touch always works. Thanks.<\/p>",
-            "name": "Keren Dunn",
-            "store_name": "",
-            "link": "",
-            "text_position": "center",
-            "text_align": "center",
-            "image": "shopify:\/\/shop_images\/hot-tub-liverpool-min.png",
-            "mobile_image_crop": "none",
-            "caption_content_background": "translucent_text_box"
-          }
-        },
-        "e992d0bf-c1ea-475d-bc7f-78e765b727f8": {
-          "type": "image",
-          "settings": {
-            "title": "Testimonial",
-            "testimonial": "<p>\"Fantastic service from start to finish. Mike n Dan know exactly what they'r doing, very professional, down to earth, great guys. All was explained n nothing was too much trouble. Absolutely recommend using this company. Thank you.\"<\/p><p><\/p>",
-            "name": "Tracey Woodfine",
-            "store_name": "",
-            "link": "",
-            "text_position": "center",
-            "text_align": "center",
-            "image": "shopify:\/\/shop_images\/Tracey_Woodfine.jpg",
-            "mobile_image_crop": "none",
-            "caption_content_background": "translucent_text_box"
-          }
-        }
-      },
-      "block_order": [
-        "block-1",
-        "block-2",
-        "block-3",
-        "e992d0bf-c1ea-475d-bc7f-78e765b727f8"
-      ],
-      "settings": {
-        "wide_display": false,
-        "testimonial_text_animation": "fadeInDown",
-        "testimonial_speed": 6,
-        "activate_adaptiveHeight": false,
-        "mobile_text_below_image": true,
-        "mobile_text_color": "",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "1643460557c49dc9db": {
       "type": "logo-bar",
       "blocks": {
@@ -895,6 +811,19 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "9c1abeb8-99ae-4817-b269-de86bc0a95a3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Family Fun Hot Tubs",
+        "collection_description": true,
+        "collection": "sun-and-soul-jacuzzi-hot-tubs",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 9,
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -916,12 +845,12 @@
     "164345790861379e91",
     "1649232532c177bf5c",
     "slideshow-1",
-    "testimonials-1",
     "1643460557c49dc9db",
     "1643458062b873d435",
     "blog-posts-1",
     "1649498575889751c4",
     "166083312657cf8fbd",
-    "1664139285d202244f"
+    "1664139285d202244f",
+    "9c1abeb8-99ae-4817-b269-de86bc0a95a3"
   ]
 }
